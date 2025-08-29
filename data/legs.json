@@ -5,7 +5,30 @@
             "base": 2,
             "max": 16
         },
-        "name": "Green Pants",
+        "name": "Green Pants(LV1+)",
+        "rarity": 1,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "11": 2,
+            "24": 3,
+            "66": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 4,
+            "max": 16
+        },
+        "name": "Green Pants(LV3+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -28,7 +51,51 @@
             "base": 7,
             "max": 21
         },
-        "name": "Cream Pants",
+        "name": "Cream Pants(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "24": 3,
+            "70": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 9,
+            "max": 21
+        },
+        "name": "Cream Pants(LV3+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "24": 3,
+            "70": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 21,
+            "max": 21
+        },
+        "name": "Cream Pants(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -50,7 +117,53 @@
             "base": 11,
             "max": 35
         },
-        "name": "Green Pants S",
+        "name": "Green Pants S(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "11": 2,
+            "24": 3,
+            "57": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 23,
+            "max": 35
+        },
+        "name": "Green Pants S(LV4+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "11": 2,
+            "24": 3,
+            "57": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 35,
+            "max": 35
+        },
+        "name": "Green Pants S(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -73,7 +186,30 @@
             "base": 4,
             "max": 14
         },
-        "name": "Blue Pants",
+        "name": "Blue Pants(LV1+)",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "66": 2,
+            "70": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 9,
+            "max": 14
+        },
+        "name": "Blue Pants(LV4+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -96,7 +232,7 @@
             "base": 12,
             "max": 36
         },
-        "name": "Blue Pants S",
+        "name": "Blue Pants S(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -119,7 +255,73 @@
             "base": 8,
             "max": 23
         },
-        "name": "Coffee Pants",
+        "name": "Coffee Pants(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "28": 3,
+            "66": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 9,
+            "max": 23
+        },
+        "name": "Coffee Pants(LV2+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "28": 3,
+            "66": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 10,
+            "max": 23
+        },
+        "name": "Coffee Pants(LV3+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "28": 3,
+            "66": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 15,
+            "max": 23
+        },
+        "name": "Coffee Pants(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -141,7 +343,31 @@
             "base": 4,
             "max": 24
         },
-        "name": "Hunter's Greaves",
+        "name": "Hunter's Greaves(LV1+)",
+        "rarity": 1,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 2,
+            "63": 2,
+            "70": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 12,
+            "max": 24
+        },
+        "name": "Hunter's Greaves(LV4+)",
         "rarity": 1,
         "resistance": [
             0,
@@ -165,7 +391,51 @@
             "base": 20,
             "max": 39
         },
-        "name": "Hunter's Greaves U",
+        "name": "Hunter's Greaves U(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "47": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 37,
+            "max": 39
+        },
+        "name": "Hunter's Greaves U(LV4+)",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "47": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 39,
+            "max": 39
+        },
+        "name": "Hunter's Greaves U(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -187,7 +457,30 @@
             "base": 24,
             "max": 51
         },
-        "name": "Hunter's Greaves S",
+        "name": "Hunter's Greaves S(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            -4,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "20": 2,
+            "51": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 42,
+            "max": 51
+        },
+        "name": "Hunter's Greaves S(LV4+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -210,7 +503,31 @@
             "base": 2,
             "max": 16
         },
-        "name": "Hunter's Leggings",
+        "name": "Hunter's Leggings(LV1+)",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "34": 2,
+            "63": 2,
+            "70": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 8,
+            "max": 16
+        },
+        "name": "Hunter's Leggings(LV4+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -234,7 +551,51 @@
             "base": 11,
             "max": 24
         },
-        "name": "Hunter's Leggings U",
+        "name": "Hunter's Leggings U(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "47": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 22,
+            "max": 24
+        },
+        "name": "Hunter's Leggings U(LV4+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "47": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 24,
+            "max": 24
+        },
+        "name": "Hunter's Leggings U(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -256,7 +617,53 @@
             "base": 13,
             "max": 39
         },
-        "name": "Hunter's Leggings S",
+        "name": "Hunter's Leggings S(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "39": 3,
+            "40": 2,
+            "52": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 15,
+            "max": 39
+        },
+        "name": "Hunter's Leggings S(LV2+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            2,
+            -2,
+            0
+        ],
+        "skills": {
+            "39": 3,
+            "40": 2,
+            "52": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 26,
+            "max": 39
+        },
+        "name": "Hunter's Leggings S(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -279,7 +686,53 @@
             "base": 9,
             "max": 26
         },
-        "name": "Bone Greaves",
+        "name": "Bone Greaves(LV1+)",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 3,
+            "11": 2,
+            "66": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 11,
+            "max": 26
+        },
+        "name": "Bone Greaves(LV3+)",
+        "rarity": 1,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 3,
+            "11": 2,
+            "66": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 26,
+            "max": 26
+        },
+        "name": "Bone Greaves(LV5+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -302,7 +755,31 @@
             "base": 21,
             "max": 42
         },
-        "name": "Bone Greaves U",
+        "name": "Bone Greaves U(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            2,
+            -2,
+            -2,
+            -2
+        ],
+        "skills": {
+            "2": 2,
+            "12": -1,
+            "14": 2,
+            "30": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 34,
+            "max": 42
+        },
+        "name": "Bone Greaves U(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -326,7 +803,7 @@
             "base": 25,
             "max": 54
         },
-        "name": "Bone Greaves S",
+        "name": "Bone Greaves S(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -350,7 +827,53 @@
             "base": 4,
             "max": 14
         },
-        "name": "Bone Leggings",
+        "name": "Bone Leggings(LV1+)",
+        "rarity": 1,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "2": 3,
+            "11": 2,
+            "66": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 6,
+            "max": 14
+        },
+        "name": "Bone Leggings(LV3+)",
+        "rarity": 1,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "2": 3,
+            "11": 2,
+            "66": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 14,
+            "max": 14
+        },
+        "name": "Bone Leggings(LV5+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -373,7 +896,31 @@
             "base": 11,
             "max": 26
         },
-        "name": "Bone Leggings U",
+        "name": "Bone Leggings U(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            5,
+            5,
+            -1,
+            0,
+            0
+        ],
+        "skills": {
+            "2": 2,
+            "12": -1,
+            "14": 2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 17,
+            "max": 26
+        },
+        "name": "Bone Leggings U(LV3+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -397,7 +944,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Bone Leggings S",
+        "name": "Bone Leggings S(LV1+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -421,7 +968,29 @@
             "base": 10,
             "max": 23
         },
-        "name": "Velociprey Greaves",
+        "name": "Velociprey Greaves(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "60": 2,
+            "61": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 17,
+            "max": 23
+        },
+        "name": "Velociprey Greaves(LV4+)",
         "rarity": 2,
         "resistance": [
             1,
@@ -443,7 +1012,51 @@
             "base": 22,
             "max": 45
         },
-        "name": "Velociprey Greaves U",
+        "name": "Velociprey Greaves U(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "28": 2,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 36,
+            "max": 45
+        },
+        "name": "Velociprey Greaves U(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "28": 2,
+            "61": 3
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 45,
+            "max": 45
+        },
+        "name": "Velociprey Greaves U(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -465,7 +1078,30 @@
             "base": 26,
             "max": 57
         },
-        "name": "Velociprey Greaves S",
+        "name": "Velociprey Greaves S(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            0,
+            1,
+            -1
+        ],
+        "skills": {
+            "22": -2,
+            "61": 3,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 47,
+            "max": 57
+        },
+        "name": "Velociprey Greaves S(LV4+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -488,7 +1124,31 @@
             "base": 5,
             "max": 13
         },
-        "name": "Velociprey Leggings",
+        "name": "Velociprey Leggings(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "34": 3,
+            "38": -2,
+            "60": 2,
+            "61": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 10,
+            "max": 13
+        },
+        "name": "Velociprey Leggings(LV4+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -512,7 +1172,51 @@
             "base": 11,
             "max": 26
         },
-        "name": "Velociprey Leggings U",
+        "name": "Velociprey Leggings U(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "61": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 17,
+            "max": 26
+        },
+        "name": "Velociprey Leggings U(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "61": 3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 26,
+            "max": 26
+        },
+        "name": "Velociprey Leggings U(LV5+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -534,7 +1238,30 @@
             "base": 18,
             "max": 38
         },
-        "name": "Velociprey Leggings S",
+        "name": "Velociprey Leggings S(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            3,
+            3,
+            1,
+            3,
+            0
+        ],
+        "skills": {
+            "22": -2,
+            "61": 3,
+            "63": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 29,
+            "max": 38
+        },
+        "name": "Velociprey Leggings S(LV4+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -557,7 +1284,31 @@
             "base": 10,
             "max": 23
         },
-        "name": "Battle Greaves",
+        "name": "Battle Greaves(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "43": -3,
+            "54": 2,
+            "58": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 17,
+            "max": 23
+        },
+        "name": "Battle Greaves(LV4+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -581,7 +1332,31 @@
             "base": 22,
             "max": 45
         },
-        "name": "Battle Greaves U",
+        "name": "Battle Greaves U(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "14": -1,
+            "19": 2,
+            "28": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 27,
+            "max": 45
+        },
+        "name": "Battle Greaves U(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -605,7 +1380,32 @@
             "base": 26,
             "max": 57
         },
-        "name": "Battle Greaves S",
+        "name": "Battle Greaves S(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -2,
+            -1,
+            -2,
+            0
+        ],
+        "skills": {
+            "5": 3,
+            "21": -2,
+            "59": -1,
+            "62": 1,
+            "72": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 57,
+            "max": 57
+        },
+        "name": "Battle Greaves S(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -630,7 +1430,31 @@
             "base": 6,
             "max": 13
         },
-        "name": "Battle Leggings",
+        "name": "Battle Leggings(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "11": 2,
+            "37": 2,
+            "51": -3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 10,
+            "max": 13
+        },
+        "name": "Battle Leggings(LV4+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -654,7 +1478,32 @@
             "base": 12,
             "max": 25
         },
-        "name": "Battle Leggings U",
+        "name": "Battle Leggings U(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "1": 1,
+            "41": 1,
+            "46": -1,
+            "52": 2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 20,
+            "max": 25
+        },
+        "name": "Battle Leggings U(LV3+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -679,7 +1528,32 @@
             "base": 19,
             "max": 37
         },
-        "name": "Battle Leggings S",
+        "name": "Battle Leggings S(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            4,
+            0,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "16": 2,
+            "19": 1,
+            "46": -2,
+            "59": -1
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 37,
+            "max": 37
+        },
+        "name": "Battle Leggings S(LV5+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -704,7 +1578,7 @@
             "base": 10,
             "max": 33
         },
-        "name": "Silver Boots",
+        "name": "Silver Boots(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -725,7 +1599,29 @@
             "base": 12,
             "max": 25
         },
-        "name": "Vespoid Greaves",
+        "name": "Vespoid Greaves(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "66": 4
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 23,
+            "max": 25
+        },
+        "name": "Vespoid Greaves(LV4+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -747,7 +1643,32 @@
             "base": 23,
             "max": 46
         },
-        "name": "Vespoid Greaves U",
+        "name": "Vespoid Greaves U(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "38": 2,
+            "50": 2,
+            "51": 1,
+            "61": -1,
+            "71": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 43,
+            "max": 46
+        },
+        "name": "Vespoid Greaves U(LV4+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -772,7 +1693,32 @@
             "base": 27,
             "max": 58
         },
-        "name": "Vespoid Greaves S",
+        "name": "Vespoid Greaves S(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -5,
+            -4,
+            2,
+            2
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "38": 1,
+            "50": -2,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 48,
+            "max": 58
+        },
+        "name": "Vespoid Greaves S(LV4+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -797,7 +1743,29 @@
             "base": 7,
             "max": 13
         },
-        "name": "Vespoid Leggings",
+        "name": "Vespoid Leggings(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "38": 3,
+            "66": 4
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 11,
+            "max": 13
+        },
+        "name": "Vespoid Leggings(LV4+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -819,7 +1787,30 @@
             "base": 12,
             "max": 25
         },
-        "name": "Vespoid Leggings U",
+        "name": "Vespoid Leggings U(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "38": 3,
+            "41": 2,
+            "70": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 19,
+            "max": 25
+        },
+        "name": "Vespoid Leggings U(LV4+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -842,7 +1833,31 @@
             "base": 18,
             "max": 38
         },
-        "name": "Vespoid Leggings S",
+        "name": "Vespoid Leggings S(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            -4,
+            -3,
+            5,
+            2
+        ],
+        "skills": {
+            "38": 3,
+            "42": 2,
+            "52": -2,
+            "60": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 29,
+            "max": 38
+        },
+        "name": "Vespoid Leggings S(LV4+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -866,7 +1881,31 @@
             "base": 14,
             "max": 29
         },
-        "name": "Hornet Greaves",
+        "name": "Hornet Greaves(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 1,
+            "16": 2,
+            "46": -2,
+            "51": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 23,
+            "max": 29
+        },
+        "name": "Hornet Greaves(LV3+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -890,7 +1929,55 @@
             "base": 24,
             "max": 47
         },
-        "name": "Hornet Greaves U",
+        "name": "Hornet Greaves U(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 2,
+            "57": 1,
+            "59": 2,
+            "62": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 38,
+            "max": 47
+        },
+        "name": "Hornet Greaves U(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 2,
+            "57": 1,
+            "59": 2,
+            "62": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 47,
+            "max": 47
+        },
+        "name": "Hornet Greaves U(LV5+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -914,7 +2001,30 @@
             "base": 28,
             "max": 60
         },
-        "name": "Hornet Greaves S",
+        "name": "Hornet Greaves S(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            -6,
+            -1,
+            -5,
+            -5,
+            2
+        ],
+        "skills": {
+            "15": 3,
+            "31": -4,
+            "72": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 60,
+            "max": 60
+        },
+        "name": "Hornet Greaves S(LV5+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -937,7 +2047,55 @@
             "base": 8,
             "max": 16
         },
-        "name": "Hornet Leggings",
+        "name": "Hornet Leggings(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 1,
+            "16": 2,
+            "46": -2,
+            "59": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 12,
+            "max": 16
+        },
+        "name": "Hornet Leggings(LV3+)",
+        "rarity": 2,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 1,
+            "16": 2,
+            "46": -2,
+            "59": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 16,
+            "max": 16
+        },
+        "name": "Hornet Leggings(LV5+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -961,7 +2119,53 @@
             "base": 12,
             "max": 25
         },
-        "name": "Hornet Leggings U",
+        "name": "Hornet Leggings U(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 2,
+            "16": 3,
+            "46": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 20,
+            "max": 25
+        },
+        "name": "Hornet Leggings U(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            -5,
+            2,
+            -4,
+            -3,
+            3
+        ],
+        "skills": {
+            "15": 2,
+            "16": 3,
+            "46": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 25,
+            "max": 25
+        },
+        "name": "Hornet Leggings U(LV5+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -984,7 +2188,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Hornet Leggings S",
+        "name": "Hornet Leggings S(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1008,7 +2212,31 @@
             "base": 12,
             "max": 27
         },
-        "name": "Hi-Metal Greaves",
+        "name": "Hi-Metal Greaves(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "22": -2,
+            "28": 3,
+            "55": -1,
+            "67": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 22,
+            "max": 27
+        },
+        "name": "Hi-Metal Greaves(LV4+)",
         "rarity": 2,
         "resistance": [
             -2,
@@ -1032,7 +2260,29 @@
             "base": 24,
             "max": 47
         },
-        "name": "Hi-Metal Greaves U",
+        "name": "Hi-Metal Greaves U(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            -2,
+            -1,
+            3,
+            0
+        ],
+        "skills": {
+            "22": -3,
+            "28": 4
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 38,
+            "max": 47
+        },
+        "name": "Hi-Metal Greaves U(LV3+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -1054,7 +2304,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Hi-Metal Greaves S",
+        "name": "Hi-Metal Greaves S(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -1078,7 +2328,31 @@
             "base": 7,
             "max": 13
         },
-        "name": "Hi-Metal Leggings",
+        "name": "Hi-Metal Leggings(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "1": 1,
+            "22": -2,
+            "28": 3,
+            "46": -1
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 11,
+            "max": 13
+        },
+        "name": "Hi-Metal Leggings(LV4+)",
         "rarity": 2,
         "resistance": [
             0,
@@ -1102,7 +2376,29 @@
             "base": 14,
             "max": 24
         },
-        "name": "Hi-Metal Leggings U",
+        "name": "Hi-Metal Leggings U(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "22": -3,
+            "28": 4
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 19,
+            "max": 24
+        },
+        "name": "Hi-Metal Leggings U(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -1124,7 +2420,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Hi-Metal Leggings S",
+        "name": "Hi-Metal Leggings S(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -1148,7 +2444,73 @@
             "base": 15,
             "max": 24
         },
-        "name": "Dark Metal Boots",
+        "name": "Dark Metal Boots(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            0,
+            -2,
+            0,
+            2,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "68": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 16,
+            "max": 24
+        },
+        "name": "Dark Metal Boots(LV2+)",
+        "rarity": 4,
+        "resistance": [
+            0,
+            -2,
+            0,
+            2,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "68": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 17,
+            "max": 24
+        },
+        "name": "Dark Metal Boots(LV3+)",
+        "rarity": 4,
+        "resistance": [
+            0,
+            -2,
+            0,
+            2,
+            0
+        ],
+        "skills": {
+            "28": 2,
+            "68": 3
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 20,
+            "max": 24
+        },
+        "name": "Dark Metal Boots(LV4+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -1170,7 +2532,30 @@
             "base": 15,
             "max": 30
         },
-        "name": "Genprey Greaves",
+        "name": "Genprey Greaves(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "3": -3,
+            "20": 2,
+            "38": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 23,
+            "max": 30
+        },
+        "name": "Genprey Greaves(LV4+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1193,7 +2578,51 @@
             "base": 25,
             "max": 42
         },
-        "name": "Genprey Greaves U",
+        "name": "Genprey Greaves U(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "29": 2,
+            "38": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 34,
+            "max": 42
+        },
+        "name": "Genprey Greaves U(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "29": 2,
+            "38": 3
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 42,
+            "max": 42
+        },
+        "name": "Genprey Greaves U(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -1215,7 +2644,31 @@
             "base": 28,
             "max": 60
         },
-        "name": "Genprey Greaves S",
+        "name": "Genprey Greaves S(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            -2,
+            3,
+            -1
+        ],
+        "skills": {
+            "29": 2,
+            "31": -2,
+            "38": 3,
+            "54": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 50,
+            "max": 60
+        },
+        "name": "Genprey Greaves S(LV4+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -1239,7 +2692,53 @@
             "base": 8,
             "max": 17
         },
-        "name": "Genprey Leggings",
+        "name": "Genprey Leggings(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "38": 2,
+            "59": -3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 10,
+            "max": 17
+        },
+        "name": "Genprey Leggings(LV3+)",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "38": 2,
+            "59": -3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 17,
+            "max": 17
+        },
+        "name": "Genprey Leggings(LV5+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -1262,7 +2761,51 @@
             "base": 15,
             "max": 25
         },
-        "name": "Genprey Leggings U",
+        "name": "Genprey Leggings U(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "38": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 20,
+            "max": 25
+        },
+        "name": "Genprey Leggings U(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "38": 3
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 25,
+            "max": 25
+        },
+        "name": "Genprey Leggings U(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -1284,7 +2827,31 @@
             "base": 18,
             "max": 40
         },
-        "name": "Genprey Leggings S",
+        "name": "Genprey Leggings S(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            0,
+            5,
+            0
+        ],
+        "skills": {
+            "13": 2,
+            "29": 2,
+            "31": -2,
+            "38": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 33,
+            "max": 40
+        },
+        "name": "Genprey Leggings S(LV4+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -1308,7 +2875,53 @@
             "base": 20,
             "max": 36
         },
-        "name": "Chrome Metal Boots",
+        "name": "Chrome Metal Boots(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "28": 2,
+            "59": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 26,
+            "max": 36
+        },
+        "name": "Chrome Metal Boots(LV4+)",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "28": 2,
+            "59": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 36,
+            "max": 36
+        },
+        "name": "Chrome Metal Boots(LV7+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -1331,7 +2944,30 @@
             "base": 15,
             "max": 30
         },
-        "name": "Ioprey Greaves",
+        "name": "Ioprey Greaves(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "29": 2,
+            "43": 2,
+            "58": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 30,
+            "max": 30
+        },
+        "name": "Ioprey Greaves(LV5+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -1354,7 +2990,31 @@
             "base": 25,
             "max": 48
         },
-        "name": "Ioprey Greaves U",
+        "name": "Ioprey Greaves U(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "14": -3,
+            "27": 2,
+            "43": 2,
+            "62": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 30,
+            "max": 48
+        },
+        "name": "Ioprey Greaves U(LV2+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1378,7 +3038,53 @@
             "base": 29,
             "max": 62
         },
-        "name": "Ioprey Greaves S",
+        "name": "Ioprey Greaves S(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "38": -2,
+            "43": 3,
+            "58": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 42,
+            "max": 62
+        },
+        "name": "Ioprey Greaves S(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            3,
+            2,
+            1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "38": -2,
+            "43": 3,
+            "58": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 62,
+            "max": 62
+        },
+        "name": "Ioprey Greaves S(LV5+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1401,7 +3107,31 @@
             "base": 8,
             "max": 18
         },
-        "name": "Ioprey Leggings",
+        "name": "Ioprey Leggings(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "38": -2,
+            "43": 3,
+            "60": 2,
+            "63": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 18,
+            "max": 18
+        },
+        "name": "Ioprey Leggings(LV5+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -1425,7 +3155,31 @@
             "base": 15,
             "max": 25
         },
-        "name": "Ioprey Leggings U",
+        "name": "Ioprey Leggings U(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "11": -3,
+            "40": 2,
+            "43": 2,
+            "62": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 20,
+            "max": 25
+        },
+        "name": "Ioprey Leggings U(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -1449,7 +3203,53 @@
             "base": 18,
             "max": 40
         },
-        "name": "Ioprey Leggings S",
+        "name": "Ioprey Leggings S(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "9": 2,
+            "38": -2,
+            "43": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 27,
+            "max": 40
+        },
+        "name": "Ioprey Leggings S(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            2,
+            0,
+            0
+        ],
+        "skills": {
+            "9": 2,
+            "38": -2,
+            "43": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 40,
+            "max": 40
+        },
+        "name": "Ioprey Leggings S(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -1472,7 +3272,7 @@
             "base": 21,
             "max": 33
         },
-        "name": "Gypceros Greaves",
+        "name": "Gypceros Greaves(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -1496,7 +3296,51 @@
             "base": 30,
             "max": 49
         },
-        "name": "Gypceros Greaves U",
+        "name": "Gypceros Greaves U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "71": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 40,
+            "max": 49
+        },
+        "name": "Gypceros Greaves U(LV3+)",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            1,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "71": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 49,
+            "max": 49
+        },
+        "name": "Gypceros Greaves U(LV5+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -1518,7 +3362,7 @@
             "base": 32,
             "max": 68
         },
-        "name": "Gypceros Greaves S",
+        "name": "Gypceros Greaves S(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -1543,7 +3387,7 @@
             "base": 10,
             "max": 18
         },
-        "name": "Gypceros Leggings",
+        "name": "Gypceros Leggings(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -1567,7 +3411,51 @@
             "base": 16,
             "max": 28
         },
-        "name": "Gypceros Leggings U",
+        "name": "Gypceros Leggings U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "71": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 22,
+            "max": 28
+        },
+        "name": "Gypceros Leggings U(LV3+)",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            3,
+            6,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "71": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 28,
+            "max": 28
+        },
+        "name": "Gypceros Leggings U(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -1589,7 +3477,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Gypceros Leggings S",
+        "name": "Gypceros Leggings S(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -1614,7 +3502,30 @@
             "base": 20,
             "max": 29
         },
-        "name": "Cephalos Greaves",
+        "name": "Cephalos Greaves(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            -3,
+            2,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "29": 2,
+            "60": 2,
+            "63": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 28,
+            "max": 29
+        },
+        "name": "Cephalos Greaves(LV4+)",
         "rarity": 2,
         "resistance": [
             -3,
@@ -1637,7 +3548,7 @@
             "base": 28,
             "max": 47
         },
-        "name": "Cephalos Greaves U",
+        "name": "Cephalos Greaves U(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -1658,7 +3569,7 @@
             "base": 29,
             "max": 62
         },
-        "name": "Cephalos Greaves S",
+        "name": "Cephalos Greaves S(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -1679,7 +3590,30 @@
             "base": 10,
             "max": 17
         },
-        "name": "Cephalos Leggings",
+        "name": "Cephalos Leggings(LV1+)",
+        "rarity": 2,
+        "resistance": [
+            -1,
+            5,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "11": 2,
+            "29": 3,
+            "59": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 15,
+            "max": 17
+        },
+        "name": "Cephalos Leggings(LV4+)",
         "rarity": 2,
         "resistance": [
             -1,
@@ -1702,7 +3636,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Cephalos Leggings U",
+        "name": "Cephalos Leggings U(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -1723,7 +3657,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Cephalos Leggings S",
+        "name": "Cephalos Leggings S(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -1744,7 +3678,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Rathian Greaves",
+        "name": "Rathian Greaves(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -1769,7 +3703,31 @@
             "base": 33,
             "max": 54
         },
-        "name": "Rath Heart Greaves",
+        "name": "Rath Heart Greaves(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "0": 2,
+            "28": 3,
+            "56": -2,
+            "70": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 44,
+            "max": 54
+        },
+        "name": "Rath Heart Greaves(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -1793,7 +3751,31 @@
             "base": 35,
             "max": 73
         },
-        "name": "Rathian Greaves S",
+        "name": "Rathian Greaves S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            -4
+        ],
+        "skills": {
+            "16": 2,
+            "28": 3,
+            "46": -2,
+            "58": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 43,
+            "max": 73
+        },
+        "name": "Rathian Greaves S(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -1817,7 +3799,7 @@
             "base": 12,
             "max": 20
         },
-        "name": "Rathian Leggings",
+        "name": "Rathian Leggings(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -1842,7 +3824,31 @@
             "base": 19,
             "max": 29
         },
-        "name": "Rath heart Leggings",
+        "name": "Rath heart Leggings(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "0": 2,
+            "28": 3,
+            "56": -2,
+            "70": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 24,
+            "max": 29
+        },
+        "name": "Rath heart Leggings(LV3+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -1866,7 +3872,31 @@
             "base": 23,
             "max": 40
         },
-        "name": "Rathian Leggings S",
+        "name": "Rathian Leggings S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            2,
+            0,
+            -2
+        ],
+        "skills": {
+            "28": 3,
+            "41": 2,
+            "46": -2,
+            "59": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 32,
+            "max": 40
+        },
+        "name": "Rathian Leggings S(LV3+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -1890,7 +3920,30 @@
             "base": 26,
             "max": 37
         },
-        "name": "Khezu Greaves",
+        "name": "Khezu Greaves(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            3,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "43": -3,
+            "50": 3,
+            "71": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 37,
+            "max": 37
+        },
+        "name": "Khezu Greaves(LV5+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -1913,7 +3966,55 @@
             "base": 35,
             "max": 51
         },
-        "name": "Khezu Greaves U",
+        "name": "Khezu Greaves U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -3,
+            0,
+            4,
+            0
+        ],
+        "skills": {
+            "50": 2,
+            "59": 1,
+            "61": -1,
+            "71": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 39,
+            "max": 51
+        },
+        "name": "Khezu Greaves U(LV2+)",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -3,
+            0,
+            4,
+            0
+        ],
+        "skills": {
+            "50": 2,
+            "59": 1,
+            "61": -1,
+            "71": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 47,
+            "max": 51
+        },
+        "name": "Khezu Greaves U(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -1937,7 +4038,32 @@
             "base": 37,
             "max": 72
         },
-        "name": "Khezu Greaves S",
+        "name": "Khezu Greaves S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            1,
+            4,
+            0
+        ],
+        "skills": {
+            "21": 2,
+            "43": -1,
+            "46": 1,
+            "50": 3,
+            "62": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 59,
+            "max": 72
+        },
+        "name": "Khezu Greaves S(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -1962,7 +4088,30 @@
             "base": 13,
             "max": 20
         },
-        "name": "Khezu Leggings",
+        "name": "Khezu Leggings(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            5,
+            2,
+            6,
+            0
+        ],
+        "skills": {
+            "43": -3,
+            "50": 3,
+            "71": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 20,
+            "max": 20
+        },
+        "name": "Khezu Leggings(LV5+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -1985,7 +4134,55 @@
             "base": 19,
             "max": 29
         },
-        "name": "Khezu Leggings U",
+        "name": "Khezu Leggings U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            5,
+            -1,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "49": 1,
+            "50": 2,
+            "61": -1,
+            "71": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 21,
+            "max": 29
+        },
+        "name": "Khezu Leggings U(LV2+)",
+        "rarity": 6,
+        "resistance": [
+            5,
+            -1,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "49": 1,
+            "50": 2,
+            "61": -1,
+            "71": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 26,
+            "max": 29
+        },
+        "name": "Khezu Leggings U(LV4+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -2009,7 +4206,32 @@
             "base": 24,
             "max": 41
         },
-        "name": "Khezu Leggings S",
+        "name": "Khezu Leggings S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            2,
+            6,
+            0
+        ],
+        "skills": {
+            "11": 1,
+            "21": 2,
+            "43": -1,
+            "50": 3,
+            "62": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 33,
+            "max": 41
+        },
+        "name": "Khezu Leggings S(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -2034,7 +4256,31 @@
             "base": 28,
             "max": 42
         },
-        "name": "Rathalos Greaves",
+        "name": "Rathalos Greaves(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            2,
+            -1,
+            -3,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 3,
+            "14": -1,
+            "34": 1,
+            "47": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 38,
+            "max": 42
+        },
+        "name": "Rathalos Greaves(LV4+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2058,7 +4304,30 @@
             "base": 37,
             "max": 54
         },
-        "name": "Rath Soul Greaves",
+        "name": "Rath Soul Greaves(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            0,
+            2,
+            -4
+        ],
+        "skills": {
+            "5": 4,
+            "14": -3,
+            "20": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 54,
+            "max": 54
+        },
+        "name": "Rath Soul Greaves(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2081,7 +4350,7 @@
             "base": 39,
             "max": 76
         },
-        "name": "Rathalos Greaves S",
+        "name": "Rathalos Greaves S(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -2104,7 +4373,31 @@
             "base": 14,
             "max": 24
         },
-        "name": "Rathalos Leggings",
+        "name": "Rathalos Leggings(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            4,
+            0,
+            -1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 3,
+            "14": -1,
+            "34": 1,
+            "47": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 21,
+            "max": 24
+        },
+        "name": "Rathalos Leggings(LV4+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2128,7 +4421,30 @@
             "base": 19,
             "max": 31
         },
-        "name": "Rath Soul Leggings",
+        "name": "Rath Soul Leggings(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            4,
+            2,
+            1,
+            5,
+            -2
+        ],
+        "skills": {
+            "5": 3,
+            "24": -3,
+            "39": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 31,
+            "max": 31
+        },
+        "name": "Rath Soul Leggings(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -2151,7 +4467,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Rathalos Leggings S",
+        "name": "Rathalos Leggings S(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -2174,7 +4490,31 @@
             "base": 25,
             "max": 36
         },
-        "name": "Plesioth Greaves",
+        "name": "Plesioth Greaves(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            4,
+            2,
+            -4,
+            0
+        ],
+        "skills": {
+            "10": -2,
+            "16": 2,
+            "19": 2,
+            "30": 3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 34,
+            "max": 36
+        },
+        "name": "Plesioth Greaves(LV3+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -2198,7 +4538,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Plesioth Greaves U",
+        "name": "Plesioth Greaves U(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -2221,7 +4561,7 @@
             "base": 38,
             "max": 72
         },
-        "name": "Plesioth Greaves S",
+        "name": "Plesioth Greaves S(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -2244,7 +4584,31 @@
             "base": 13,
             "max": 21
         },
-        "name": "Plesioth Leggings",
+        "name": "Plesioth Leggings(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            -2,
+            6,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "16": 2,
+            "19": 2,
+            "30": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 19,
+            "max": 21
+        },
+        "name": "Plesioth Leggings(LV4+)",
         "rarity": 3,
         "resistance": [
             -2,
@@ -2268,7 +4632,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Plesioth Leggings U",
+        "name": "Plesioth Leggings U(LV1+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -2291,7 +4655,30 @@
             "base": 24,
             "max": 41
         },
-        "name": "Plesioth Leggings S",
+        "name": "Plesioth Leggings S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -2,
+            6,
+            3,
+            -2,
+            1
+        ],
+        "skills": {
+            "10": 4,
+            "11": 1,
+            "29": 4
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 33,
+            "max": 41
+        },
+        "name": "Plesioth Leggings S(LV3+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -2314,7 +4701,55 @@
             "base": 17,
             "max": 35
         },
-        "name": "Basarios Greaves",
+        "name": "Basarios Greaves(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "43": 2,
+            "50": 2,
+            "62": 2,
+            "67": 1
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 28,
+            "max": 35
+        },
+        "name": "Basarios Greaves(LV3+)",
+        "rarity": 3,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "43": 2,
+            "50": 2,
+            "62": 2,
+            "67": 1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 35,
+            "max": 35
+        },
+        "name": "Basarios Greaves(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -2338,7 +4773,31 @@
             "base": 33,
             "max": 54
         },
-        "name": "Basarios Greaves U",
+        "name": "Basarios Greaves U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "31": -2,
+            "43": 2,
+            "62": 3,
+            "67": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 44,
+            "max": 54
+        },
+        "name": "Basarios Greaves U(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2362,7 +4821,7 @@
             "base": 35,
             "max": 73
         },
-        "name": "Basarios Greaves S",
+        "name": "Basarios Greaves S(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2386,7 +4845,53 @@
             "base": 10,
             "max": 20
         },
-        "name": "Basarios Leggings",
+        "name": "Basarios Leggings(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "50": 2,
+            "62": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 16,
+            "max": 20
+        },
+        "name": "Basarios Leggings(LV3+)",
+        "rarity": 3,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "43": 3,
+            "50": 2,
+            "62": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 20,
+            "max": 20
+        },
+        "name": "Basarios Leggings(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -2409,7 +4914,31 @@
             "base": 19,
             "max": 28
         },
-        "name": "Basarios Leggings U",
+        "name": "Basarios Leggings U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            2,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "31": -2,
+            "43": 2,
+            "62": 3,
+            "67": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 22,
+            "max": 28
+        },
+        "name": "Basarios Leggings U(LV2+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2433,7 +4962,7 @@
             "base": 23,
             "max": 40
         },
-        "name": "Basarios Leggings S",
+        "name": "Basarios Leggings S(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2457,7 +4986,7 @@
             "base": 29,
             "max": 43
         },
-        "name": "Diablo Greaves",
+        "name": "Diablo Greaves(LV1+)",
         "rarity": 3,
         "resistance": [
             3,
@@ -2482,7 +5011,55 @@
             "base": 39,
             "max": 57
         },
-        "name": "Diablo Greaves U",
+        "name": "Diablo Greaves U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "21": -1,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 48,
+            "max": 57
+        },
+        "name": "Diablo Greaves U(LV3+)",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "21": -1,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 57,
+            "max": 57
+        },
+        "name": "Diablo Greaves U(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -2506,7 +5083,30 @@
             "base": 41,
             "max": 81
         },
-        "name": "Diablo Greaves S",
+        "name": "Diablo Greaves S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            3,
+            -1,
+            -2,
+            1,
+            0
+        ],
+        "skills": {
+            "8": 2,
+            "21": -3,
+            "72": 4
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 62,
+            "max": 81
+        },
+        "name": "Diablo Greaves S(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -2529,7 +5129,7 @@
             "base": 15,
             "max": 23
         },
-        "name": "Diablo Leggings",
+        "name": "Diablo Leggings(LV1+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -2554,7 +5154,55 @@
             "base": 20,
             "max": 30
         },
-        "name": "Diablo Leggings U",
+        "name": "Diablo Leggings U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "21": -1,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 25,
+            "max": 30
+        },
+        "name": "Diablo Leggings U(LV3+)",
+        "rarity": 6,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "21": -1,
+            "59": -2,
+            "72": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 30,
+            "max": 30
+        },
+        "name": "Diablo Leggings U(LV5+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -2578,7 +5226,30 @@
             "base": 25,
             "max": 42
         },
-        "name": "Diablo Leggings S",
+        "name": "Diablo Leggings S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            5,
+            2,
+            -1,
+            4,
+            0
+        ],
+        "skills": {
+            "8": 2,
+            "21": -3,
+            "72": 4
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 38,
+            "max": 42
+        },
+        "name": "Diablo Leggings S(LV4+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -2601,7 +5272,31 @@
             "base": 30,
             "max": 44
         },
-        "name": "Monoblos Greaves",
+        "name": "Monoblos Greaves(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "20": 2,
+            "28": 3,
+            "32": 1,
+            "51": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 44,
+            "max": 44
+        },
+        "name": "Monoblos Greaves(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -2625,7 +5320,31 @@
             "base": 40,
             "max": 58
         },
-        "name": "Monodevil Greaves",
+        "name": "Monodevil Greaves(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "27": 1,
+            "32": 2,
+            "44": 2,
+            "51": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 58,
+            "max": 58
+        },
+        "name": "Monodevil Greaves(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2649,7 +5368,32 @@
             "base": 42,
             "max": 82
         },
-        "name": "Monoblos Greaves S",
+        "name": "Monoblos Greaves S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -1,
+            -1,
+            -2,
+            -1
+        ],
+        "skills": {
+            "20": 2,
+            "28": 1,
+            "32": 2,
+            "44": 2,
+            "51": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 51,
+            "max": 82
+        },
+        "name": "Monoblos Greaves S(LV2+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2674,7 +5418,31 @@
             "base": 15,
             "max": 25
         },
-        "name": "Monoblos Leggings",
+        "name": "Monoblos Leggings(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            4,
+            2,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 2,
+            "28": 3,
+            "32": 1,
+            "51": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 25,
+            "max": 25
+        },
+        "name": "Monoblos Leggings(LV5+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -2698,7 +5466,7 @@
             "base": 21,
             "max": 33
         },
-        "name": "Monodevil Leggings",
+        "name": "Monodevil Leggings(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -2722,7 +5490,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Monoblos Leggings S",
+        "name": "Monoblos Leggings S(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -2747,7 +5515,7 @@
             "base": 30,
             "max": 49
         },
-        "name": "Gravios Greaves",
+        "name": "Gravios Greaves(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -2772,7 +5540,55 @@
             "base": 41,
             "max": 61
         },
-        "name": "Gravios Greaves U",
+        "name": "Gravios Greaves U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "14": 2,
+            "26": 3,
+            "28": 1,
+            "59": -1
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 51,
+            "max": 61
+        },
+        "name": "Gravios Greaves U(LV3+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            2,
+            2,
+            -2
+        ],
+        "skills": {
+            "14": 2,
+            "26": 3,
+            "28": 1,
+            "59": -1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 61,
+            "max": 61
+        },
+        "name": "Gravios Greaves U(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2796,7 +5612,53 @@
             "base": 42,
             "max": 82
         },
-        "name": "Gravios Greaves S",
+        "name": "Gravios Greaves S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "14": 2,
+            "26": 2,
+            "54": -3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 67,
+            "max": 82
+        },
+        "name": "Gravios Greaves S(LV3+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -2,
+            1,
+            1,
+            -2
+        ],
+        "skills": {
+            "14": 2,
+            "26": 2,
+            "54": -3
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 82,
+            "max": 82
+        },
+        "name": "Gravios Greaves S(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2819,7 +5681,32 @@
             "base": 15,
             "max": 25
         },
-        "name": "Gravios Leggings",
+        "name": "Gravios Leggings(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            4,
+            3,
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "9": 2,
+            "29": 2,
+            "67": 2,
+            "69": -1,
+            "70": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 22,
+            "max": 25
+        },
+        "name": "Gravios Leggings(LV4+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -2844,7 +5731,55 @@
             "base": 22,
             "max": 34
         },
-        "name": "Gravios Leggings U",
+        "name": "Gravios Leggings U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            4,
+            3,
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "28": 1,
+            "30": -1,
+            "49": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 28,
+            "max": 34
+        },
+        "name": "Gravios Leggings U(LV3+)",
+        "rarity": 6,
+        "resistance": [
+            4,
+            3,
+            1,
+            1,
+            0
+        ],
+        "skills": {
+            "14": 2,
+            "28": 1,
+            "30": -1,
+            "49": 3
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 34,
+            "max": 34
+        },
+        "name": "Gravios Leggings U(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -2868,7 +5803,53 @@
             "base": 25,
             "max": 42
         },
-        "name": "Gravios Leggings S",
+        "name": "Gravios Leggings S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            4,
+            3,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "14": 4,
+            "30": -1,
+            "49": 1
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 34,
+            "max": 42
+        },
+        "name": "Gravios Leggings S(LV3+)",
+        "rarity": 6,
+        "resistance": [
+            4,
+            3,
+            2,
+            2,
+            0
+        ],
+        "skills": {
+            "14": 4,
+            "30": -1,
+            "49": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 42,
+            "max": 42
+        },
+        "name": "Gravios Leggings S(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -2891,7 +5872,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Black Belt Greaves",
+        "name": "Black Belt Greaves(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2912,7 +5893,29 @@
             "base": 25,
             "max": 37
         },
-        "name": "Black Belt Greaves S",
+        "name": "Black Belt Greaves S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            3,
+            3,
+            3,
+            3,
+            3
+        ],
+        "skills": {
+            "20": 5,
+            "54": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 34,
+            "max": 37
+        },
+        "name": "Black Belt Greaves S(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -2934,7 +5937,30 @@
             "base": 3,
             "max": 8
         },
-        "name": "Mosswine Feet",
+        "name": "Mosswine Feet(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "17": 2,
+            "25": 3,
+            "30": -4
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 5,
+            "max": 8
+        },
+        "name": "Mosswine Feet(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2957,7 +5983,53 @@
             "base": 9,
             "max": 21
         },
-        "name": "Velociprey Feet",
+        "name": "Velociprey Feet(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "22": 3,
+            "68": 1,
+            "69": -3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 15,
+            "max": 21
+        },
+        "name": "Velociprey Feet(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "22": 3,
+            "68": 1,
+            "69": -3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 19,
+            "max": 21
+        },
+        "name": "Velociprey Feet(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -2980,7 +6052,53 @@
             "base": 11,
             "max": 28
         },
-        "name": "Genprey Feet",
+        "name": "Genprey Feet(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "skills": {
+            "3": 1,
+            "22": -3,
+            "69": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 19,
+            "max": 28
+        },
+        "name": "Genprey Feet(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            1,
+            1,
+            1,
+            2,
+            1
+        ],
+        "skills": {
+            "3": 1,
+            "22": -3,
+            "69": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 24,
+            "max": 28
+        },
+        "name": "Genprey Feet(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -3003,7 +6121,53 @@
             "base": 14,
             "max": 33
         },
-        "name": "Ioprey Feet",
+        "name": "Ioprey Feet(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "8": 1,
+            "15": -3,
+            "64": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 23,
+            "max": 33
+        },
+        "name": "Ioprey Feet(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            2,
+            1,
+            1,
+            1,
+            1
+        ],
+        "skills": {
+            "8": 1,
+            "15": -3,
+            "64": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 29,
+            "max": 33
+        },
+        "name": "Ioprey Feet(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -3026,7 +6190,53 @@
             "base": 15,
             "max": 33
         },
-        "name": "Shinobi Boots \"Sun\"",
+        "name": "Shinobi Boots \"Sun\"(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "55": 3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 22,
+            "max": 33
+        },
+        "name": "Shinobi Boots \"Sun\"(LV3+)",
+        "rarity": 4,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "55": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 33,
+            "max": 33
+        },
+        "name": "Shinobi Boots \"Sun\"(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -3049,7 +6259,30 @@
             "base": 20,
             "max": 32
         },
-        "name": "Shinobi Boots \"Sky\"",
+        "name": "Shinobi Boots \"Sky\"(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "7": 1,
+            "10": -3,
+            "19": 3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 32,
+            "max": 32
+        },
+        "name": "Shinobi Boots \"Sky\"(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -3072,7 +6305,31 @@
             "base": 24,
             "max": 41
         },
-        "name": "Shinobi Boots \"Heaven\"",
+        "name": "Shinobi Boots \"Heaven\"(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            0,
+            -6,
+            -3,
+            2,
+            1
+        ],
+        "skills": {
+            "10": -2,
+            "19": 2,
+            "53": 2,
+            "60": 1
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 33,
+            "max": 41
+        },
+        "name": "Shinobi Boots \"Heaven\"(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -3096,7 +6353,53 @@
             "base": 15,
             "max": 33
         },
-        "name": "Shinobi Boots \"Moon\"",
+        "name": "Shinobi Boots \"Moon\"(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "29": -2,
+            "30": 2,
+            "55": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 22,
+            "max": 33
+        },
+        "name": "Shinobi Boots \"Moon\"(LV3+)",
+        "rarity": 4,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "29": -2,
+            "30": 2,
+            "55": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 33,
+            "max": 33
+        },
+        "name": "Shinobi Boots \"Moon\"(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -3119,7 +6422,31 @@
             "base": 20,
             "max": 32
         },
-        "name": "Shinobi Boots \"Sea\"",
+        "name": "Shinobi Boots \"Sea\"(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            -5,
+            -1,
+            4,
+            2
+        ],
+        "skills": {
+            "7": 2,
+            "29": -3,
+            "30": 2,
+            "71": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 32,
+            "max": 32
+        },
+        "name": "Shinobi Boots \"Sea\"(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3143,7 +6470,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Shinobi Boots \"Earth\"",
+        "name": "Shinobi Boots \"Earth\"(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3167,7 +6494,55 @@
             "base": 15,
             "max": 30
         },
-        "name": "Guardian Boots",
+        "name": "Guardian Boots(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "6": 1,
+            "21": 1,
+            "26": 1,
+            "46": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 24,
+            "max": 30
+        },
+        "name": "Guardian Boots(LV3+)",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "6": 1,
+            "21": 1,
+            "26": 1,
+            "46": 2
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 30,
+            "max": 30
+        },
+        "name": "Guardian Boots(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -3191,7 +6566,55 @@
             "base": 21,
             "max": 36
         },
-        "name": "Guardian Boots U",
+        "name": "Guardian Boots U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 29,
+            "max": 36
+        },
+        "name": "Guardian Boots U(LV3+)",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 36,
+            "max": 36
+        },
+        "name": "Guardian Boots U(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -3215,7 +6638,30 @@
             "base": 25,
             "max": 39
         },
-        "name": "Red Guild Guard Boots",
+        "name": "Red Guild Guard Boots(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "20": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 27,
+            "max": 39
+        },
+        "name": "Red Guild Guard Boots(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -3238,7 +6684,30 @@
             "base": 25,
             "max": 39
         },
-        "name": "Blue Guild Guard Boots",
+        "name": "Blue Guild Guard Boots(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "26": 4,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 39,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Boots(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -3261,7 +6730,55 @@
             "base": 15,
             "max": 30
         },
-        "name": "Guardian Pants",
+        "name": "Guardian Pants(LV1+)",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "4": 1,
+            "46": 2,
+            "51": 1,
+            "71": 1
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 24,
+            "max": 30
+        },
+        "name": "Guardian Pants(LV3+)",
+        "rarity": 4,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "4": 1,
+            "46": 2,
+            "51": 1,
+            "71": 1
+        },
+        "slots": 2,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 30,
+            "max": 30
+        },
+        "name": "Guardian Pants(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -3285,7 +6802,55 @@
             "base": 21,
             "max": 36
         },
-        "name": "Guardian Feet U",
+        "name": "Guardian Feet U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 29,
+            "max": 36
+        },
+        "name": "Guardian Feet U(LV3+)",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "38": 2,
+            "43": 2,
+            "55": 1,
+            "61": 2
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 36,
+            "max": 36
+        },
+        "name": "Guardian Feet U(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -3309,7 +6874,31 @@
             "base": 25,
             "max": 39
         },
-        "name": "Red Guild Guard Tights",
+        "name": "Red Guild Guard Tights(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "33": 2,
+            "45": 2,
+            "46": 3,
+            "53": -2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 27,
+            "max": 39
+        },
+        "name": "Red Guild Guard Tights(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -3333,7 +6922,30 @@
             "base": 25,
             "max": 39
         },
-        "name": "Blue Guild Guard Tights",
+        "name": "Blue Guild Guard Tights(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "skills": {
+            "46": 3,
+            "52": 4,
+            "53": -2
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 39,
+            "max": 39
+        },
+        "name": "Blue Guild Guard Tights(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -3356,7 +6968,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Garuga Greaves",
+        "name": "Garuga Greaves(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -3380,7 +6992,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Garuga Leggings",
+        "name": "Garuga Leggings(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3405,7 +7017,55 @@
             "base": 35,
             "max": 51
         },
-        "name": "Auroros Pants",
+        "name": "Auroros Pants(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "26": 2,
+            "34": -2,
+            "47": 1,
+            "50": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 43,
+            "max": 51
+        },
+        "name": "Auroros Pants(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "26": 2,
+            "34": -2,
+            "47": 1,
+            "50": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 51,
+            "max": 51
+        },
+        "name": "Auroros Pants(LV5+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -3429,7 +7089,30 @@
             "base": 43,
             "max": 63
         },
-        "name": "Auroros Pants Mai",
+        "name": "Auroros Pants Mai(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "27": 1,
+            "44": -4,
+            "50": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 53,
+            "max": 63
+        },
+        "name": "Auroros Pants Mai(LV3+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -3452,7 +7135,31 @@
             "base": 44,
             "max": 84
         },
-        "name": "Auroros Pants Haku",
+        "name": "Auroros Pants Haku(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            -2,
+            2,
+            2,
+            0,
+            -4
+        ],
+        "skills": {
+            "20": 3,
+            "27": 1,
+            "44": -2,
+            "62": -3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 69,
+            "max": 84
+        },
+        "name": "Auroros Pants Haku(LV3+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -3476,7 +7183,53 @@
             "base": 18,
             "max": 26
         },
-        "name": "Genesis Pants",
+        "name": "Genesis Pants(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "16": 3,
+            "50": 2,
+            "59": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 22,
+            "max": 26
+        },
+        "name": "Genesis Pants(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "16": 3,
+            "50": 2,
+            "59": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 26,
+            "max": 26
+        },
+        "name": "Genesis Pants(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -3499,7 +7252,31 @@
             "base": 22,
             "max": 34
         },
-        "name": "Genesis Pants Mai",
+        "name": "Genesis Pants Mai(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "11": -4,
+            "13": 1,
+            "36": 3,
+            "41": 1
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 28,
+            "max": 34
+        },
+        "name": "Genesis Pants Mai(LV3+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -3523,7 +7300,30 @@
             "base": 29,
             "max": 43
         },
-        "name": "Genesis Pants Haku",
+        "name": "Genesis Pants Haku(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            1,
+            3,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "33": 2,
+            "47": 3,
+            "52": -4
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 36,
+            "max": 43
+        },
+        "name": "Genesis Pants Haku(LV3+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -3546,7 +7346,30 @@
             "base": 38,
             "max": 56
         },
-        "name": "Dragonfeet",
+        "name": "Dragonfeet(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            2,
+            2,
+            -5
+        ],
+        "skills": {
+            "38": 3,
+            "43": 3,
+            "61": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 56,
+            "max": 56
+        },
+        "name": "Dragonfeet(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -3569,7 +7392,7 @@
             "base": 48,
             "max": 70
         },
-        "name": "Fatalis Crimsonfeet",
+        "name": "Fatalis Crimsonfeet(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -3591,7 +7414,7 @@
             "base": 48,
             "max": 93
         },
-        "name": "Dragonfeet S",
+        "name": "Dragonfeet S(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -3614,7 +7437,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Dragonlegs",
+        "name": "Dragonlegs(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -3638,7 +7461,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Fatalis Crimsonlegs",
+        "name": "Fatalis Crimsonlegs(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -3661,7 +7484,7 @@
             "base": 29,
             "max": 48
         },
-        "name": "Dragonlegs S",
+        "name": "Dragonlegs S(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -3684,7 +7507,30 @@
             "base": 50,
             "max": 82
         },
-        "name": "Golden Moon Greaves",
+        "name": "Golden Moon Greaves(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            2,
+            0,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "21": 3,
+            "28": 4,
+            "55": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 53,
+            "max": 82
+        },
+        "name": "Golden Moon Greaves(LV2+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -3707,7 +7553,30 @@
             "base": 27,
             "max": 39
         },
-        "name": "Golden Moon Leggings",
+        "name": "Golden Moon Leggings(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "21": 3,
+            "28": 4,
+            "55": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 30,
+            "max": 39
+        },
+        "name": "Golden Moon Leggings(LV2+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -3730,7 +7599,7 @@
             "base": 53,
             "max": 85
         },
-        "name": "Silver Sol Greaves",
+        "name": "Silver Sol Greaves(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -3754,7 +7623,30 @@
             "base": 28,
             "max": 42
         },
-        "name": "Silver Sol Leggings",
+        "name": "Silver Sol Leggings(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            4,
+            2,
+            1,
+            1,
+            2
+        ],
+        "skills": {
+            "5": 4,
+            "9": 3,
+            "17": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 42,
+            "max": 42
+        },
+        "name": "Silver Sol Leggings(LV5+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -3777,7 +7669,7 @@
             "base": 33,
             "max": 64
         },
-        "name": "Kut-Ku Greaves S",
+        "name": "Kut-Ku Greaves S(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3801,7 +7693,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Kut-Ku Leggings S",
+        "name": "Kut-Ku Leggings S(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -3825,7 +7717,53 @@
             "base": 16,
             "max": 32
         },
-        "name": "Hermitaur Greaves",
+        "name": "Hermitaur Greaves(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "5": 2,
+            "14": 3,
+            "67": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 20,
+            "max": 32
+        },
+        "name": "Hermitaur Greaves(LV2+)",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "5": 2,
+            "14": 3,
+            "67": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 30,
+            "max": 32
+        },
+        "name": "Hermitaur Greaves(LV4+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -3848,7 +7786,31 @@
             "base": 28,
             "max": 47
         },
-        "name": "Hermitaur Greaves U",
+        "name": "Hermitaur Greaves U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "12": -2,
+            "14": 2,
+            "26": 1,
+            "51": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 30,
+            "max": 47
+        },
+        "name": "Hermitaur Greaves U(LV2+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3872,7 +7834,53 @@
             "base": 31,
             "max": 68
         },
-        "name": "Hermitaur Greaves S",
+        "name": "Hermitaur Greaves S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "6": 1,
+            "14": 3,
+            "58": -1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 56,
+            "max": 68
+        },
+        "name": "Hermitaur Greaves S(LV4+)",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            3,
+            0,
+            -2,
+            1
+        ],
+        "skills": {
+            "6": 1,
+            "14": 3,
+            "58": -1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 68,
+            "max": 68
+        },
+        "name": "Hermitaur Greaves S(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3895,7 +7903,53 @@
             "base": 10,
             "max": 18
         },
-        "name": "Hermitaur Leggings",
+        "name": "Hermitaur Leggings(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "14": 3,
+            "51": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 11,
+            "max": 18
+        },
+        "name": "Hermitaur Leggings(LV2+)",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "14": 3,
+            "51": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 16,
+            "max": 18
+        },
+        "name": "Hermitaur Leggings(LV4+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -3918,7 +7972,55 @@
             "base": 16,
             "max": 28
         },
-        "name": "Hermitaur Leggings U",
+        "name": "Hermitaur Leggings U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "12": -2,
+            "14": 2,
+            "51": 2,
+            "71": 1
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 17,
+            "max": 28
+        },
+        "name": "Hermitaur Leggings U(LV2+)",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            5,
+            1,
+            0,
+            2
+        ],
+        "skills": {
+            "12": -2,
+            "14": 2,
+            "51": 2,
+            "71": 1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 25,
+            "max": 28
+        },
+        "name": "Hermitaur Leggings U(LV4+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3942,7 +8044,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Hermitaur Leggings S",
+        "name": "Hermitaur Leggings S(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3966,7 +8068,53 @@
             "base": 17,
             "max": 35
         },
-        "name": "Conga Greaves",
+        "name": "Conga Greaves(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "53": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 21,
+            "max": 35
+        },
+        "name": "Conga Greaves(LV2+)",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 28,
+            "max": 35
+        },
+        "name": "Conga Greaves(LV3+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -3989,7 +8137,53 @@
             "base": 32,
             "max": 48
         },
-        "name": "Conga Greaves U",
+        "name": "Conga Greaves U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "12": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 36,
+            "max": 48
+        },
+        "name": "Conga Greaves U(LV2+)",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            2,
+            -1,
+            2,
+            0
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "12": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 48,
+            "max": 48
+        },
+        "name": "Conga Greaves U(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4012,7 +8206,7 @@
             "base": 35,
             "max": 68
         },
-        "name": "Conga Greaves S",
+        "name": "Conga Greaves S(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4036,7 +8230,53 @@
             "base": 11,
             "max": 19
         },
-        "name": "Conga Leggings",
+        "name": "Conga Leggings(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "53": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 12,
+            "max": 19
+        },
+        "name": "Conga Leggings(LV2+)",
+        "rarity": 3,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 15,
+            "max": 19
+        },
+        "name": "Conga Leggings(LV3+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -4059,7 +8299,53 @@
             "base": 18,
             "max": 28
         },
-        "name": "Conga Leggings U",
+        "name": "Conga Leggings U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "12": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 19,
+            "max": 28
+        },
+        "name": "Conga Leggings U(LV2+)",
+        "rarity": 6,
+        "resistance": [
+            -1,
+            4,
+            0,
+            4,
+            1
+        ],
+        "skills": {
+            "2": 2,
+            "5": 3,
+            "12": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 28,
+            "max": 28
+        },
+        "name": "Conga Leggings U(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4082,7 +8368,7 @@
             "base": 22,
             "max": 37
         },
-        "name": "Conga Leggings S",
+        "name": "Conga Leggings S(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4106,7 +8392,31 @@
             "base": 21,
             "max": 42
         },
-        "name": "Blango Greaves",
+        "name": "Blango Greaves(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 3,
+            "53": -2,
+            "60": 2,
+            "62": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 40,
+            "max": 42
+        },
+        "name": "Blango Greaves(LV4+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -4130,7 +8440,31 @@
             "base": 35,
             "max": 51
         },
-        "name": "Blango Greaves U",
+        "name": "Blango Greaves U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -4,
+            2,
+            3,
+            0,
+            1
+        ],
+        "skills": {
+            "10": 3,
+            "22": -2,
+            "44": 3,
+            "61": 1
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 47,
+            "max": 51
+        },
+        "name": "Blango Greaves U(LV4+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4154,7 +8488,7 @@
             "base": 37,
             "max": 72
         },
-        "name": "Blango Greaves S",
+        "name": "Blango Greaves S(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4177,7 +8511,31 @@
             "base": 12,
             "max": 21
         },
-        "name": "Blango Leggings",
+        "name": "Blango Leggings(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 3,
+            "53": -2,
+            "60": 2,
+            "62": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 19,
+            "max": 21
+        },
+        "name": "Blango Leggings(LV4+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -4201,7 +8559,31 @@
             "base": 19,
             "max": 29
         },
-        "name": "Blango Leggings U",
+        "name": "Blango Leggings U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 3,
+            "22": -2,
+            "44": 3,
+            "61": 1
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 26,
+            "max": 29
+        },
+        "name": "Blango Leggings U(LV4+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4225,7 +8607,31 @@
             "base": 26,
             "max": 38
         },
-        "name": "Blango Leggings S",
+        "name": "Blango Leggings S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            -3,
+            5,
+            4,
+            1,
+            2
+        ],
+        "skills": {
+            "10": 3,
+            "28": 1,
+            "32": -3,
+            "52": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 38,
+            "max": 38
+        },
+        "name": "Blango Leggings S(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4249,7 +8655,53 @@
             "base": 25,
             "max": 42
         },
-        "name": "Ceanataur Greaves",
+        "name": "Ceanataur Greaves(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "28": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 38,
+            "max": 42
+        },
+        "name": "Ceanataur Greaves(LV4+)",
+        "rarity": 3,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "28": 2
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 42,
+            "max": 42
+        },
+        "name": "Ceanataur Greaves(LV5+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -4272,7 +8724,79 @@
             "base": 36,
             "max": 52
         },
-        "name": "Ceanataur Greaves U",
+        "name": "Ceanataur Greaves U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "54": 1,
+            "59": -1
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 40,
+            "max": 52
+        },
+        "name": "Ceanataur Greaves U(LV2+)",
+        "rarity": 6,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "54": 1,
+            "59": -1
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 44,
+            "max": 52
+        },
+        "name": "Ceanataur Greaves U(LV3+)",
+        "rarity": 6,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "54": 1,
+            "59": -1
+        },
+        "slots": 2,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 52,
+            "max": 52
+        },
+        "name": "Ceanataur Greaves U(LV5+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -4296,7 +8820,30 @@
             "base": 38,
             "max": 73
         },
-        "name": "Ceanataur Greaves S",
+        "name": "Ceanataur Greaves S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            1,
+            2,
+            -1,
+            -1,
+            0
+        ],
+        "skills": {
+            "5": 4,
+            "26": -3,
+            "63": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 69,
+            "max": 73
+        },
+        "name": "Ceanataur Greaves S(LV4+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -4319,7 +8866,76 @@
             "base": 14,
             "max": 22
         },
-        "name": "Ceanataur Leggings",
+        "name": "Ceanataur Leggings(LV1+)",
+        "rarity": 3,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "28": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 17,
+            "max": 22
+        },
+        "name": "Ceanataur Leggings(LV2+)",
+        "rarity": 3,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "28": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 20,
+            "max": 22
+        },
+        "name": "Ceanataur Leggings(LV3+)",
+        "rarity": 3,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 2,
+            "14": -1,
+            "28": 2
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 22,
+            "max": 22
+        },
+        "name": "Ceanataur Leggings(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4342,7 +8958,79 @@
             "base": 20,
             "max": 30
         },
-        "name": "Ceanataur Leggings U",
+        "name": "Ceanataur Leggings U(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "1": 1,
+            "5": 2,
+            "14": -1,
+            "46": -1
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 22,
+            "max": 30
+        },
+        "name": "Ceanataur Leggings U(LV2+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "1": 1,
+            "5": 2,
+            "14": -1,
+            "46": -1
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 25,
+            "max": 30
+        },
+        "name": "Ceanataur Leggings U(LV3+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "1": 1,
+            "5": 2,
+            "14": -1,
+            "46": -1
+        },
+        "slots": 2,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 30,
+            "max": 30
+        },
+        "name": "Ceanataur Leggings U(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4366,7 +9054,31 @@
             "base": 27,
             "max": 39
         },
-        "name": "Ceanataur Leggings S",
+        "name": "Ceanataur Leggings S(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            2,
+            4,
+            0,
+            0,
+            2
+        ],
+        "skills": {
+            "5": 3,
+            "28": -2,
+            "42": 2,
+            "52": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 36,
+            "max": 39
+        },
+        "name": "Ceanataur Leggings S(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4390,7 +9102,31 @@
             "base": 34,
             "max": 50
         },
-        "name": "Kirin Leg Guards",
+        "name": "Kirin Leg Guards(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            0,
+            2,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "3": 1,
+            "18": 2,
+            "32": -2,
+            "66": 2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 50,
+            "max": 50
+        },
+        "name": "Kirin Leg Guards(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -4414,7 +9150,30 @@
             "base": 43,
             "max": 84
         },
-        "name": "Kirin Leg Guards S",
+        "name": "Kirin Leg Guards S(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "3": 4,
+            "18": 3,
+            "32": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 64,
+            "max": 84
+        },
+        "name": "Kirin Leg Guards S(LV4+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -4437,7 +9196,31 @@
             "base": 16,
             "max": 28
         },
-        "name": "Kirin Boots",
+        "name": "Kirin Boots(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            1,
+            4,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "3": 1,
+            "18": 2,
+            "32": -2,
+            "66": 2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 28,
+            "max": 28
+        },
+        "name": "Kirin Boots(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -4461,7 +9244,30 @@
             "base": 26,
             "max": 43
         },
-        "name": "Kirin Boots S",
+        "name": "Kirin Boots S(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            1,
+            4,
+            1,
+            6,
+            0
+        ],
+        "skills": {
+            "3": 4,
+            "18": 3,
+            "32": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 39,
+            "max": 43
+        },
+        "name": "Kirin Boots S(LV4+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -4484,7 +9290,31 @@
             "base": 39,
             "max": 83
         },
-        "name": "Kushala Crus",
+        "name": "Kushala Crus(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            0,
+            2,
+            4,
+            -2,
+            -3
+        ],
+        "skills": {
+            "29": 2,
+            "43": -1,
+            "50": 3,
+            "62": 3
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 83,
+            "max": 83
+        },
+        "name": "Kushala Crus(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -4508,7 +9338,31 @@
             "base": 24,
             "max": 41
         },
-        "name": "Kushala Shank",
+        "name": "Kushala Shank(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            2,
+            3,
+            5,
+            -2,
+            -2
+        ],
+        "skills": {
+            "29": 2,
+            "43": -1,
+            "50": 3,
+            "62": 3
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 41,
+            "max": 41
+        },
+        "name": "Kushala Shank(LV5+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -4532,7 +9386,7 @@
             "base": 40,
             "max": 77
         },
-        "name": "Mizuha Pants",
+        "name": "Mizuha Pants(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -4556,7 +9410,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Extravagant Pants",
+        "name": "Extravagant Pants(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -4580,7 +9434,31 @@
             "base": 43,
             "max": 83
         },
-        "name": "Empress Greaves",
+        "name": "Empress Greaves(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            5,
+            -1,
+            0,
+            0,
+            -2
+        ],
+        "skills": {
+            "2": 2,
+            "7": 1,
+            "26": 3,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 83,
+            "max": 83
+        },
+        "name": "Empress Greaves(LV5+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -4604,7 +9482,31 @@
             "base": 27,
             "max": 46
         },
-        "name": "Empress Leggings",
+        "name": "Empress Leggings(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            6,
+            1,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "2": 2,
+            "7": 1,
+            "52": 3,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 46,
+            "max": 46
+        },
+        "name": "Empress Leggings(LV5+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -4628,7 +9530,7 @@
             "base": 42,
             "max": 89
         },
-        "name": "Indra Boots",
+        "name": "Indra Boots(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -4652,7 +9554,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Steadfast Boots",
+        "name": "Steadfast Boots(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -4676,7 +9578,30 @@
             "base": 43,
             "max": 90
         },
-        "name": "Kaiser Greaves",
+        "name": "Kaiser Greaves(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            5,
+            -1,
+            0,
+            0,
+            -2
+        ],
+        "skills": {
+            "10": 4,
+            "20": 3,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 69,
+            "max": 90
+        },
+        "name": "Kaiser Greaves(LV4+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -4699,7 +9624,31 @@
             "base": 27,
             "max": 46
         },
-        "name": "Kaiser Leggings",
+        "name": "Kaiser Leggings(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            6,
+            1,
+            0,
+            2,
+            -1
+        ],
+        "skills": {
+            "10": 2,
+            "33": 2,
+            "45": 2,
+            "68": 2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 41,
+            "max": 46
+        },
+        "name": "Kaiser Leggings(LV4+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -4723,7 +9672,7 @@
             "base": 44,
             "max": 93
         },
-        "name": "Guardian Spirit Boots",
+        "name": "Guardian Spirit Boots(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -4747,7 +9696,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Carnage Boots",
+        "name": "Carnage Boots(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -4771,7 +9720,30 @@
             "base": 51,
             "max": 75
         },
-        "name": "Golden Hakama",
+        "name": "Golden Hakama(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            3,
+            2,
+            -2,
+            2,
+            3
+        ],
+        "skills": {
+            "28": 4,
+            "44": 3,
+            "53": -2
+        },
+        "slots": 0,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 63,
+            "max": 75
+        },
+        "name": "Golden Hakama(LV3+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -4794,7 +9766,30 @@
             "base": 26,
             "max": 38
         },
-        "name": "Puppet Master Socks",
+        "name": "Puppet Master Socks(LV1+)",
+        "rarity": 7,
+        "resistance": [
+            4,
+            3,
+            -1,
+            3,
+            4
+        ],
+        "skills": {
+            "28": 4,
+            "44": 3,
+            "53": -2
+        },
+        "slots": 0,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 32,
+            "max": 38
+        },
+        "name": "Puppet Master Socks(LV3+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -4817,7 +9812,7 @@
             "base": 59,
             "max": 95
         },
-        "name": "White Fatalis Feet",
+        "name": "White Fatalis Feet(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -4841,7 +9836,7 @@
             "base": 32,
             "max": 48
         },
-        "name": "White Fatalis Legs",
+        "name": "White Fatalis Legs(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -4865,7 +9860,53 @@
             "base": 13,
             "max": 25
         },
-        "name": "White Velociprey Feet",
+        "name": "White Velociprey Feet(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            0,
+            2,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "31": 3,
+            "56": 1,
+            "64": -3
+        },
+        "slots": 0,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 17,
+            "max": 25
+        },
+        "name": "White Velociprey Feet(LV3+)",
+        "rarity": 5,
+        "resistance": [
+            0,
+            2,
+            3,
+            2,
+            -2
+        ],
+        "skills": {
+            "31": 3,
+            "56": 1,
+            "64": -3
+        },
+        "slots": 1,
+        "type": 0
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 21,
+            "max": 25
+        },
+        "name": "White Velociprey Feet(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -4888,7 +9929,7 @@
             "base": 13,
             "max": 34
         },
-        "name": "Remobra Feet",
+        "name": "Remobra Feet(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -4912,7 +9953,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Guild Knight Boots",
+        "name": "Guild Knight Boots(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -4935,7 +9976,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Guild Knight Tights",
+        "name": "Guild Knight Tights(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -4958,7 +9999,30 @@
             "base": 18,
             "max": 36
         },
-        "name": "Lobster Greaves",
+        "name": "Lobster Greaves(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            -2,
+            6,
+            2,
+            -6,
+            -2
+        ],
+        "skills": {
+            "10": 3,
+            "19": 2,
+            "64": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 36,
+            "max": 36
+        },
+        "name": "Lobster Greaves(LV5+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -4981,7 +10045,31 @@
             "base": 33,
             "max": 50
         },
-        "name": "Amethyst Greaves",
+        "name": "Amethyst Greaves(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            3,
+            0,
+            1,
+            -2,
+            0
+        ],
+        "skills": {
+            "12": 2,
+            "19": 1,
+            "23": 2,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 1
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 50,
+            "max": 50
+        },
+        "name": "Amethyst Greaves(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5005,7 +10093,30 @@
             "base": 11,
             "max": 19
         },
-        "name": "Lobster Leggings",
+        "name": "Lobster Leggings(LV1+)",
+        "rarity": 5,
+        "resistance": [
+            0,
+            6,
+            3,
+            -5,
+            0
+        ],
+        "skills": {
+            "10": 3,
+            "19": 2,
+            "64": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 19,
+            "max": 19
+        },
+        "name": "Lobster Leggings(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -5028,7 +10139,31 @@
             "base": 19,
             "max": 29
         },
-        "name": "Amethyst Leggings",
+        "name": "Amethyst Leggings(LV1+)",
+        "rarity": 6,
+        "resistance": [
+            3,
+            0,
+            1,
+            0,
+            1
+        ],
+        "skills": {
+            "12": 2,
+            "19": 1,
+            "23": 2,
+            "53": -2
+        },
+        "slots": 1,
+        "type": 2
+    },
+    {
+        "category": 4,
+        "defense": {
+            "base": 29,
+            "max": 29
+        },
+        "name": "Amethyst Leggings(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
