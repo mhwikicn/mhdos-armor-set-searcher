@@ -16,7 +16,7 @@ export function * moreSkillsIterator (skillActivations: SkillActivationMap) {
     .reduce((sum, c) => sum + c.length, 0)
 
   for (let i = 0; i < totalActCount; i++) {
-    countDiv.innerHTML = `Checked ${i} possible skills ...`
+    countDiv.innerHTML = `检查可能的 ${i} 个技能 ...`
     yield i
   }
 }
@@ -37,7 +37,7 @@ const onSetClick = (tbNode: Node, viewGetter: () => Node) => {
 
 const PINS_OR_EXCL_ACTIVE_BANNER = htmlToElement(`
   <div class="results-banner banner">
-    You have some pins or exclusions active, which may be limiting results. You may find some results by removing those pins or exclusions.
+    由于设置了固定或排除项目，可能会限制搜索结果。移除固定或排除项目后可以得到一些配装结果。
   <div>
 `)
 
@@ -45,16 +45,16 @@ const getExpandedView = (set: ArmorSet, skillData: StaticSkillData, searchParams
   // build header
   const header = htmlToElement(`
     <tr>
-      <th>Skill</th>
-      <th style="width: 6%">Weapon</th>
-      <th style="width: 6%">Head</th>
-      <th style="width: 6%">Chest</th>
-      <th style="width: 6%">Arms</th>
-      <th style="width: 6%">Waist</th>
-      <th style="width: 6%">Legs</th>
-      <th style="width: 6%">Deco</th>
-      <th style="width: 6%">Total</th>
-      <th>Active</th>
+      <th>技能系统</th>
+      <th style="width: 6%">武器</th>
+      <th style="width: 6%">头</th>
+      <th style="width: 6%">胴</th>
+      <th style="width: 6%">腕</th>
+      <th style="width: 6%">腰</th>
+      <th style="width: 6%">脚</th>
+      <th style="width: 6%">珠</th>
+      <th style="width: 6%">合计</th>
+      <th>激活技能</th>
     </tr>
   `)
 
@@ -82,7 +82,7 @@ const getExpandedView = (set: ArmorSet, skillData: StaticSkillData, searchParams
 
   // build slot list
   const slotRow = document.createElement('tr')
-  slotRow.appendChild(htmlToElement('<td>Slots</td>'))
+  slotRow.appendChild(htmlToElement('<td>孔位</td>'))
   const rawSlowList = [searchParams.weaponSlots, ...set.getPieces().map(x => x.slots)]
   rawSlowList.forEach(s => slotRow.appendChild(htmlToElement(`<td>${s}</td>`)))
 
@@ -107,7 +107,7 @@ const getExpandedView = (set: ArmorSet, skillData: StaticSkillData, searchParams
 
   // build piece table
   const pieceTable = htmlToElement('<table class="result-set-piece-table"></table>')
-  const pieceTableHeader = htmlToElement('<tr><th>Def</th><th>Piece</th><th>Pin</th><th>Excl</th></tr>')
+  const pieceTableHeader = htmlToElement('<tr><th>防御</th><th>防具</th><th>固定</th><th>排除</th></tr>')
   pieceTable.appendChild(pieceTableHeader)
   for (const piece of set.getPieces()) {
     const pieceTableEle = document.createElement('tr')
@@ -189,12 +189,12 @@ const getSetElement = (set: ArmorSet, skillData: StaticSkillData, searchParams: 
   const row2 = htmlToElement(`
     <tr class="result-set-row result-set-row2">
       <td colspan="6">
-        <p><span class="def">DEF</span> <span>${set.evaluation.defense.max}</span></p>
-        <p><span class="fir">FIR</span> <span>${set.evaluation.resistance[0]}</span></p>
-        <p><span class="wat">WAT</span> <span>${set.evaluation.resistance[1]}</span></p>
-        <p><span class="ice">ICE</span> <span>${set.evaluation.resistance[2]}</span></p>
-        <p><span class="thn">THN</span> <span>${set.evaluation.resistance[3]}</span></p>
-        <p><span class="drg">DRG</span> <span>${set.evaluation.resistance[4]}</span></p>
+        <p><span class="def">防御</span> <span>${set.evaluation.defense.max}</span></p>
+        <p><span class="fir">火</span> <span>${set.evaluation.resistance[0]}</span></p>
+        <p><span class="wat">水</span> <span>${set.evaluation.resistance[1]}</span></p>
+        <p><span class="thn">雷</span> <span>${set.evaluation.resistance[3]}</span></p>
+        <p><span class="drg">龍</span> <span>${set.evaluation.resistance[4]}</span></p>
+        <p><span class="ice">冰</span> <span>${set.evaluation.resistance[2]}</span></p>
         <span class="result-set-unrelated">${unrelatedHtmlStrings.join('')}</span>
       </td>
     </tr>`)
@@ -233,7 +233,7 @@ export const renderMoreSkills = (activations: SkillActivation[], pinsOrExclActiv
   if (activations.length === 0) {
     resultContainer.appendChild(htmlToElement(`
       <div class="results-banner banner">
-        Can't fit more skills
+        无法添加更多技能
       <div>
     `))
 
@@ -255,14 +255,14 @@ export const renderResults = (sets: ArmorSet[], skillData: StaticSkillData, sear
 
   // add search param element
   resultContainer.appendChild(htmlToElement(`
-    <div class="results-title">Results for ${searchParams.skillActivations.map(x => x.name).join(', ')} (${sets.length} matches)</div>
+    <div class="results-title">满足 ${searchParams.skillActivations.map(x => x.name).join(', ')} 的结果 (前 ${sets.length} 个匹配)</div>
   `))
 
   // return if no results
   if (sets.length === 0) {
     resultContainer.appendChild(htmlToElement(`
       <div class="results-banner banner">
-        No matching armor sets
+        未找到符合条件的匹配
       <div>
     `))
 
@@ -273,7 +273,7 @@ export const renderResults = (sets: ArmorSet[], skillData: StaticSkillData, sear
 
   // build table and table header
   const table = htmlToElement('<table class="results-table" id="results-table"></table>')
-  const header = htmlToElement('<tr><th>Head</th><th>Torso</th><th>Arms</th><th>Waist</th><th>Legs</th></tr>')
+  const header = htmlToElement('<tr><th>头</th><th>胴</th><th>腕</th><th>腰</th><th>脚</th></tr>')
   resultContainer.appendChild(table)
   table.appendChild(header)
 

@@ -54,7 +54,7 @@ const getDecorationVariationsPerSlotLevel = (
 
   // create dummy for unused slots
   const dummy: Decoration = {
-    name: 'None',
+    name: '无',
     rarity: 0,
     requiredSlots: 0,
     skills: new EquipmentSkills(),

@@ -41,7 +41,7 @@ const getPinPicker = (cat: EquipmentCategory, eq: EquipmentMin[]) => {
   const content = document.createElement('select')
   content.setAttribute('id', `eq-${cat}-pin-picker`)
   content.style.width = '72%'
-  for (const x of [{ name: 'None', category: cat }].concat(...eq)) {
+  for (const x of [{ name: '无', category: cat }].concat(...eq)) {
     content.appendChild(
       htmlToElement(`<option value="${x.name}">${x.name}</option>`),
     )
@@ -63,11 +63,11 @@ const getPinPicker = (cat: EquipmentCategory, eq: EquipmentMin[]) => {
 const renderColumns = (armor: EquipmentMin[][]) => {
   const parent = document.getElementById('eq-container')
   for (const item of [
-    [EquipmentCategory.HEAD, 'Head', armor[0]],
-    [EquipmentCategory.CHEST, 'Chest', armor[1]],
-    [EquipmentCategory.ARMS, 'Arms', armor[2]],
-    [EquipmentCategory.WAIST, 'Waist', armor[3]],
-    [EquipmentCategory.LEGS, 'Legs', armor[4]],
+    [EquipmentCategory.HEAD, '头', armor[0]],
+    [EquipmentCategory.CHEST, '胴', armor[1]],
+    [EquipmentCategory.ARMS, '腕', armor[2]],
+    [EquipmentCategory.WAIST, '腰', armor[3]],
+    [EquipmentCategory.LEGS, '脚', armor[4]],
   ]) {
     const cat = item[0] as EquipmentCategory
     const name = item[1] as string
@@ -76,13 +76,13 @@ const renderColumns = (armor: EquipmentMin[][]) => {
     const root = htmlToElement(`<div class="eq-column" data-eq-column-type="${cat}"></div>`)
 
     // pins
-    const pinHeader = htmlToElement(`<div class="eq-column-item eq-column-header">${name} Pinned</div>`)
+    const pinHeader = htmlToElement(`<div class="eq-column-item eq-column-header">${name} 固定</div>`)
     const pinContent = htmlToElement('<div class="eq-column-item eq-column-content eq-column-pin"></div>')
     const pinElement = getPinPicker(cat, eq)
     pinContent.appendChild(pinElement)
 
     // exclusions
-    const exclusionHeader = htmlToElement(`<div class="eq-column-item eq-column-header">${name} Excluded</div>`)
+    const exclusionHeader = htmlToElement(`<div class="eq-column-item eq-column-header">${name} 排除</div>`)
     const exclusionContent = htmlToElement(`<div id="eq-${cat}-exclusion" class="eq-column-item eq-column-content eq-column-exclusion"></div>`)
 
     root.appendChild(pinHeader)
@@ -125,7 +125,7 @@ export const addExclusion = (x: EquipmentMin) => {
 }
 
 export const addPin = (x: EquipmentMin) => {
-  if (x.name === 'None') {
+  if (x.name === '无') {
     UserEquipmentSettings.Instance.removePin(x.category)
     saveToStorage()
     return

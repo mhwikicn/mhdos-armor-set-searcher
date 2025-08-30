@@ -54,7 +54,7 @@ const searchLogic = (equData: StaticEquipmentData, skillData: StaticSkillData) =
   const searchParams = arrangeSearchData()
 
   if (!searchParams) {
-    alert('Please select at least one skill')
+    alert('请至少选择1个技能')
     return
   }
 
@@ -75,7 +75,7 @@ const moreSkillsLogic = async (equData: StaticEquipmentData, skillData: StaticSk
   const searchParams = arrangeSearchData()
 
   if (!searchParams) {
-    alert('Please select at least one skill')
+    alert('请至少选择1个技能')
     return
   }
 

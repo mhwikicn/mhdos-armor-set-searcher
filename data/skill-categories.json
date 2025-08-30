@@ -1,10 +1,10 @@
 [
-    "Attack and Defense",
-    "Health and Stamina",
-    "Evade and Blocking",
-    "Resistances",
-    "Item Related",
-    "Blademaster Exclusives",
-    "Gunner Exclusives",
-    "Misc."
+    "攻击/防御相关",
+    "体力/耐力相关",
+    "回避/抵挡相关",
+    "耐性相关",
+    "道具相关",
+    "剑士专属",
+    "射手专属",
+    "其他"
 ]

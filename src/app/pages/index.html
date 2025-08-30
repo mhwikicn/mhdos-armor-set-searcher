@@ -5,38 +5,39 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>MH2 Armor Set Searcher</title>
+    <title>怪物猎人2在线配装搜索器</title>
     <meta
       name="description"
-      content="Armor Set Searcher for Monster Hunter Dos"
+      content="怪物猎人2（dos）的在线配装搜索器"
     />
     <meta name="author" content="TimH96" />
 
-    <meta property="og:title" content="MH2 Armor Set Searcher" />
+    <meta property="og:title" content="怪物猎人2在线配装搜索器" />
     <meta property="og:type" content="website" />
     <meta
       property="og:url"
-      content="https://timh96.github.io/mhdos-armor-set-searcher/"
+      content="https://mhwikicn.github.io/mhdos-armor-set-searcher/"
     />
     <meta
       property="og:description"
-      content="Armor Set Searcher for Monster Hunter Dos"
+      content="怪物猎人2（dos）的在线配装搜索器"
     />
 
     <link rel="stylesheet" href="styles.css" />
   </head>
 
   <body>
-    <div id="header">MH Dos Armor Set Searcher</div>
+    <div id="header">怪物猎人2在线配装搜索器</div>
 
     <div id="open-source" class="banner">
       <p>
-        This is an open-source project hosted on gh-pages,
-        <a href="https://github.com/TimH96/mhdos-armor-set-searcher"
-          >here is the repository</a
-        >. If you have a feature request or find any bugs, please create an
-        issue on GitHub. You are also welcome to integrate them yourself via a
-        Pull Request.
+        这是一个托管于GitHub Pages的开源项目，
+        <a href="https://github.com/mhwikicn/mhdos-armor-set-searcher"
+          >这里是仓库地址</a
+        >。 项目分支来自于
+        <a href="https://timh96.github.io/mhdos-armor-set-searcher/"
+          >TimH96</a
+        >。<br>如需提交功能请求或反馈错误/bug信息，请在GitHub提交议题，同样欢迎有能力之人士的拉取请求。
       </p>
     </div>
 
@@ -44,8 +45,8 @@
       <!-- navbar -->
       <div id="navbar-container">
         <ul class="navbar">
-          <li class="navbar-option" data-selection="0">Search</li>
-          <li class="navbar-option" data-selection="2">Equipment</li>
+          <li class="navbar-option" data-selection="0">搜索</li>
+          <li class="navbar-option" data-selection="2">装备</li>
         </ul>
       </div>
 
@@ -56,35 +57,35 @@
           <ul>
             <li>
               <select name="armor-type" id="armor-type">
-                <option value="1">Blademaster</option>
-                <option value="2">Gunner</option>
+                <option value="1">剑士</option>
+                <option value="2">射手</option>
               </select>
             </li>
             <li>
               <select name="weapon-slots" id="weapon-slots">
-                <option value="0">0 Weapon Slots</option>
-                <option value="1">1 Weapon Slots</option>
-                <option value="2">2 Weapon Slots</option>
-                <option value="3">3 Weapon Slots</option>
+                <option value="0">0孔武器</option>
+                <option value="1">1孔武器</option>
+                <option value="2">2孔武器</option>
+                <option value="3">3孔武器</option>
               </select>
             </li>
             <li>
               <select name="armor-rarity" id="armor-rarity">
-                <option value="7">Armor RARE7</option>
-                <option value="6">Armor RARE6</option>
-                <option value="5">Armor RARE5</option>
-                <option value="4">Armor RARE4</option>
-                <option value="3">Armor RARE3</option>
-                <option value="2">Armor RARE2</option>
-                <option value="1">Armor RARE1</option>
+                <option value="7">防具稀有度7以下</option>
+                <option value="6">防具稀有度6以下</option>
+                <option value="5">防具稀有度5以下</option>
+                <option value="4">防具稀有度4以下</option>
+                <option value="3">防具稀有度3以下</option>
+                <option value="2">防具稀有度2以下</option>
+                <option value="1">防具稀有度1以下</option>
               </select>
             </li>
             <li>
               <select name="deco-rarity" id="deco-rarity">
-                <option value="7">Deco RARE7</option>
-                <option value="6">Deco RARE6</option>
-                <option value="5">Deco RARE5</option>
-                <option value="4">Deco RARE4</option>
+                <option value="7">装饰珠稀有度7以下</option>
+                <option value="6">装饰珠稀有度6以下</option>
+                <option value="5">装饰珠稀有度5以下</option>
+                <option value="4">装饰珠稀有度4以下</option>
               </select>
             </li>
             <li>
@@ -106,9 +107,9 @@
         <!-- controls -->
         <div id="search-controls">
           <ul>
-            <li><button id="search-btn">Search</button></li>
-            <li><button id="more-btn">More Skills</button></li>
-            <li><button id="reset-btn">Reset</button></li>
+            <li><button id="search-btn">搜索</button></li>
+            <li><button id="more-btn">追加更多技能</button></li>
+            <li><button id="reset-btn">重置</button></li>
           </ul>
         </div>
 

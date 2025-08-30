@@ -41,7 +41,7 @@ const applyCharmFilter = (charms: Charm[], skills: SkillActivation[]) => {
     const x = charms.find(c => c.slots === slots)
     if (x) {
       const newC: Charm = {
-        name: `${slots} Slot Charm`,
+        name: `${slots}孔护符`,
         slots: slots as Slots,
         category: EquipmentCategory.CHARM,
         rarity: 0,
@@ -94,7 +94,7 @@ const applyArmorFilter = (
         type: x.type,
         defense: x.defense,
         resistance: x.resistance,
-        name: `${slots} Slot Piece`,
+        name: `${slots}孔防具`,
         slots: slots as Slots,
         category: x.category,
         rarity: x.rarity,
@@ -111,7 +111,7 @@ const applyArmorFilter = (
     .map(x => {
       const renamed: ArmorPiece = {
         ...x!,
-        name: 'Torso Up Piece',
+        name: '胴系统倍加防具',
         isGeneric: true,
       }
       return renamed

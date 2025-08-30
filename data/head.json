@@ -5,7 +5,7 @@
             "base": 2,
             "max": 16
         },
-        "name": "Leather Helm(LV1+)",
+        "name": "轻革头盔(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -27,7 +27,7 @@
             "base": 8,
             "max": 16
         },
-        "name": "Leather Helm(LV4+)",
+        "name": "轻革头盔(LV4+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -49,7 +49,7 @@
             "base": 7,
             "max": 21
         },
-        "name": "Leather Helm U(LV1+)",
+        "name": "轻革Ｕ头盔(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -71,7 +71,7 @@
             "base": 9,
             "max": 21
         },
-        "name": "Leather Helm U(LV3+)",
+        "name": "轻革Ｕ头盔(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -93,7 +93,7 @@
             "base": 21,
             "max": 21
         },
-        "name": "Leather Helm U(LV5+)",
+        "name": "轻革Ｕ头盔(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -115,7 +115,7 @@
             "base": 11,
             "max": 35
         },
-        "name": "Leather Helm S(LV1+)",
+        "name": "轻革Ｓ头盔(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -138,7 +138,7 @@
             "base": 15,
             "max": 35
         },
-        "name": "Leather Helm S(LV3+)",
+        "name": "轻革Ｓ头盔(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -161,7 +161,7 @@
             "base": 35,
             "max": 35
         },
-        "name": "Leather Helm S(LV5+)",
+        "name": "轻革Ｓ头盔(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -184,7 +184,7 @@
             "base": 4,
             "max": 14
         },
-        "name": "Chain Helm(LV1+)",
+        "name": "锁链头盔(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -206,7 +206,7 @@
             "base": 6,
             "max": 14
         },
-        "name": "Chain Helm(LV3+)",
+        "name": "锁链头盔(LV3+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -228,7 +228,7 @@
             "base": 14,
             "max": 14
         },
-        "name": "Chain Helm(LV5+)",
+        "name": "锁链头盔(LV5+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -250,7 +250,7 @@
             "base": 8,
             "max": 23
         },
-        "name": "Chain Helm U(LV1+)",
+        "name": "锁链Ｕ头盔(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -272,7 +272,7 @@
             "base": 9,
             "max": 23
         },
-        "name": "Chain Helm U(LV2+)",
+        "name": "锁链Ｕ头盔(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -294,7 +294,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Chain Helm U(LV3+)",
+        "name": "锁链Ｕ头盔(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -316,7 +316,7 @@
             "base": 12,
             "max": 36
         },
-        "name": "Chain Helm S(LV1+)",
+        "name": "锁链Ｓ头盔(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -338,7 +338,7 @@
             "base": 24,
             "max": 36
         },
-        "name": "Chain Helm S(LV4+)",
+        "name": "锁链Ｓ头盔(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -360,7 +360,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Chain Helm S(LV5+)",
+        "name": "锁链Ｓ头盔(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -382,7 +382,7 @@
             "base": 4,
             "max": 24
         },
-        "name": "Hunter's Helm(LV1+)",
+        "name": "猎人头盔(LV1+)",
         "rarity": 1,
         "resistance": [
             0,
@@ -405,7 +405,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Hunter's Helm(LV4+)",
+        "name": "猎人头盔(LV4+)",
         "rarity": 1,
         "resistance": [
             0,
@@ -428,7 +428,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Hunter Helm U(LV1+)",
+        "name": "猎人Ｕ头盔(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -451,7 +451,7 @@
             "base": 37,
             "max": 39
         },
-        "name": "Hunter Helm U(LV4+)",
+        "name": "猎人Ｕ头盔(LV4+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -474,7 +474,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Hunter Helm U(LV5+)",
+        "name": "猎人Ｕ头盔(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -497,7 +497,7 @@
             "base": 24,
             "max": 51
         },
-        "name": "Hunter Helm S(LV1+)",
+        "name": "猎人Ｓ头盔(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -520,7 +520,7 @@
             "base": 42,
             "max": 51
         },
-        "name": "Hunter Helm S(LV4+)",
+        "name": "猎人Ｓ头盔(LV4+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -543,7 +543,7 @@
             "base": 2,
             "max": 16
         },
-        "name": "Hunter's Cap(LV1+)",
+        "name": "猎人软帽(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -566,7 +566,7 @@
             "base": 8,
             "max": 16
         },
-        "name": "Hunter's Cap(LV4+)",
+        "name": "猎人软帽(LV4+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -589,7 +589,7 @@
             "base": 11,
             "max": 24
         },
-        "name": "Hunter Cap U(LV1+)",
+        "name": "猎人Ｕ软帽(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -612,7 +612,7 @@
             "base": 22,
             "max": 24
         },
-        "name": "Hunter Cap U(LV4+)",
+        "name": "猎人Ｕ软帽(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -635,7 +635,7 @@
             "base": 24,
             "max": 24
         },
-        "name": "Hunter Cap U(LV5+)",
+        "name": "猎人Ｕ软帽(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -658,7 +658,7 @@
             "base": 13,
             "max": 39
         },
-        "name": "Hunter Cap S(LV1+)",
+        "name": "猎人Ｓ软帽(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -681,7 +681,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Hunter Cap S(LV3+)",
+        "name": "猎人Ｓ软帽(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -704,7 +704,7 @@
             "base": 9,
             "max": 26
         },
-        "name": "Bone Helm(LV1+)",
+        "name": "骸骨头盔(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -727,7 +727,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Bone Helm(LV3+)",
+        "name": "骸骨头盔(LV3+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -750,7 +750,7 @@
             "base": 26,
             "max": 26
         },
-        "name": "Bone Helm(LV5+)",
+        "name": "骸骨头盔(LV5+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -773,7 +773,7 @@
             "base": 21,
             "max": 42
         },
-        "name": "Bone Helm U(LV1+)",
+        "name": "骸骨Ｕ头盔(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -797,7 +797,7 @@
             "base": 25,
             "max": 54
         },
-        "name": "Bone Helm S(LV1+)",
+        "name": "骸骨Ｓ头盔(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -820,7 +820,7 @@
             "base": 28,
             "max": 54
         },
-        "name": "Bone Helm S(LV2+)",
+        "name": "骸骨Ｓ头盔(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -843,7 +843,7 @@
             "base": 31,
             "max": 54
         },
-        "name": "Bone Helm S(LV3+)",
+        "name": "骸骨Ｓ头盔(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -866,7 +866,7 @@
             "base": 4,
             "max": 14
         },
-        "name": "Bone Cap(LV1+)",
+        "name": "骸骨软帽(LV1+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -889,7 +889,7 @@
             "base": 6,
             "max": 14
         },
-        "name": "Bone Cap(LV3+)",
+        "name": "骸骨软帽(LV3+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -912,7 +912,7 @@
             "base": 14,
             "max": 14
         },
-        "name": "Bone Cap(LV5+)",
+        "name": "骸骨软帽(LV5+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -935,7 +935,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Bone Cap U(LV1+)",
+        "name": "骸骨Ｕ软帽(LV1+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -959,7 +959,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "bone Cap S(LV1+)",
+        "name": "骸骨Ｓ软帽(LV1+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -982,7 +982,7 @@
             "base": 21,
             "max": 39
         },
-        "name": "bone Cap S(LV2+)",
+        "name": "骸骨Ｓ软帽(LV2+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -1005,7 +1005,7 @@
             "base": 26,
             "max": 39
         },
-        "name": "bone Cap S(LV3+)",
+        "name": "骸骨Ｓ软帽(LV3+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -1028,7 +1028,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Velociprey Helm(LV1+)",
+        "name": "蓝速龙头盔(LV1+)",
         "rarity": 2,
         "resistance": [
             1,
@@ -1050,7 +1050,7 @@
             "base": 17,
             "max": 23
         },
-        "name": "Velociprey Helm(LV4+)",
+        "name": "蓝速龙头盔(LV4+)",
         "rarity": 2,
         "resistance": [
             1,
@@ -1072,7 +1072,7 @@
             "base": 22,
             "max": 45
         },
-        "name": "Velociprey Helm U(LV1+)",
+        "name": "蓝速龙Ｕ头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1095,7 +1095,7 @@
             "base": 45,
             "max": 45
         },
-        "name": "Velociprey Helm U(LV5+)",
+        "name": "蓝速龙Ｕ头盔(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1118,7 +1118,7 @@
             "base": 26,
             "max": 57
         },
-        "name": "Velociprey Helm S(LV1+)",
+        "name": "蓝速龙Ｓ头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1142,7 +1142,7 @@
             "base": 47,
             "max": 57
         },
-        "name": "Velociprey Helm S(LV4+)",
+        "name": "蓝速龙Ｓ头盔(LV4+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1166,7 +1166,7 @@
             "base": 5,
             "max": 13
         },
-        "name": "Velociprey Cap(LV1+)",
+        "name": "蓝速龙软帽(LV1+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -1189,7 +1189,7 @@
             "base": 10,
             "max": 13
         },
-        "name": "Velociprey Cap(LV4+)",
+        "name": "蓝速龙软帽(LV4+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -1212,7 +1212,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Velociprey Cap U(LV1+)",
+        "name": "蓝速龙Ｕ软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1235,7 +1235,7 @@
             "base": 26,
             "max": 26
         },
-        "name": "Velociprey Cap U(LV5+)",
+        "name": "蓝速龙Ｕ软帽(LV5+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1258,7 +1258,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Velociprey Cap S(LV1+)",
+        "name": "蓝速龙Ｓ软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1282,7 +1282,7 @@
             "base": 29,
             "max": 38
         },
-        "name": "Velociprey Cap S(LV4+)",
+        "name": "蓝速龙Ｓ软帽(LV4+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1306,7 +1306,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Battle Helm(LV1+)",
+        "name": "战斗头盔(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1330,7 +1330,7 @@
             "base": 17,
             "max": 23
         },
-        "name": "Battle Helm(LV4+)",
+        "name": "战斗头盔(LV4+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1354,7 +1354,7 @@
             "base": 22,
             "max": 45
         },
-        "name": "Battle Helm U(LV1+)",
+        "name": "战斗Ｕ头盔(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1378,7 +1378,7 @@
             "base": 36,
             "max": 45
         },
-        "name": "Battle Helm U(LV3+)",
+        "name": "战斗Ｕ头盔(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1402,7 +1402,7 @@
             "base": 26,
             "max": 57
         },
-        "name": "Battle Helm S(LV1+)",
+        "name": "战斗Ｓ头盔(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1427,7 +1427,7 @@
             "base": 57,
             "max": 57
         },
-        "name": "Battle Helm S(LV5+)",
+        "name": "战斗Ｓ头盔(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1452,7 +1452,7 @@
             "base": 6,
             "max": 13
         },
-        "name": "Battle Cap(LV1+)",
+        "name": "战斗软帽(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -1476,7 +1476,7 @@
             "base": 10,
             "max": 13
         },
-        "name": "Battle Cap(LV4+)",
+        "name": "战斗软帽(LV4+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -1500,7 +1500,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Battle Cap U(LV1+)",
+        "name": "战斗Ｕ软帽(LV1+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1525,7 +1525,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Battle Cap U(LV3+)",
+        "name": "战斗Ｕ软帽(LV3+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1550,7 +1550,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Battle Cap S(LV1+)",
+        "name": "战斗Ｓ软帽(LV1+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1575,7 +1575,7 @@
             "base": 37,
             "max": 37
         },
-        "name": "Battle Cap S(LV5+)",
+        "name": "战斗Ｓ软帽(LV5+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1600,7 +1600,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Vespoid Helm(LV1+)",
+        "name": "巨蜂头盔(LV1+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1624,7 +1624,7 @@
             "base": 23,
             "max": 25
         },
-        "name": "Vespoid Helm(LV4+)",
+        "name": "巨蜂头盔(LV4+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1648,7 +1648,7 @@
             "base": 23,
             "max": 46
         },
-        "name": "Vespoid Helm U(LV1+)",
+        "name": "巨蜂Ｕ头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1672,7 +1672,7 @@
             "base": 43,
             "max": 46
         },
-        "name": "Vespoid Helm U(LV4+)",
+        "name": "巨蜂Ｕ头盔(LV4+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1696,7 +1696,7 @@
             "base": 27,
             "max": 58
         },
-        "name": "Vespoid Helm S(LV1+)",
+        "name": "巨蜂Ｓ头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1719,7 +1719,7 @@
             "base": 7,
             "max": 13
         },
-        "name": "Vespoid Cap(LV1+)",
+        "name": "巨蜂软帽(LV1+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1743,7 +1743,7 @@
             "base": 11,
             "max": 13
         },
-        "name": "Vespoid Cap(LV4+)",
+        "name": "巨蜂软帽(LV4+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1767,7 +1767,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Vespoid Cap U(LV1+)",
+        "name": "巨蜂Ｕ软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1790,7 +1790,7 @@
             "base": 19,
             "max": 25
         },
-        "name": "Vespoid Cap U(LV4+)",
+        "name": "巨蜂Ｕ软帽(LV4+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1813,7 +1813,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Vespoid Cap S(LV1+)",
+        "name": "巨蜂Ｓ软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1836,7 +1836,7 @@
             "base": 29,
             "max": 38
         },
-        "name": "Vespoid Cap S(LV4+)",
+        "name": "巨蜂Ｓ软帽(LV4+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1859,7 +1859,7 @@
             "base": 14,
             "max": 29
         },
-        "name": "Hornet Helm(LV1+)",
+        "name": "爬虫头盔(LV1+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1883,7 +1883,7 @@
             "base": 23,
             "max": 29
         },
-        "name": "Hornet Helm(LV3+)",
+        "name": "爬虫头盔(LV3+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1907,7 +1907,7 @@
             "base": 24,
             "max": 47
         },
-        "name": "Hornet Helm U(LV1+)",
+        "name": "爬虫Ｕ头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1931,7 +1931,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Hornet Helm S(LV1+)",
+        "name": "爬虫Ｓ头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1955,7 +1955,7 @@
             "base": 41,
             "max": 60
         },
-        "name": "Hornet Helm S(LV3+)",
+        "name": "爬虫Ｓ头盔(LV3+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1979,7 +1979,7 @@
             "base": 8,
             "max": 16
         },
-        "name": "Hornet Cap(LV1+)",
+        "name": "爬虫软帽(LV1+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -2003,7 +2003,7 @@
             "base": 12,
             "max": 16
         },
-        "name": "Hornet Cap(LV3+)",
+        "name": "爬虫软帽(LV3+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -2027,7 +2027,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Hornet Cap U(LV1+)",
+        "name": "爬虫Ｕ软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2051,7 +2051,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Hornet Cap S(LV1+)",
+        "name": "爬虫Ｓ软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2075,7 +2075,7 @@
             "base": 22,
             "max": 38
         },
-        "name": "Hornet Cap S(LV3+)",
+        "name": "爬虫Ｓ软帽(LV3+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2099,7 +2099,7 @@
             "base": 12,
             "max": 27
         },
-        "name": "Hi-Metal Helm(LV1+)",
+        "name": "精炼矿石头盔(LV1+)",
         "rarity": 2,
         "resistance": [
             -2,
@@ -2123,7 +2123,7 @@
             "base": 27,
             "max": 27
         },
-        "name": "Hi-Metal Helm(LV5+)",
+        "name": "精炼矿石头盔(LV5+)",
         "rarity": 2,
         "resistance": [
             -2,
@@ -2147,7 +2147,7 @@
             "base": 24,
             "max": 47
         },
-        "name": "Hi-Metal Helm U(LV1+)",
+        "name": "精炼矿石Ｕ头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2169,7 +2169,7 @@
             "base": 38,
             "max": 47
         },
-        "name": "Hi-Metal Helm U(LV3+)",
+        "name": "精炼矿石Ｕ头盔(LV3+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2191,7 +2191,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Hi-Metal Helm S(LV1+)",
+        "name": "精炼矿石Ｓ头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2215,7 +2215,7 @@
             "base": 7,
             "max": 13
         },
-        "name": "Hi-Metal Cap(LV1+)",
+        "name": "精炼矿石软帽(LV1+)",
         "rarity": 2,
         "resistance": [
             0,
@@ -2239,7 +2239,7 @@
             "base": 13,
             "max": 13
         },
-        "name": "Hi-Metal Cap(LV5+)",
+        "name": "精炼矿石软帽(LV5+)",
         "rarity": 2,
         "resistance": [
             0,
@@ -2263,7 +2263,7 @@
             "base": 14,
             "max": 24
         },
-        "name": "Hi-Metal Cap U(LV1+)",
+        "name": "精炼矿石Ｕ软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2285,7 +2285,7 @@
             "base": 19,
             "max": 24
         },
-        "name": "Hi-Metal Cap U(LV3+)",
+        "name": "精炼矿石Ｕ软帽(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2307,7 +2307,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Hi-Metal Cap S(LV1+)",
+        "name": "精炼矿石Ｓ软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2331,7 +2331,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Genprey Helm(LV1+)",
+        "name": "黄速龙头盔(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -2352,7 +2352,7 @@
             "base": 23,
             "max": 30
         },
-        "name": "Genprey Helm(LV4+)",
+        "name": "黄速龙头盔(LV4+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -2373,7 +2373,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Genprey Helm U(LV1+)",
+        "name": "黄速龙Ｕ头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2397,7 +2397,7 @@
             "base": 38,
             "max": 42
         },
-        "name": "Genprey Helm U(LV4+)",
+        "name": "黄速龙Ｕ头盔(LV4+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2421,7 +2421,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Genprey Helm S(LV1+)",
+        "name": "黄速龙Ｓ头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2444,7 +2444,7 @@
             "base": 50,
             "max": 60
         },
-        "name": "Genprey Helm S(LV4+)",
+        "name": "黄速龙Ｓ头盔(LV4+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2467,7 +2467,7 @@
             "base": 60,
             "max": 60
         },
-        "name": "Genprey Helm S(LV5+)",
+        "name": "黄速龙Ｓ头盔(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2490,7 +2490,7 @@
             "base": 8,
             "max": 17
         },
-        "name": "Genprey Cap(LV1+)",
+        "name": "黄速龙软帽(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2513,7 +2513,7 @@
             "base": 13,
             "max": 17
         },
-        "name": "Genprey Cap(LV4+)",
+        "name": "黄速龙软帽(LV4+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2536,7 +2536,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Genprey Cap U(LV1+)",
+        "name": "黄速龙Ｕ软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2560,7 +2560,7 @@
             "base": 22,
             "max": 25
         },
-        "name": "Genprey Cap U(LV4+)",
+        "name": "黄速龙Ｕ软帽(LV4+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2584,7 +2584,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Genprey Cap S(LV1+)",
+        "name": "黄速龙Ｓ软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2607,7 +2607,7 @@
             "base": 33,
             "max": 40
         },
-        "name": "Genprey Cap S(LV4+)",
+        "name": "黄速龙Ｓ软帽(LV4+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2630,7 +2630,7 @@
             "base": 40,
             "max": 40
         },
-        "name": "Genprey Cap S(LV5+)",
+        "name": "黄速龙Ｓ软帽(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2653,7 +2653,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Ioprey Helm(LV1+)",
+        "name": "红速龙头盔(LV1+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -2676,7 +2676,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Ioprey Helm(LV5+)",
+        "name": "红速龙头盔(LV5+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -2699,7 +2699,7 @@
             "base": 25,
             "max": 48
         },
-        "name": "Ioprey Helm U(LV1+)",
+        "name": "红速龙Ｕ头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -2722,7 +2722,7 @@
             "base": 39,
             "max": 48
         },
-        "name": "Ioprey Helm U(LV3+)",
+        "name": "红速龙Ｕ头盔(LV3+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -2745,7 +2745,7 @@
             "base": 48,
             "max": 48
         },
-        "name": "Ioprey Helm U(LV5+)",
+        "name": "红速龙Ｕ头盔(LV5+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -2768,7 +2768,7 @@
             "base": 29,
             "max": 62
         },
-        "name": "Ioprey Helm S(LV1+)",
+        "name": "红速龙Ｓ头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -2791,7 +2791,7 @@
             "base": 42,
             "max": 62
         },
-        "name": "Ioprey Helm S(LV3+)",
+        "name": "红速龙Ｓ头盔(LV3+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -2814,7 +2814,7 @@
             "base": 62,
             "max": 62
         },
-        "name": "Ioprey Helm S(LV5+)",
+        "name": "红速龙Ｓ头盔(LV5+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -2837,7 +2837,7 @@
             "base": 8,
             "max": 18
         },
-        "name": "Ioprey Cap(LV1+)",
+        "name": "红速龙软帽(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2862,7 +2862,7 @@
             "base": 18,
             "max": 18
         },
-        "name": "Ioprey Cap(LV5+)",
+        "name": "红速龙软帽(LV5+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2887,7 +2887,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Ioprey Cap U(LV1+)",
+        "name": "红速龙Ｕ软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2910,7 +2910,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Ioprey Cap U(LV3+)",
+        "name": "红速龙Ｕ软帽(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2933,7 +2933,7 @@
             "base": 25,
             "max": 25
         },
-        "name": "Ioprey Cap U(LV5+)",
+        "name": "红速龙Ｕ软帽(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2956,7 +2956,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Ioprey Cap S(LV1+)",
+        "name": "红速龙Ｓ软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2979,7 +2979,7 @@
             "base": 27,
             "max": 40
         },
-        "name": "Ioprey Cap S(LV3+)",
+        "name": "红速龙Ｓ软帽(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3002,7 +3002,7 @@
             "base": 40,
             "max": 40
         },
-        "name": "Ioprey Cap S(LV5+)",
+        "name": "红速龙Ｓ软帽(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3025,7 +3025,7 @@
             "base": 21,
             "max": 33
         },
-        "name": "Gypceros Helm(LV1+)",
+        "name": "毒怪鸟头盔(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -3049,7 +3049,7 @@
             "base": 27,
             "max": 33
         },
-        "name": "Gypceros Helm(LV3+)",
+        "name": "毒怪鸟头盔(LV3+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -3073,7 +3073,7 @@
             "base": 30,
             "max": 49
         },
-        "name": "Gypceros Helm U(LV1+)",
+        "name": "毒怪鸟Ｕ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3095,7 +3095,7 @@
             "base": 40,
             "max": 49
         },
-        "name": "Gypceros Helm U(LV3+)",
+        "name": "毒怪鸟Ｕ头盔(LV3+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3117,7 +3117,7 @@
             "base": 49,
             "max": 49
         },
-        "name": "Gypceros Helm U(LV5+)",
+        "name": "毒怪鸟Ｕ头盔(LV5+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3139,7 +3139,7 @@
             "base": 32,
             "max": 68
         },
-        "name": "Gypceros Helm S(LV1+)",
+        "name": "毒怪鸟Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3164,7 +3164,7 @@
             "base": 10,
             "max": 18
         },
-        "name": "Gypceros Cap(LV1+)",
+        "name": "毒怪鸟软帽(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -3188,7 +3188,7 @@
             "base": 14,
             "max": 18
         },
-        "name": "Gypceros Cap(LV3+)",
+        "name": "毒怪鸟软帽(LV3+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -3212,7 +3212,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Gypceros Cap U(LV1+)",
+        "name": "毒怪鸟Ｕ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3234,7 +3234,7 @@
             "base": 22,
             "max": 28
         },
-        "name": "Gypceros Cap U(LV3+)",
+        "name": "毒怪鸟Ｕ软帽(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3256,7 +3256,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Gypceros Cap U(LV5+)",
+        "name": "毒怪鸟Ｕ软帽(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3278,7 +3278,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Gypceros Cap S(LV1+)",
+        "name": "毒怪鸟Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3303,7 +3303,7 @@
             "base": 20,
             "max": 29
         },
-        "name": "Cephalos Helm(LV1+)",
+        "name": "砂龙头盔(LV1+)",
         "rarity": 2,
         "resistance": [
             -3,
@@ -3326,7 +3326,7 @@
             "base": 28,
             "max": 29
         },
-        "name": "Cephalos Helm(LV4+)",
+        "name": "砂龙头盔(LV4+)",
         "rarity": 2,
         "resistance": [
             -3,
@@ -3349,7 +3349,7 @@
             "base": 28,
             "max": 47
         },
-        "name": "Cephalos Helm U(LV1+)",
+        "name": "砂龙Ｕ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3373,7 +3373,7 @@
             "base": 38,
             "max": 47
         },
-        "name": "Cephalos Helm U(LV3+)",
+        "name": "砂龙Ｕ头盔(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3397,7 +3397,7 @@
             "base": 29,
             "max": 62
         },
-        "name": "Cephalos Helm S(LV1+)",
+        "name": "砂龙Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3421,7 +3421,7 @@
             "base": 62,
             "max": 62
         },
-        "name": "Cephalos Helm S(LV5+)",
+        "name": "砂龙Ｓ头盔(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3445,7 +3445,7 @@
             "base": 10,
             "max": 17
         },
-        "name": "Cephalos Cap(LV1+)",
+        "name": "砂龙软帽(LV1+)",
         "rarity": 2,
         "resistance": [
             -1,
@@ -3468,7 +3468,7 @@
             "base": 15,
             "max": 17
         },
-        "name": "Cephalos Cap(LV4+)",
+        "name": "砂龙软帽(LV4+)",
         "rarity": 2,
         "resistance": [
             -1,
@@ -3491,7 +3491,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Cephalos Cap U(LV1+)",
+        "name": "砂龙Ｕ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3515,7 +3515,7 @@
             "base": 20,
             "max": 24
         },
-        "name": "Cephalos Cap U(LV3+)",
+        "name": "砂龙Ｕ软帽(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3539,7 +3539,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Cephalos Cap S(LV1+)",
+        "name": "砂龙Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3563,7 +3563,7 @@
             "base": 40,
             "max": 40
         },
-        "name": "Cephalos Cap S(LV5+)",
+        "name": "砂龙Ｓ软帽(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3587,7 +3587,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Rathian Helm(LV1+)",
+        "name": "雌火龙头盔(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -3610,7 +3610,7 @@
             "base": 29,
             "max": 35
         },
-        "name": "Rathian Helm(LV3+)",
+        "name": "雌火龙头盔(LV3+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -3633,7 +3633,7 @@
             "base": 35,
             "max": 35
         },
-        "name": "Rathian Helm(LV5+)",
+        "name": "雌火龙头盔(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -3656,7 +3656,7 @@
             "base": 33,
             "max": 54
         },
-        "name": "Rath Heart Helm(LV1+)",
+        "name": "雌龙心头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3680,7 +3680,7 @@
             "base": 49,
             "max": 54
         },
-        "name": "Rath Heart Helm(LV4+)",
+        "name": "雌龙心头盔(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3704,7 +3704,7 @@
             "base": 35,
             "max": 73
         },
-        "name": "Rathian Helm S(LV1+)",
+        "name": "雌火龙Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3728,7 +3728,7 @@
             "base": 73,
             "max": 73
         },
-        "name": "Rathian Helm S(LV5+)",
+        "name": "雌火龙Ｓ头盔(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3752,7 +3752,7 @@
             "base": 12,
             "max": 20
         },
-        "name": "Rathian Cap(LV1+)",
+        "name": "雌火龙软帽(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -3775,7 +3775,7 @@
             "base": 16,
             "max": 20
         },
-        "name": "Rathian Cap(LV3+)",
+        "name": "雌火龙软帽(LV3+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -3798,7 +3798,7 @@
             "base": 20,
             "max": 20
         },
-        "name": "Rathian Cap(LV5+)",
+        "name": "雌火龙软帽(LV5+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -3821,7 +3821,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Rath Heart Cap(LV1+)",
+        "name": "雌龙心软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -3845,7 +3845,7 @@
             "base": 26,
             "max": 29
         },
-        "name": "Rath Heart Cap(LV4+)",
+        "name": "雌龙心软帽(LV4+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -3869,7 +3869,7 @@
             "base": 23,
             "max": 40
         },
-        "name": "Rathian Cap S(LV1+)",
+        "name": "雌火龙Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -3893,7 +3893,7 @@
             "base": 40,
             "max": 40
         },
-        "name": "Rathian Cap S(LV5+)",
+        "name": "雌火龙Ｓ软帽(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -3917,7 +3917,7 @@
             "base": 26,
             "max": 37
         },
-        "name": "Khezu Helm(LV1+)",
+        "name": "电龙头盔(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -3942,7 +3942,7 @@
             "base": 35,
             "max": 37
         },
-        "name": "Khezu Helm(LV3+)",
+        "name": "电龙头盔(LV3+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -3967,7 +3967,7 @@
             "base": 37,
             "max": 37
         },
-        "name": "Khezu Helm(LV5+)",
+        "name": "电龙头盔(LV5+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -3992,7 +3992,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Khezu U Helm(LV1+)",
+        "name": "电龙Ｕ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4016,7 +4016,7 @@
             "base": 39,
             "max": 51
         },
-        "name": "Khezu U Helm(LV2+)",
+        "name": "电龙Ｕ头盔(LV2+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4040,7 +4040,7 @@
             "base": 47,
             "max": 51
         },
-        "name": "Khezu U Helm(LV4+)",
+        "name": "电龙Ｕ头盔(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4064,7 +4064,7 @@
             "base": 37,
             "max": 72
         },
-        "name": "Khezu Helm S(LV1+)",
+        "name": "电龙Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4089,7 +4089,7 @@
             "base": 45,
             "max": 72
         },
-        "name": "Khezu Helm S(LV2+)",
+        "name": "电龙Ｓ头盔(LV2+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4114,7 +4114,7 @@
             "base": 13,
             "max": 20
         },
-        "name": "Khezu Cap(LV1+)",
+        "name": "电龙软帽(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -4139,7 +4139,7 @@
             "base": 18,
             "max": 20
         },
-        "name": "Khezu Cap(LV3+)",
+        "name": "电龙软帽(LV3+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -4164,7 +4164,7 @@
             "base": 20,
             "max": 20
         },
-        "name": "Khezu Cap(LV5+)",
+        "name": "电龙软帽(LV5+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -4189,7 +4189,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Khezu U Cap(LV1+)",
+        "name": "电龙Ｕ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4213,7 +4213,7 @@
             "base": 21,
             "max": 29
         },
-        "name": "Khezu U Cap(LV2+)",
+        "name": "电龙Ｕ软帽(LV2+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4237,7 +4237,7 @@
             "base": 26,
             "max": 29
         },
-        "name": "Khezu U Cap(LV4+)",
+        "name": "电龙Ｕ软帽(LV4+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4261,7 +4261,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Khezu Cap S(LV1+)",
+        "name": "电龙Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4286,7 +4286,7 @@
             "base": 26,
             "max": 41
         },
-        "name": "Khezu Cap S(LV2+)",
+        "name": "电龙Ｓ软帽(LV2+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4311,7 +4311,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Rathalos Helm(LV1+)",
+        "name": "雄火龙头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -4335,7 +4335,7 @@
             "base": 38,
             "max": 42
         },
-        "name": "Rathalos Helm(LV4+)",
+        "name": "雄火龙头盔(LV4+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -4359,7 +4359,7 @@
             "base": 37,
             "max": 54
         },
-        "name": "Rath Soul Helm(LV1+)",
+        "name": "雄龙魂头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4382,7 +4382,7 @@
             "base": 50,
             "max": 54
         },
-        "name": "Rath Soul Helm(LV4+)",
+        "name": "雄龙魂头盔(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4405,7 +4405,7 @@
             "base": 39,
             "max": 76
         },
-        "name": "Rathalos Helm S(LV1+)",
+        "name": "雄火龙Ｓ头盔(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -4428,7 +4428,7 @@
             "base": 14,
             "max": 24
         },
-        "name": "Rathalos Cap(LV1+)",
+        "name": "雄火龙软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -4452,7 +4452,7 @@
             "base": 21,
             "max": 24
         },
-        "name": "Rathalos Cap(LV4+)",
+        "name": "雄火龙软帽(LV4+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -4476,7 +4476,7 @@
             "base": 19,
             "max": 31
         },
-        "name": "Rath Soul Cap(LV1+)",
+        "name": "雄龙魂软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4499,7 +4499,7 @@
             "base": 31,
             "max": 31
         },
-        "name": "Rath Soul Cap(LV5+)",
+        "name": "雄龙魂软帽(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4522,7 +4522,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Rathalos Cap S(LV1+)",
+        "name": "雄火龙Ｓ软帽(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -4545,7 +4545,7 @@
             "base": 25,
             "max": 36
         },
-        "name": "Plesioth Helm(LV1+)",
+        "name": "水龙头盔(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -4569,7 +4569,7 @@
             "base": 34,
             "max": 36
         },
-        "name": "Plesioth Helm(LV3+)",
+        "name": "水龙头盔(LV3+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -4593,7 +4593,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Plesioth Helm U(LV1+)",
+        "name": "水龙Ｕ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4616,7 +4616,7 @@
             "base": 38,
             "max": 72
         },
-        "name": "Plesioth Helm S(LV1+)",
+        "name": "水龙Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4639,7 +4639,7 @@
             "base": 44,
             "max": 72
         },
-        "name": "Plesioth Helm S(LV3+)",
+        "name": "水龙Ｓ头盔(LV3+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4662,7 +4662,7 @@
             "base": 13,
             "max": 21
         },
-        "name": "Plesioth Cap(LV1+)",
+        "name": "水龙软帽(LV1+)",
         "rarity": 3,
         "resistance": [
             -2,
@@ -4686,7 +4686,7 @@
             "base": 19,
             "max": 21
         },
-        "name": "Plesioth Cap(LV4+)",
+        "name": "水龙软帽(LV4+)",
         "rarity": 3,
         "resistance": [
             -2,
@@ -4710,7 +4710,7 @@
             "base": 21,
             "max": 21
         },
-        "name": "Plesioth Cap(LV5+)",
+        "name": "水龙软帽(LV5+)",
         "rarity": 3,
         "resistance": [
             -2,
@@ -4734,7 +4734,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Plesioth Cap U(LV1+)",
+        "name": "水龙Ｕ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -4757,7 +4757,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Plesioth Cap S(LV1+)",
+        "name": "水龙Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -4780,7 +4780,7 @@
             "base": 33,
             "max": 41
         },
-        "name": "Plesioth Cap S(LV3+)",
+        "name": "水龙Ｓ软帽(LV3+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -4803,7 +4803,7 @@
             "base": 18,
             "max": 36
         },
-        "name": "Lobster Helm(LV1+)",
+        "name": "帝王龙虾头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -4825,7 +4825,7 @@
             "base": 34,
             "max": 36
         },
-        "name": "Lobster Helm(LV4+)",
+        "name": "帝王龙虾头盔(LV4+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -4847,7 +4847,7 @@
             "base": 33,
             "max": 50
         },
-        "name": "Amethyst Head(LV1+)",
+        "name": "美国螯虾头甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4871,7 +4871,7 @@
             "base": 41,
             "max": 50
         },
-        "name": "Amethyst Head(LV4+)",
+        "name": "美国螯虾头甲(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4895,7 +4895,7 @@
             "base": 17,
             "max": 35
         },
-        "name": "Basarios Helm(LV1+)",
+        "name": "岩龙头盔(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4918,7 +4918,7 @@
             "base": 28,
             "max": 35
         },
-        "name": "Basarios Helm(LV3+)",
+        "name": "岩龙头盔(LV3+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4941,7 +4941,7 @@
             "base": 35,
             "max": 35
         },
-        "name": "Basarios Helm(LV5+)",
+        "name": "岩龙头盔(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4964,7 +4964,7 @@
             "base": 33,
             "max": 54
         },
-        "name": "Basarios Helm U(LV1+)",
+        "name": "岩龙Ｕ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4988,7 +4988,7 @@
             "base": 54,
             "max": 54
         },
-        "name": "Basarios Helm U(LV5+)",
+        "name": "岩龙Ｕ头盔(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5012,7 +5012,7 @@
             "base": 35,
             "max": 73
         },
-        "name": "Basarios Helm S(LV1+)",
+        "name": "岩龙Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5036,7 +5036,7 @@
             "base": 10,
             "max": 20
         },
-        "name": "Basarios Cap(LV1+)",
+        "name": "岩龙软帽(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5059,7 +5059,7 @@
             "base": 16,
             "max": 20
         },
-        "name": "Basarios Cap(LV3+)",
+        "name": "岩龙软帽(LV3+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5082,7 +5082,7 @@
             "base": 20,
             "max": 20
         },
-        "name": "Basarios Cap(LV5+)",
+        "name": "岩龙软帽(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5105,7 +5105,7 @@
             "base": 19,
             "max": 28
         },
-        "name": "Basarios Cap U(LV1+)",
+        "name": "岩龙Ｕ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5129,7 +5129,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Basarios Cap U(LV5+)",
+        "name": "岩龙Ｕ软帽(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5153,7 +5153,7 @@
             "base": 23,
             "max": 40
         },
-        "name": "Basarios Cap S(LV1+)",
+        "name": "岩龙Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5177,7 +5177,7 @@
             "base": 29,
             "max": 43
         },
-        "name": "Diablo Helm(LV1+)",
+        "name": "角龙头盔(LV1+)",
         "rarity": 3,
         "resistance": [
             3,
@@ -5201,7 +5201,7 @@
             "base": 39,
             "max": 57
         },
-        "name": "Diablo Helm U(LV1+)",
+        "name": "角龙Ｕ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5225,7 +5225,7 @@
             "base": 48,
             "max": 57
         },
-        "name": "Diablo Helm U(LV3+)",
+        "name": "角龙Ｕ头盔(LV3+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5249,7 +5249,7 @@
             "base": 57,
             "max": 57
         },
-        "name": "Diablo Helm U(LV5+)",
+        "name": "角龙Ｕ头盔(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5273,7 +5273,7 @@
             "base": 41,
             "max": 81
         },
-        "name": "Diablo Helm S(LV1+)",
+        "name": "角龙Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5296,7 +5296,7 @@
             "base": 62,
             "max": 81
         },
-        "name": "Diablo Helm S(LV4+)",
+        "name": "角龙Ｓ头盔(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5319,7 +5319,7 @@
             "base": 15,
             "max": 23
         },
-        "name": "Diablo Cap(LV1+)",
+        "name": "角龙软帽(LV1+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -5344,7 +5344,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Diablo Cap U(LV1+)",
+        "name": "角龙Ｕ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5368,7 +5368,7 @@
             "base": 25,
             "max": 30
         },
-        "name": "Diablo Cap U(LV3+)",
+        "name": "角龙Ｕ软帽(LV3+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5392,7 +5392,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Diablo Cap U(LV5+)",
+        "name": "角龙Ｕ软帽(LV5+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5416,7 +5416,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Diablo Cap S(LV1+)",
+        "name": "角龙Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5439,7 +5439,7 @@
             "base": 38,
             "max": 42
         },
-        "name": "Diablo Cap S(LV4+)",
+        "name": "角龙Ｓ软帽(LV4+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5462,7 +5462,7 @@
             "base": 30,
             "max": 44
         },
-        "name": "Monoblos Helm(LV1+)",
+        "name": "一角龙头盔(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5486,7 +5486,7 @@
             "base": 37,
             "max": 44
         },
-        "name": "Monoblos Helm(LV3+)",
+        "name": "一角龙头盔(LV3+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5510,7 +5510,7 @@
             "base": 40,
             "max": 58
         },
-        "name": "Monodevil Helm(LV1+)",
+        "name": "一角魔头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5534,7 +5534,7 @@
             "base": 42,
             "max": 82
         },
-        "name": "Monoblos Helm S(LV1+)",
+        "name": "一角龙Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5559,7 +5559,7 @@
             "base": 82,
             "max": 82
         },
-        "name": "Monoblos Helm S(LV5+)",
+        "name": "一角龙Ｓ头盔(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5584,7 +5584,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Monoblos Cap(LV1+)",
+        "name": "一角龙软帽(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -5608,7 +5608,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Monoblos Cap(LV3+)",
+        "name": "一角龙软帽(LV3+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -5632,7 +5632,7 @@
             "base": 21,
             "max": 33
         },
-        "name": "Monodevil Cap(LV1+)",
+        "name": "一角魔软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5656,7 +5656,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Monoblos Cap S(LV1+)",
+        "name": "一角龙Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5681,7 +5681,7 @@
             "base": 30,
             "max": 49
         },
-        "name": "Gravios Helm(LV1+)",
+        "name": "铠龙头盔(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5706,7 +5706,7 @@
             "base": 32,
             "max": 49
         },
-        "name": "Gravios Helm(LV2+)",
+        "name": "铠龙头盔(LV2+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5731,7 +5731,7 @@
             "base": 41,
             "max": 61
         },
-        "name": "Gravios Helm U(LV1+)",
+        "name": "铠龙Ｕ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5755,7 +5755,7 @@
             "base": 56,
             "max": 61
         },
-        "name": "Gravios Helm U(LV4+)",
+        "name": "铠龙Ｕ头盔(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5779,7 +5779,7 @@
             "base": 42,
             "max": 82
         },
-        "name": "Gravios Helm S(LV1+)",
+        "name": "铠龙Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5802,7 +5802,7 @@
             "base": 51,
             "max": 82
         },
-        "name": "Gravios Helm S(LV2+)",
+        "name": "铠龙Ｓ头盔(LV2+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5825,7 +5825,7 @@
             "base": 78,
             "max": 82
         },
-        "name": "Gravios Helm S(LV4+)",
+        "name": "铠龙Ｓ头盔(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5848,7 +5848,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Gravios Cap(LV1+)",
+        "name": "铠龙软帽(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -5873,7 +5873,7 @@
             "base": 16,
             "max": 25
         },
-        "name": "Gravios Cap(LV2+)",
+        "name": "铠龙软帽(LV2+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -5898,7 +5898,7 @@
             "base": 22,
             "max": 25
         },
-        "name": "Gravios Cap(LV4+)",
+        "name": "铠龙软帽(LV4+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -5923,7 +5923,7 @@
             "base": 22,
             "max": 34
         },
-        "name": "Gravios Cap U(LV1+)",
+        "name": "铠龙Ｕ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5946,7 +5946,7 @@
             "base": 31,
             "max": 34
         },
-        "name": "Gravios Cap U(LV4+)",
+        "name": "铠龙Ｕ软帽(LV4+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5969,7 +5969,7 @@
             "base": 34,
             "max": 34
         },
-        "name": "Gravios Cap U(LV5+)",
+        "name": "铠龙Ｕ软帽(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5992,7 +5992,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Gravios Cap S(LV1+)",
+        "name": "铠龙Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6015,7 +6015,7 @@
             "base": 27,
             "max": 42
         },
-        "name": "Gravios Cap S(LV2+)",
+        "name": "铠龙Ｓ软帽(LV2+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6038,7 +6038,7 @@
             "base": 38,
             "max": 42
         },
-        "name": "Gravios Cap S(LV4+)",
+        "name": "铠龙Ｓ软帽(LV4+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6061,7 +6061,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Black Belt Helm(LV1+)",
+        "name": "黑带头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6084,7 +6084,7 @@
             "base": 22,
             "max": 37
         },
-        "name": "Black Belt Helm(LV3+)",
+        "name": "黑带头盔(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6107,7 +6107,7 @@
             "base": 37,
             "max": 37
         },
-        "name": "Black Belt Helm(LV5+)",
+        "name": "黑带头盔(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6130,7 +6130,7 @@
             "base": 25,
             "max": 37
         },
-        "name": "Black Belt Helm S(LV1+)",
+        "name": "黑带Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -6152,7 +6152,7 @@
             "base": 34,
             "max": 37
         },
-        "name": "Black Belt Helm S(LV4+)",
+        "name": "黑带Ｓ头盔(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -6174,7 +6174,7 @@
             "base": 3,
             "max": 8
         },
-        "name": "Mosswine Mask(LV1+)",
+        "name": "苔猪伪装头(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -6197,7 +6197,7 @@
             "base": 5,
             "max": 8
         },
-        "name": "Mosswine Mask(LV3+)",
+        "name": "苔猪伪装头(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -6220,7 +6220,7 @@
             "base": 12,
             "max": 21
         },
-        "name": "Felyne Mask(LV1+)",
+        "name": "白猫伪装头(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6241,7 +6241,7 @@
             "base": 10,
             "max": 21
         },
-        "name": "Chaoshroom(LV1+)",
+        "name": "混沌头饰(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6263,7 +6263,7 @@
             "base": 13,
             "max": 21
         },
-        "name": "Chaoshroom(LV3+)",
+        "name": "混沌头饰(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6285,7 +6285,7 @@
             "base": 17,
             "max": 21
         },
-        "name": "Chaoshroom(LV5+)",
+        "name": "混沌头饰(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6307,7 +6307,7 @@
             "base": 21,
             "max": 21
         },
-        "name": "Chaoshroom(LV7+)",
+        "name": "混沌头饰(LV7+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6329,7 +6329,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Melhoa Flower(LV1+)",
+        "name": "花瓣头冠(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -6352,7 +6352,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Melhoa Flower(LV3+)",
+        "name": "花瓣头冠(LV3+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -6375,7 +6375,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Makluva Hood(LV1+)",
+        "name": "鱼鳞兜帽(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6398,7 +6398,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Makluva Hood(LV3+)",
+        "name": "鱼鳞兜帽(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6421,7 +6421,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Bistro Cap(LV1+)",
+        "name": "餐馆高帽(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6444,7 +6444,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Bistro Cap(LV3+)",
+        "name": "餐馆高帽(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6467,7 +6467,7 @@
             "base": 9,
             "max": 21
         },
-        "name": "Velociprey Mask(LV1+)",
+        "name": "蓝速龙伪装头(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6490,7 +6490,7 @@
             "base": 15,
             "max": 21
         },
-        "name": "Velociprey Mask(LV3+)",
+        "name": "蓝速龙伪装头(LV3+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6513,7 +6513,7 @@
             "base": 19,
             "max": 21
         },
-        "name": "Velociprey Mask(LV5+)",
+        "name": "蓝速龙伪装头(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6536,7 +6536,7 @@
             "base": 11,
             "max": 28
         },
-        "name": "Genprey Mask(LV1+)",
+        "name": "黄速龙伪装头(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6559,7 +6559,7 @@
             "base": 19,
             "max": 28
         },
-        "name": "Genprey Mask(LV3+)",
+        "name": "黄速龙伪装头(LV3+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6582,7 +6582,7 @@
             "base": 24,
             "max": 28
         },
-        "name": "Genprey Mask(LV5+)",
+        "name": "黄速龙伪装头(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6605,7 +6605,7 @@
             "base": 14,
             "max": 33
         },
-        "name": "Ioprey Mask(LV1+)",
+        "name": "红速龙伪装头(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6628,7 +6628,7 @@
             "base": 23,
             "max": 33
         },
-        "name": "Ioprey Mask(LV3+)",
+        "name": "红速龙伪装头(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6651,7 +6651,7 @@
             "base": 29,
             "max": 33
         },
-        "name": "Ioprey Mask(LV5+)",
+        "name": "红速龙伪装头(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6674,7 +6674,7 @@
             "base": 4,
             "max": 14
         },
-        "name": "Bullfango Mask(LV1+)",
+        "name": "大野猪伪装头(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -6696,7 +6696,7 @@
             "base": 10,
             "max": 10
         },
-        "name": "Red Earrings(LV1+)",
+        "name": "赤炎耳饰(LV1+)",
         "rarity": 5,
         "resistance": [
             5,
@@ -6718,7 +6718,7 @@
             "base": 10,
             "max": 10
         },
-        "name": "Blue Earrings(LV1+)",
+        "name": "苍流耳饰(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -6740,7 +6740,7 @@
             "base": 10,
             "max": 10
         },
-        "name": "Yellow Earrings(LV1+)",
+        "name": "金雷耳饰(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -6762,7 +6762,7 @@
             "base": 10,
             "max": 10
         },
-        "name": "Black Earrings(LV1+)",
+        "name": "幽玄耳饰(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -6784,7 +6784,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Shinobi Mask \"Sun\"(LV1+)",
+        "name": "忍之面・阳(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6807,7 +6807,7 @@
             "base": 22,
             "max": 33
         },
-        "name": "Shinobi Mask \"Sun\"(LV3+)",
+        "name": "忍之面・阳(LV3+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6830,7 +6830,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Shinobi Mask \"Sky\"(LV1+)",
+        "name": "忍之面・空(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6853,7 +6853,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Shinobi Mask \"Heaven\"(LV1+)",
+        "name": "忍之面・天(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6877,7 +6877,7 @@
             "base": 33,
             "max": 41
         },
-        "name": "Shinobi Mask \"Heaven\"(LV3+)",
+        "name": "忍之面・天(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6901,7 +6901,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Shinobi Mask \"Moon\"(LV1+)",
+        "name": "忍之面・阴(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -6924,7 +6924,7 @@
             "base": 22,
             "max": 33
         },
-        "name": "Shinobi Mask \"Moon\"(LV3+)",
+        "name": "忍之面・阴(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -6947,7 +6947,7 @@
             "base": 33,
             "max": 33
         },
-        "name": "Shinobi Mask \"Moon\"(LV5+)",
+        "name": "忍之面・阴(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -6970,7 +6970,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Shinobi Mask \"Sea\"(LV1+)",
+        "name": "忍之面・海(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6994,7 +6994,7 @@
             "base": 32,
             "max": 32
         },
-        "name": "Shinobi Mask \"Sea\"(LV5+)",
+        "name": "忍之面・海(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -7018,7 +7018,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Shinobi Mask \"Earth\"(LV1+)",
+        "name": "忍之面・地(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -7042,7 +7042,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Guardian Helm(LV1+)",
+        "name": "守卫者头盔(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7066,7 +7066,7 @@
             "base": 28,
             "max": 30
         },
-        "name": "Guardian Helm(LV4+)",
+        "name": "守卫者头盔(LV4+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7090,7 +7090,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Guardian Helm(LV5+)",
+        "name": "守卫者头盔(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7114,7 +7114,7 @@
             "base": 21,
             "max": 36
         },
-        "name": "Guardian Helm U(LV1+)",
+        "name": "守卫者Ｕ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7138,7 +7138,7 @@
             "base": 29,
             "max": 36
         },
-        "name": "Guardian Helm U(LV3+)",
+        "name": "守卫者Ｕ头盔(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7162,7 +7162,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Guardian Helm U(LV5+)",
+        "name": "守卫者Ｕ头盔(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7186,7 +7186,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Red Guild Guard Tricorne(LV1+)",
+        "name": "公会卫队冠帽红(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7209,7 +7209,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Red Guild Guard Tricorne(LV3+)",
+        "name": "公会卫队冠帽红(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7232,7 +7232,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Blue Guild Guard Tricorne(LV1+)",
+        "name": "公会卫队冠帽苍(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7255,7 +7255,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Blue Guild Guard Tricorne(LV5+)",
+        "name": "公会卫队冠帽苍(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7278,7 +7278,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Guardian Mask(LV1+)",
+        "name": "守卫者面具(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7302,7 +7302,7 @@
             "base": 28,
             "max": 30
         },
-        "name": "Guardian Mask(LV4+)",
+        "name": "守卫者面具(LV4+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7326,7 +7326,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Guardian Mask(LV5+)",
+        "name": "守卫者面具(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7350,7 +7350,7 @@
             "base": 21,
             "max": 36
         },
-        "name": "Guardian Mask U(LV1+)",
+        "name": "守卫者Ｕ面具(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7374,7 +7374,7 @@
             "base": 29,
             "max": 36
         },
-        "name": "Guardian Mask U(LV3+)",
+        "name": "守卫者Ｕ面具(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7398,7 +7398,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Guardian Mask U(LV5+)",
+        "name": "守卫者Ｕ面具(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7422,7 +7422,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Red Guild Guard Mask(LV1+)",
+        "name": "公会卫队面具红(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7446,7 +7446,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Red Guild Guard Mask(LV3+)",
+        "name": "公会卫队面具红(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7470,7 +7470,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Blue Guild Guard Mask(LV1+)",
+        "name": "公会卫队面具苍(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7493,7 +7493,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Blue Guild Guard Mask(LV5+)",
+        "name": "公会卫队面具苍(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7516,7 +7516,7 @@
             "base": 14,
             "max": 26
         },
-        "name": "Skull Face(LV1+)",
+        "name": "髑髅面(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -7538,7 +7538,7 @@
             "base": 16,
             "max": 26
         },
-        "name": "Skull Face(LV2+)",
+        "name": "髑髅面(LV2+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -7560,7 +7560,7 @@
             "base": 20,
             "max": 26
         },
-        "name": "Skull Face(LV4+)",
+        "name": "髑髅面(LV4+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -7582,7 +7582,7 @@
             "base": 24,
             "max": 26
         },
-        "name": "Skull Face(LV6+)",
+        "name": "髑髅面(LV6+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -7604,7 +7604,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Garuga Helm(LV1+)",
+        "name": "黑狼鸟头盔(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -7626,7 +7626,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Garuga Cap(LV1+)",
+        "name": "黑狼鸟软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -7649,7 +7649,7 @@
             "base": 11,
             "max": 18
         },
-        "name": "Garuga Mask(LV1+)",
+        "name": "黑狼鸟伪装头(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -7672,7 +7672,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Auroros Helm(LV1+)",
+        "name": "晓丸【兜】(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -7696,7 +7696,7 @@
             "base": 43,
             "max": 51
         },
-        "name": "Auroros Helm(LV3+)",
+        "name": "晓丸【兜】(LV3+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -7720,7 +7720,7 @@
             "base": 51,
             "max": 51
         },
-        "name": "Auroros Helm(LV5+)",
+        "name": "晓丸【兜】(LV5+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -7744,7 +7744,7 @@
             "base": 43,
             "max": 63
         },
-        "name": "Auroros Helm Mai(LV1+)",
+        "name": "晓丸・皇【兜】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7767,7 +7767,7 @@
             "base": 53,
             "max": 63
         },
-        "name": "Auroros Helm Mai(LV3+)",
+        "name": "晓丸・皇【兜】(LV3+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7790,7 +7790,7 @@
             "base": 44,
             "max": 84
         },
-        "name": "Auroros Helm Haku(LV1+)",
+        "name": "晓丸・霸【兜】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7814,7 +7814,7 @@
             "base": 69,
             "max": 84
         },
-        "name": "Auroros Helm Haku(LV3+)",
+        "name": "晓丸・霸【兜】(LV3+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7838,7 +7838,7 @@
             "base": 18,
             "max": 26
         },
-        "name": "Genesis Headpiece(LV1+)",
+        "name": "曙丸【乌帽子】(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -7861,7 +7861,7 @@
             "base": 22,
             "max": 26
         },
-        "name": "Genesis Headpiece(LV3+)",
+        "name": "曙丸【乌帽子】(LV3+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -7884,7 +7884,7 @@
             "base": 26,
             "max": 26
         },
-        "name": "Genesis Headpiece(LV5+)",
+        "name": "曙丸【乌帽子】(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -7907,7 +7907,7 @@
             "base": 22,
             "max": 34
         },
-        "name": "Genesis Headpiece Mai(LV1+)",
+        "name": "曙丸・皇【乌帽子】(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7931,7 +7931,7 @@
             "base": 28,
             "max": 34
         },
-        "name": "Genesis Headpiece Mai(LV3+)",
+        "name": "曙丸・皇【乌帽子】(LV3+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7955,7 +7955,7 @@
             "base": 29,
             "max": 43
         },
-        "name": "Genesis Headpiece Haku(LV1+)",
+        "name": "曙丸・霸【乌帽子】(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7978,7 +7978,7 @@
             "base": 36,
             "max": 43
         },
-        "name": "Genesis Headpiece Haku(LV3+)",
+        "name": "曙丸・霸【乌帽子】(LV3+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -8001,7 +8001,7 @@
             "base": 38,
             "max": 56
         },
-        "name": "Dragonhead(LV1+)",
+        "name": "邪龍之首(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -8024,7 +8024,7 @@
             "base": 47,
             "max": 56
         },
-        "name": "Dragonhead(LV3+)",
+        "name": "邪龍之首(LV3+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -8047,7 +8047,7 @@
             "base": 48,
             "max": 70
         },
-        "name": "Fatalis Crimsonhead(LV1+)",
+        "name": "魔龍之首(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -8069,7 +8069,7 @@
             "base": 48,
             "max": 93
         },
-        "name": "Dragonhead S(LV1+)",
+        "name": "邪龍Ｓ之首(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -8092,7 +8092,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Dragonface(LV1+)",
+        "name": "邪龍之面(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8116,7 +8116,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Fatalis Crimsonface(LV1+)",
+        "name": "魔龍之面(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8139,7 +8139,7 @@
             "base": 29,
             "max": 48
         },
-        "name": "Dragonface S(LV1+)",
+        "name": "邪龍Ｓ之面(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8162,7 +8162,7 @@
             "base": 50,
             "max": 82
         },
-        "name": "Golden Moon Helm(LV1+)",
+        "name": "金月头盔(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8185,7 +8185,7 @@
             "base": 82,
             "max": 82
         },
-        "name": "Golden Moon Helm(LV5+)",
+        "name": "金月头盔(LV5+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8208,7 +8208,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Golden Moon Cap(LV1+)",
+        "name": "金月软帽(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -8231,7 +8231,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Golden Moon Cap(LV5+)",
+        "name": "金月软帽(LV5+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -8254,7 +8254,7 @@
             "base": 53,
             "max": 85
         },
-        "name": "Silver Sol Helm(LV1+)",
+        "name": "银日头盔(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8278,7 +8278,7 @@
             "base": 70,
             "max": 85
         },
-        "name": "Silver Sol Helm(LV3+)",
+        "name": "银日头盔(LV3+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8302,7 +8302,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Silver Sol Cap(LV1+)",
+        "name": "银日软帽(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -8325,7 +8325,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Silver Sol Cap(LV5+)",
+        "name": "银日软帽(LV5+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -8348,7 +8348,7 @@
             "base": 33,
             "max": 64
         },
-        "name": "Kut-Ku Helm S(LV1+)",
+        "name": "怪鸟Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -8370,7 +8370,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Kut-Ku Cap S(LV1+)",
+        "name": "怪鸟Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -8393,7 +8393,7 @@
             "base": 16,
             "max": 32
         },
-        "name": "Hermitaur Helm(LV1+)",
+        "name": "盾蟹头盔(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8416,7 +8416,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Hermitaur Helm(LV2+)",
+        "name": "盾蟹头盔(LV2+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8439,7 +8439,7 @@
             "base": 30,
             "max": 32
         },
-        "name": "Hermitaur Helm(LV4+)",
+        "name": "盾蟹头盔(LV4+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8462,7 +8462,7 @@
             "base": 28,
             "max": 47
         },
-        "name": "Hermitaur Helm U(LV1+)",
+        "name": "盾蟹Ｕ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8486,7 +8486,7 @@
             "base": 38,
             "max": 47
         },
-        "name": "Hermitaur Helm U(LV3+)",
+        "name": "盾蟹Ｕ头盔(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8510,7 +8510,7 @@
             "base": 47,
             "max": 47
         },
-        "name": "Hermitaur Helm U(LV5+)",
+        "name": "盾蟹Ｕ头盔(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8534,7 +8534,7 @@
             "base": 31,
             "max": 68
         },
-        "name": "Hermitaur Helm S(LV1+)",
+        "name": "盾蟹Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8558,7 +8558,7 @@
             "base": 38,
             "max": 68
         },
-        "name": "Hermitaur Helm S(LV2+)",
+        "name": "盾蟹Ｓ头盔(LV2+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8582,7 +8582,7 @@
             "base": 10,
             "max": 18
         },
-        "name": "Hermitaur Cap(LV1+)",
+        "name": "盾蟹软帽(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8605,7 +8605,7 @@
             "base": 11,
             "max": 18
         },
-        "name": "Hermitaur Cap(LV2+)",
+        "name": "盾蟹软帽(LV2+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8628,7 +8628,7 @@
             "base": 16,
             "max": 18
         },
-        "name": "Hermitaur Cap(LV4+)",
+        "name": "盾蟹软帽(LV4+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8651,7 +8651,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Hermitaur Cap U(LV1+)",
+        "name": "盾蟹Ｕ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8675,7 +8675,7 @@
             "base": 22,
             "max": 28
         },
-        "name": "Hermitaur Cap U(LV3+)",
+        "name": "盾蟹Ｕ软帽(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8699,7 +8699,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Hermitaur Cap U(LV5+)",
+        "name": "盾蟹Ｕ软帽(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8723,7 +8723,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Hermitaur Cap S(LV1+)",
+        "name": "盾蟹Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8746,7 +8746,7 @@
             "base": 30,
             "max": 37
         },
-        "name": "Hermitaur Cap S(LV3+)",
+        "name": "盾蟹Ｓ软帽(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8769,7 +8769,7 @@
             "base": 17,
             "max": 35
         },
-        "name": "Conga Helm(LV1+)",
+        "name": "桃毛头盔(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8792,7 +8792,7 @@
             "base": 28,
             "max": 35
         },
-        "name": "Conga Helm(LV3+)",
+        "name": "桃毛头盔(LV3+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8815,7 +8815,7 @@
             "base": 32,
             "max": 48
         },
-        "name": "Conga Helm U(LV1+)",
+        "name": "桃毛Ｕ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8838,7 +8838,7 @@
             "base": 40,
             "max": 48
         },
-        "name": "Conga Helm U(LV3+)",
+        "name": "桃毛Ｕ头盔(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8861,7 +8861,7 @@
             "base": 48,
             "max": 48
         },
-        "name": "Conga Helm U(LV5+)",
+        "name": "桃毛Ｕ头盔(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8884,7 +8884,7 @@
             "base": 35,
             "max": 68
         },
-        "name": "Conga Helm S(LV1+)",
+        "name": "桃毛Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8908,7 +8908,7 @@
             "base": 11,
             "max": 19
         },
-        "name": "Conga Cap(LV1+)",
+        "name": "桃毛软帽(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8931,7 +8931,7 @@
             "base": 15,
             "max": 19
         },
-        "name": "Conga Cap(LV3+)",
+        "name": "桃毛软帽(LV3+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8954,7 +8954,7 @@
             "base": 18,
             "max": 28
         },
-        "name": "Conga Cap U(LV1+)",
+        "name": "桃毛Ｕ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8977,7 +8977,7 @@
             "base": 19,
             "max": 28
         },
-        "name": "Conga Cap U(LV2+)",
+        "name": "桃毛Ｕ软帽(LV2+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -9000,7 +9000,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Conga Cap U(LV5+)",
+        "name": "桃毛Ｕ软帽(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -9023,7 +9023,7 @@
             "base": 22,
             "max": 37
         },
-        "name": "Conga Cap S(LV1+)",
+        "name": "桃毛Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -9048,7 +9048,7 @@
             "base": 21,
             "max": 42
         },
-        "name": "Blango Helm(LV1+)",
+        "name": "雪狮头盔(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -9071,7 +9071,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Blango Helm(LV3+)",
+        "name": "雪狮头盔(LV3+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -9094,7 +9094,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Blango Helm(LV5+)",
+        "name": "雪狮头盔(LV5+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -9117,7 +9117,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Blango Helm U(LV1+)",
+        "name": "雪狮Ｕ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -9141,7 +9141,7 @@
             "base": 47,
             "max": 51
         },
-        "name": "Blango Helm U(LV4+)",
+        "name": "雪狮Ｕ头盔(LV4+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -9165,7 +9165,7 @@
             "base": 37,
             "max": 72
         },
-        "name": "Blango Helm S(LV1+)",
+        "name": "雪狮Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -9188,7 +9188,7 @@
             "base": 12,
             "max": 21
         },
-        "name": "Blango Cap(LV1+)",
+        "name": "雪狮软帽(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -9211,7 +9211,7 @@
             "base": 17,
             "max": 21
         },
-        "name": "Blango Cap(LV3+)",
+        "name": "雪狮软帽(LV3+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -9234,7 +9234,7 @@
             "base": 21,
             "max": 21
         },
-        "name": "Blango Cap(LV5+)",
+        "name": "雪狮软帽(LV5+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -9257,7 +9257,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Blango Cap U(LV1+)",
+        "name": "雪狮Ｕ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -9281,7 +9281,7 @@
             "base": 24,
             "max": 29
         },
-        "name": "Blango Cap U(LV3+)",
+        "name": "雪狮Ｕ软帽(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -9305,7 +9305,7 @@
             "base": 26,
             "max": 38
         },
-        "name": "Blango Cap S(LV1+)",
+        "name": "雪狮Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -9329,7 +9329,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Ceanataur Helm(LV1+)",
+        "name": "镰蟹头盔(LV1+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -9354,7 +9354,7 @@
             "base": 27,
             "max": 42
         },
-        "name": "Ceanataur Helm(LV2+)",
+        "name": "镰蟹头盔(LV2+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -9379,7 +9379,7 @@
             "base": 36,
             "max": 52
         },
-        "name": "Ceanataur Helm U(LV1+)",
+        "name": "镰蟹Ｕ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -9404,7 +9404,7 @@
             "base": 38,
             "max": 73
         },
-        "name": "Ceanataur Helmet S(LV1+)",
+        "name": "镰蟹Ｓ头盔(LV1+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -9427,7 +9427,7 @@
             "base": 73,
             "max": 73
         },
-        "name": "Ceanataur Helmet S(LV5+)",
+        "name": "镰蟹Ｓ头盔(LV5+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -9450,7 +9450,7 @@
             "base": 14,
             "max": 22
         },
-        "name": "Ceanataur Cap(LV1+)",
+        "name": "镰蟹软帽(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -9475,7 +9475,7 @@
             "base": 17,
             "max": 22
         },
-        "name": "Ceanataur Cap(LV2+)",
+        "name": "镰蟹软帽(LV2+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -9500,7 +9500,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Ceanataur Cap U(LV1+)",
+        "name": "镰蟹Ｕ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9524,7 +9524,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Ceanataur Cap S(LV1+)",
+        "name": "镰蟹Ｓ软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9548,7 +9548,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Ceanataur Cap S(LV5+)",
+        "name": "镰蟹Ｓ软帽(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9572,7 +9572,7 @@
             "base": 34,
             "max": 50
         },
-        "name": "Kirin Thunderhorn(LV1+)",
+        "name": "麒麟角冠(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9596,7 +9596,7 @@
             "base": 50,
             "max": 50
         },
-        "name": "Kirin Thunderhorn(LV5+)",
+        "name": "麒麟角冠(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9620,7 +9620,7 @@
             "base": 43,
             "max": 84
         },
-        "name": "Kirin Horn S(LV1+)",
+        "name": "麒麟Ｓ角冠(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9643,7 +9643,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Kirin Crest(LV1+)",
+        "name": "麒麟头冠(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -9667,7 +9667,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Kirin Crest(LV5+)",
+        "name": "麒麟头冠(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -9691,7 +9691,7 @@
             "base": 26,
             "max": 43
         },
-        "name": "Kirin Crest S(LV1+)",
+        "name": "麒麟Ｓ头冠(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -9714,7 +9714,7 @@
             "base": 39,
             "max": 83
         },
-        "name": "Kushala Glare(LV1+)",
+        "name": "乞沙拏刃头盔(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9738,7 +9738,7 @@
             "base": 83,
             "max": 83
         },
-        "name": "Kushala Glare(LV5+)",
+        "name": "乞沙拏刃头盔(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9762,7 +9762,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Kushala Snarl(LV1+)",
+        "name": "乞沙拏尖头盔(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -9786,7 +9786,7 @@
             "base": 41,
             "max": 41
         },
-        "name": "Kushala Snarl(LV5+)",
+        "name": "乞沙拏尖头盔(LV5+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -9810,7 +9810,7 @@
             "base": 40,
             "max": 77
         },
-        "name": "Mizuha Headpiece(LV1+)",
+        "name": "弥都波【乌帽子】(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -9834,7 +9834,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Extravagant Headpiece(LV1+)",
+        "name": "丰玉【乌帽子】(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -9858,7 +9858,7 @@
             "base": 43,
             "max": 83
         },
-        "name": "Empress Crown(LV1+)",
+        "name": "女帝皇冠(LV1+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -9882,7 +9882,7 @@
             "base": 83,
             "max": 83
         },
-        "name": "Empress Crown(LV5+)",
+        "name": "女帝皇冠(LV5+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -9906,7 +9906,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Empress Mask(LV1+)",
+        "name": "女帝皇面(LV1+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -9930,7 +9930,7 @@
             "base": 46,
             "max": 46
         },
-        "name": "Empress Mask(LV5+)",
+        "name": "女帝皇面(LV5+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -9954,7 +9954,7 @@
             "base": 42,
             "max": 89
         },
-        "name": "Indra Helm(LV1+)",
+        "name": "金刚【兜】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -9978,7 +9978,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Steadfast Helm(LV1+)",
+        "name": "不动【兜】(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -10002,7 +10002,7 @@
             "base": 43,
             "max": 90
         },
-        "name": "Kaiser Crown(LV1+)",
+        "name": "凯撒皇冠(LV1+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -10025,7 +10025,7 @@
             "base": 69,
             "max": 90
         },
-        "name": "Kaiser Crown(LV4+)",
+        "name": "凯撒皇冠(LV4+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -10048,7 +10048,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Kaiser Mask(LV1+)",
+        "name": "凯撒皇面(LV1+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -10072,7 +10072,7 @@
             "base": 41,
             "max": 46
         },
-        "name": "Kaiser Mask(LV4+)",
+        "name": "凯撒皇面(LV4+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -10096,7 +10096,7 @@
             "base": 44,
             "max": 93
         },
-        "name": "Guardian Spirit Mask(LV1+)",
+        "name": "夜叉【御面】(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -10120,7 +10120,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Carnage Mask(LV1+)",
+        "name": "修罗【御面】(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -10144,7 +10144,7 @@
             "base": 51,
             "max": 75
         },
-        "name": "Golden Hair Tie(LV1+)",
+        "name": "金色之添发(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -10167,7 +10167,7 @@
             "base": 63,
             "max": 75
         },
-        "name": "Golden Hair Tie(LV3+)",
+        "name": "金色之添发(LV3+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -10190,7 +10190,7 @@
             "base": 26,
             "max": 38
         },
-        "name": "Puppet Master Mask(LV1+)",
+        "name": "黑子之面隐(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -10213,7 +10213,7 @@
             "base": 32,
             "max": 38
         },
-        "name": "Puppet Master Mask(LV3+)",
+        "name": "黑子之面隐(LV3+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -10236,7 +10236,7 @@
             "base": 59,
             "max": 95
         },
-        "name": "White Fatalis Head(LV1+)",
+        "name": "祖龍之首(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -10260,7 +10260,7 @@
             "base": 32,
             "max": 48
         },
-        "name": "White Fatalis Face(LV1+)",
+        "name": "祖龍之面(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -10284,7 +10284,7 @@
             "base": 13,
             "max": 25
         },
-        "name": "White Velociprey Mask(LV1+)",
+        "name": "白速龙伪装头(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10307,7 +10307,7 @@
             "base": 17,
             "max": 25
         },
-        "name": "White Velociprey Mask(LV3+)",
+        "name": "白速龙伪装头(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10330,7 +10330,7 @@
             "base": 21,
             "max": 25
         },
-        "name": "White Velociprey Mask(LV5+)",
+        "name": "白速龙伪装头(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10353,7 +10353,7 @@
             "base": 13,
             "max": 34
         },
-        "name": "Remobra Mask(LV1+)",
+        "name": "蛇龙伪装头(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10377,7 +10377,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Guild Knight Feather(LV1+)",
+        "name": "公会骑士羽帽(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10400,7 +10400,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Guild Knight Mask(LV1+)",
+        "name": "公会骑士面具(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10423,7 +10423,7 @@
             "base": 10,
             "max": 10
         },
-        "name": "White Earrings(LV1+)",
+        "name": "银霜耳饰(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10445,7 +10445,7 @@
             "base": 11,
             "max": 19
         },
-        "name": "Lobster Cap(LV1+)",
+        "name": "帝王龙虾软帽(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10467,7 +10467,7 @@
             "base": 17,
             "max": 19
         },
-        "name": "Lobster Cap(LV4+)",
+        "name": "帝王龙虾软帽(LV4+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10489,7 +10489,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Amethyst Cap(LV1+)",
+        "name": "美国螯虾软帽(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -10513,7 +10513,7 @@
             "base": 26,
             "max": 29
         },
-        "name": "Amethyst Cap(LV4+)",
+        "name": "美国螯虾软帽(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
