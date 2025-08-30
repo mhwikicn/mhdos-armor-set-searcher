@@ -5,7 +5,7 @@
             "base": 2,
             "max": 16
         },
-        "name": "Green Pants(LV1+)",
+        "name": "绿色束裤(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -28,7 +28,7 @@
             "base": 4,
             "max": 16
         },
-        "name": "Green Pants(LV3+)",
+        "name": "绿色束裤(LV3+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -51,7 +51,7 @@
             "base": 7,
             "max": 21
         },
-        "name": "Cream Pants(LV1+)",
+        "name": "米色束裤(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -73,7 +73,7 @@
             "base": 9,
             "max": 21
         },
-        "name": "Cream Pants(LV3+)",
+        "name": "米色束裤(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -95,7 +95,7 @@
             "base": 21,
             "max": 21
         },
-        "name": "Cream Pants(LV5+)",
+        "name": "米色束裤(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -117,7 +117,7 @@
             "base": 11,
             "max": 35
         },
-        "name": "Green Pants S(LV1+)",
+        "name": "绿色Ｓ束裤(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -140,7 +140,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Green Pants S(LV4+)",
+        "name": "绿色Ｓ束裤(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -163,7 +163,7 @@
             "base": 35,
             "max": 35
         },
-        "name": "Green Pants S(LV5+)",
+        "name": "绿色Ｓ束裤(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -186,7 +186,7 @@
             "base": 4,
             "max": 14
         },
-        "name": "Blue Pants(LV1+)",
+        "name": "蓝色束裤(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -209,7 +209,7 @@
             "base": 9,
             "max": 14
         },
-        "name": "Blue Pants(LV4+)",
+        "name": "蓝色束裤(LV4+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -232,7 +232,7 @@
             "base": 12,
             "max": 36
         },
-        "name": "Blue Pants S(LV1+)",
+        "name": "蓝色Ｓ束裤(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -255,7 +255,7 @@
             "base": 8,
             "max": 23
         },
-        "name": "Coffee Pants(LV1+)",
+        "name": "茶色束裤(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -277,7 +277,7 @@
             "base": 9,
             "max": 23
         },
-        "name": "Coffee Pants(LV2+)",
+        "name": "茶色束裤(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -299,7 +299,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Coffee Pants(LV3+)",
+        "name": "茶色束裤(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -321,7 +321,7 @@
             "base": 15,
             "max": 23
         },
-        "name": "Coffee Pants(LV4+)",
+        "name": "茶色束裤(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -343,7 +343,7 @@
             "base": 4,
             "max": 24
         },
-        "name": "Hunter's Greaves(LV1+)",
+        "name": "猎人胫甲(LV1+)",
         "rarity": 1,
         "resistance": [
             0,
@@ -367,7 +367,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Hunter's Greaves(LV4+)",
+        "name": "猎人胫甲(LV4+)",
         "rarity": 1,
         "resistance": [
             0,
@@ -391,7 +391,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Hunter's Greaves U(LV1+)",
+        "name": "猎人Ｕ胫甲(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -413,7 +413,7 @@
             "base": 37,
             "max": 39
         },
-        "name": "Hunter's Greaves U(LV4+)",
+        "name": "猎人Ｕ胫甲(LV4+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -435,7 +435,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Hunter's Greaves U(LV5+)",
+        "name": "猎人Ｕ胫甲(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -457,7 +457,7 @@
             "base": 24,
             "max": 51
         },
-        "name": "Hunter's Greaves S(LV1+)",
+        "name": "猎人Ｓ胫甲(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -480,7 +480,7 @@
             "base": 42,
             "max": 51
         },
-        "name": "Hunter's Greaves S(LV4+)",
+        "name": "猎人Ｓ胫甲(LV4+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -503,7 +503,7 @@
             "base": 2,
             "max": 16
         },
-        "name": "Hunter's Leggings(LV1+)",
+        "name": "猎人护胫(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -527,7 +527,7 @@
             "base": 8,
             "max": 16
         },
-        "name": "Hunter's Leggings(LV4+)",
+        "name": "猎人护胫(LV4+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -551,7 +551,7 @@
             "base": 11,
             "max": 24
         },
-        "name": "Hunter's Leggings U(LV1+)",
+        "name": "猎人Ｕ护胫(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -573,7 +573,7 @@
             "base": 22,
             "max": 24
         },
-        "name": "Hunter's Leggings U(LV4+)",
+        "name": "猎人Ｕ护胫(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -595,7 +595,7 @@
             "base": 24,
             "max": 24
         },
-        "name": "Hunter's Leggings U(LV5+)",
+        "name": "猎人Ｕ护胫(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -617,7 +617,7 @@
             "base": 13,
             "max": 39
         },
-        "name": "Hunter's Leggings S(LV1+)",
+        "name": "猎人Ｓ护胫(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -640,7 +640,7 @@
             "base": 15,
             "max": 39
         },
-        "name": "Hunter's Leggings S(LV2+)",
+        "name": "猎人Ｓ护胫(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -663,7 +663,7 @@
             "base": 26,
             "max": 39
         },
-        "name": "Hunter's Leggings S(LV4+)",
+        "name": "猎人Ｓ护胫(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -686,7 +686,7 @@
             "base": 9,
             "max": 26
         },
-        "name": "Bone Greaves(LV1+)",
+        "name": "骸骨胫甲(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -709,7 +709,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Bone Greaves(LV3+)",
+        "name": "骸骨胫甲(LV3+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -732,7 +732,7 @@
             "base": 26,
             "max": 26
         },
-        "name": "Bone Greaves(LV5+)",
+        "name": "骸骨胫甲(LV5+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -755,7 +755,7 @@
             "base": 21,
             "max": 42
         },
-        "name": "Bone Greaves U(LV1+)",
+        "name": "骸骨Ｕ胫甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -779,7 +779,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Bone Greaves U(LV3+)",
+        "name": "骸骨Ｕ胫甲(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -803,7 +803,7 @@
             "base": 25,
             "max": 54
         },
-        "name": "Bone Greaves S(LV1+)",
+        "name": "骸骨Ｓ胫甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -827,7 +827,7 @@
             "base": 4,
             "max": 14
         },
-        "name": "Bone Leggings(LV1+)",
+        "name": "骸骨护胫(LV1+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -850,7 +850,7 @@
             "base": 6,
             "max": 14
         },
-        "name": "Bone Leggings(LV3+)",
+        "name": "骸骨护胫(LV3+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -873,7 +873,7 @@
             "base": 14,
             "max": 14
         },
-        "name": "Bone Leggings(LV5+)",
+        "name": "骸骨护胫(LV5+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -896,7 +896,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Bone Leggings U(LV1+)",
+        "name": "骸骨Ｕ护胫(LV1+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -920,7 +920,7 @@
             "base": 17,
             "max": 26
         },
-        "name": "Bone Leggings U(LV3+)",
+        "name": "骸骨Ｕ护胫(LV3+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -944,7 +944,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Bone Leggings S(LV1+)",
+        "name": "骸骨Ｓ护胫(LV1+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -968,7 +968,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Velociprey Greaves(LV1+)",
+        "name": "蓝速龙胫甲(LV1+)",
         "rarity": 2,
         "resistance": [
             1,
@@ -990,7 +990,7 @@
             "base": 17,
             "max": 23
         },
-        "name": "Velociprey Greaves(LV4+)",
+        "name": "蓝速龙胫甲(LV4+)",
         "rarity": 2,
         "resistance": [
             1,
@@ -1012,7 +1012,7 @@
             "base": 22,
             "max": 45
         },
-        "name": "Velociprey Greaves U(LV1+)",
+        "name": "蓝速龙Ｕ胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1034,7 +1034,7 @@
             "base": 36,
             "max": 45
         },
-        "name": "Velociprey Greaves U(LV3+)",
+        "name": "蓝速龙Ｕ胫甲(LV3+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1056,7 +1056,7 @@
             "base": 45,
             "max": 45
         },
-        "name": "Velociprey Greaves U(LV5+)",
+        "name": "蓝速龙Ｕ胫甲(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1078,7 +1078,7 @@
             "base": 26,
             "max": 57
         },
-        "name": "Velociprey Greaves S(LV1+)",
+        "name": "蓝速龙Ｓ胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1101,7 +1101,7 @@
             "base": 47,
             "max": 57
         },
-        "name": "Velociprey Greaves S(LV4+)",
+        "name": "蓝速龙Ｓ胫甲(LV4+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1124,7 +1124,7 @@
             "base": 5,
             "max": 13
         },
-        "name": "Velociprey Leggings(LV1+)",
+        "name": "蓝速龙护胫(LV1+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -1148,7 +1148,7 @@
             "base": 10,
             "max": 13
         },
-        "name": "Velociprey Leggings(LV4+)",
+        "name": "蓝速龙护胫(LV4+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -1172,7 +1172,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Velociprey Leggings U(LV1+)",
+        "name": "蓝速龙Ｕ护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1194,7 +1194,7 @@
             "base": 17,
             "max": 26
         },
-        "name": "Velociprey Leggings U(LV3+)",
+        "name": "蓝速龙Ｕ护胫(LV3+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1216,7 +1216,7 @@
             "base": 26,
             "max": 26
         },
-        "name": "Velociprey Leggings U(LV5+)",
+        "name": "蓝速龙Ｕ护胫(LV5+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1238,7 +1238,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Velociprey Leggings S(LV1+)",
+        "name": "蓝速龙Ｓ护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1261,7 +1261,7 @@
             "base": 29,
             "max": 38
         },
-        "name": "Velociprey Leggings S(LV4+)",
+        "name": "蓝速龙Ｓ护胫(LV4+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1284,7 +1284,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Battle Greaves(LV1+)",
+        "name": "战斗胫甲(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1308,7 +1308,7 @@
             "base": 17,
             "max": 23
         },
-        "name": "Battle Greaves(LV4+)",
+        "name": "战斗胫甲(LV4+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1332,7 +1332,7 @@
             "base": 22,
             "max": 45
         },
-        "name": "Battle Greaves U(LV1+)",
+        "name": "战斗Ｕ胫甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1356,7 +1356,7 @@
             "base": 27,
             "max": 45
         },
-        "name": "Battle Greaves U(LV2+)",
+        "name": "战斗Ｕ胫甲(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1380,7 +1380,7 @@
             "base": 26,
             "max": 57
         },
-        "name": "Battle Greaves S(LV1+)",
+        "name": "战斗Ｓ胫甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1405,7 +1405,7 @@
             "base": 57,
             "max": 57
         },
-        "name": "Battle Greaves S(LV5+)",
+        "name": "战斗Ｓ胫甲(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1430,7 +1430,7 @@
             "base": 6,
             "max": 13
         },
-        "name": "Battle Leggings(LV1+)",
+        "name": "战斗护胫(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -1454,7 +1454,7 @@
             "base": 10,
             "max": 13
         },
-        "name": "Battle Leggings(LV4+)",
+        "name": "战斗护胫(LV4+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -1478,7 +1478,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Battle Leggings U(LV1+)",
+        "name": "战斗Ｕ护胫(LV1+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1503,7 +1503,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Battle Leggings U(LV3+)",
+        "name": "战斗Ｕ护胫(LV3+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1528,7 +1528,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Battle Leggings S(LV1+)",
+        "name": "战斗Ｓ护胫(LV1+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1553,7 +1553,7 @@
             "base": 37,
             "max": 37
         },
-        "name": "Battle Leggings S(LV5+)",
+        "name": "战斗Ｓ护胫(LV5+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1578,7 +1578,7 @@
             "base": 10,
             "max": 33
         },
-        "name": "Silver Boots(LV1+)",
+        "name": "合金靴・曜(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -1599,7 +1599,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Vespoid Greaves(LV1+)",
+        "name": "巨蜂胫甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1621,7 +1621,7 @@
             "base": 23,
             "max": 25
         },
-        "name": "Vespoid Greaves(LV4+)",
+        "name": "巨蜂胫甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1643,7 +1643,7 @@
             "base": 23,
             "max": 46
         },
-        "name": "Vespoid Greaves U(LV1+)",
+        "name": "巨蜂Ｕ胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1668,7 +1668,7 @@
             "base": 43,
             "max": 46
         },
-        "name": "Vespoid Greaves U(LV4+)",
+        "name": "巨蜂Ｕ胫甲(LV4+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1693,7 +1693,7 @@
             "base": 27,
             "max": 58
         },
-        "name": "Vespoid Greaves S(LV1+)",
+        "name": "巨蜂Ｓ胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1718,7 +1718,7 @@
             "base": 48,
             "max": 58
         },
-        "name": "Vespoid Greaves S(LV4+)",
+        "name": "巨蜂Ｓ胫甲(LV4+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1743,7 +1743,7 @@
             "base": 7,
             "max": 13
         },
-        "name": "Vespoid Leggings(LV1+)",
+        "name": "巨蜂护胫(LV1+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1765,7 +1765,7 @@
             "base": 11,
             "max": 13
         },
-        "name": "Vespoid Leggings(LV4+)",
+        "name": "巨蜂护胫(LV4+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1787,7 +1787,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Vespoid Leggings U(LV1+)",
+        "name": "巨蜂Ｕ护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1810,7 +1810,7 @@
             "base": 19,
             "max": 25
         },
-        "name": "Vespoid Leggings U(LV4+)",
+        "name": "巨蜂Ｕ护胫(LV4+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1833,7 +1833,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Vespoid Leggings S(LV1+)",
+        "name": "巨蜂Ｓ护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1857,7 +1857,7 @@
             "base": 29,
             "max": 38
         },
-        "name": "Vespoid Leggings S(LV4+)",
+        "name": "巨蜂Ｓ护胫(LV4+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1881,7 +1881,7 @@
             "base": 14,
             "max": 29
         },
-        "name": "Hornet Greaves(LV1+)",
+        "name": "爬虫胫甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1905,7 +1905,7 @@
             "base": 23,
             "max": 29
         },
-        "name": "Hornet Greaves(LV3+)",
+        "name": "爬虫胫甲(LV3+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1929,7 +1929,7 @@
             "base": 24,
             "max": 47
         },
-        "name": "Hornet Greaves U(LV1+)",
+        "name": "爬虫Ｕ胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1953,7 +1953,7 @@
             "base": 38,
             "max": 47
         },
-        "name": "Hornet Greaves U(LV3+)",
+        "name": "爬虫Ｕ胫甲(LV3+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1977,7 +1977,7 @@
             "base": 47,
             "max": 47
         },
-        "name": "Hornet Greaves U(LV5+)",
+        "name": "爬虫Ｕ胫甲(LV5+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -2001,7 +2001,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Hornet Greaves S(LV1+)",
+        "name": "爬虫Ｓ胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -2024,7 +2024,7 @@
             "base": 60,
             "max": 60
         },
-        "name": "Hornet Greaves S(LV5+)",
+        "name": "爬虫Ｓ胫甲(LV5+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -2047,7 +2047,7 @@
             "base": 8,
             "max": 16
         },
-        "name": "Hornet Leggings(LV1+)",
+        "name": "爬虫护胫(LV1+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -2071,7 +2071,7 @@
             "base": 12,
             "max": 16
         },
-        "name": "Hornet Leggings(LV3+)",
+        "name": "爬虫护胫(LV3+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -2095,7 +2095,7 @@
             "base": 16,
             "max": 16
         },
-        "name": "Hornet Leggings(LV5+)",
+        "name": "爬虫护胫(LV5+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -2119,7 +2119,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Hornet Leggings U(LV1+)",
+        "name": "爬虫Ｕ护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2142,7 +2142,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Hornet Leggings U(LV3+)",
+        "name": "爬虫Ｕ护胫(LV3+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2165,7 +2165,7 @@
             "base": 25,
             "max": 25
         },
-        "name": "Hornet Leggings U(LV5+)",
+        "name": "爬虫Ｕ护胫(LV5+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2188,7 +2188,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Hornet Leggings S(LV1+)",
+        "name": "爬虫Ｓ护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2212,7 +2212,7 @@
             "base": 12,
             "max": 27
         },
-        "name": "Hi-Metal Greaves(LV1+)",
+        "name": "精炼矿石胫甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -2,
@@ -2236,7 +2236,7 @@
             "base": 22,
             "max": 27
         },
-        "name": "Hi-Metal Greaves(LV4+)",
+        "name": "精炼矿石胫甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -2,
@@ -2260,7 +2260,7 @@
             "base": 24,
             "max": 47
         },
-        "name": "Hi-Metal Greaves U(LV1+)",
+        "name": "精炼矿石Ｕ胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2282,7 +2282,7 @@
             "base": 38,
             "max": 47
         },
-        "name": "Hi-Metal Greaves U(LV3+)",
+        "name": "精炼矿石Ｕ胫甲(LV3+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2304,7 +2304,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Hi-Metal Greaves S(LV1+)",
+        "name": "精炼矿石Ｓ胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2328,7 +2328,7 @@
             "base": 7,
             "max": 13
         },
-        "name": "Hi-Metal Leggings(LV1+)",
+        "name": "精炼矿石护胫(LV1+)",
         "rarity": 2,
         "resistance": [
             0,
@@ -2352,7 +2352,7 @@
             "base": 11,
             "max": 13
         },
-        "name": "Hi-Metal Leggings(LV4+)",
+        "name": "精炼矿石护胫(LV4+)",
         "rarity": 2,
         "resistance": [
             0,
@@ -2376,7 +2376,7 @@
             "base": 14,
             "max": 24
         },
-        "name": "Hi-Metal Leggings U(LV1+)",
+        "name": "精炼矿石Ｕ护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2398,7 +2398,7 @@
             "base": 19,
             "max": 24
         },
-        "name": "Hi-Metal Leggings U(LV3+)",
+        "name": "精炼矿石Ｕ护胫(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2420,7 +2420,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Hi-Metal Leggings S(LV1+)",
+        "name": "精炼矿石Ｓ护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2444,7 +2444,7 @@
             "base": 15,
             "max": 24
         },
-        "name": "Dark Metal Boots(LV1+)",
+        "name": "合金靴・闇(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -2466,7 +2466,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Dark Metal Boots(LV2+)",
+        "name": "合金靴・闇(LV2+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -2488,7 +2488,7 @@
             "base": 17,
             "max": 24
         },
-        "name": "Dark Metal Boots(LV3+)",
+        "name": "合金靴・闇(LV3+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -2510,7 +2510,7 @@
             "base": 20,
             "max": 24
         },
-        "name": "Dark Metal Boots(LV4+)",
+        "name": "合金靴・闇(LV4+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -2532,7 +2532,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Genprey Greaves(LV1+)",
+        "name": "黄速龙胫甲(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -2555,7 +2555,7 @@
             "base": 23,
             "max": 30
         },
-        "name": "Genprey Greaves(LV4+)",
+        "name": "黄速龙胫甲(LV4+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -2578,7 +2578,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Genprey Greaves U(LV1+)",
+        "name": "黄速龙Ｕ胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2600,7 +2600,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Genprey Greaves U(LV3+)",
+        "name": "黄速龙Ｕ胫甲(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2622,7 +2622,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Genprey Greaves U(LV5+)",
+        "name": "黄速龙Ｕ胫甲(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2644,7 +2644,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Genprey Greaves S(LV1+)",
+        "name": "黄速龙Ｓ胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2668,7 +2668,7 @@
             "base": 50,
             "max": 60
         },
-        "name": "Genprey Greaves S(LV4+)",
+        "name": "黄速龙Ｓ胫甲(LV4+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2692,7 +2692,7 @@
             "base": 8,
             "max": 17
         },
-        "name": "Genprey Leggings(LV1+)",
+        "name": "黄速龙护胫(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2715,7 +2715,7 @@
             "base": 10,
             "max": 17
         },
-        "name": "Genprey Leggings(LV3+)",
+        "name": "黄速龙护胫(LV3+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2738,7 +2738,7 @@
             "base": 17,
             "max": 17
         },
-        "name": "Genprey Leggings(LV5+)",
+        "name": "黄速龙护胫(LV5+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2761,7 +2761,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Genprey Leggings U(LV1+)",
+        "name": "黄速龙Ｕ护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2783,7 +2783,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Genprey Leggings U(LV3+)",
+        "name": "黄速龙Ｕ护胫(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2805,7 +2805,7 @@
             "base": 25,
             "max": 25
         },
-        "name": "Genprey Leggings U(LV5+)",
+        "name": "黄速龙Ｕ护胫(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2827,7 +2827,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Genprey Leggings S(LV1+)",
+        "name": "黄速龙Ｓ护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2851,7 +2851,7 @@
             "base": 33,
             "max": 40
         },
-        "name": "Genprey Leggings S(LV4+)",
+        "name": "黄速龙Ｓ护胫(LV4+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2875,7 +2875,7 @@
             "base": 20,
             "max": 36
         },
-        "name": "Chrome Metal Boots(LV1+)",
+        "name": "合金靴・阳(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2898,7 +2898,7 @@
             "base": 26,
             "max": 36
         },
-        "name": "Chrome Metal Boots(LV4+)",
+        "name": "合金靴・阳(LV4+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2921,7 +2921,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Chrome Metal Boots(LV7+)",
+        "name": "合金靴・阳(LV7+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2944,7 +2944,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Ioprey Greaves(LV1+)",
+        "name": "红速龙胫甲(LV1+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -2967,7 +2967,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Ioprey Greaves(LV5+)",
+        "name": "红速龙胫甲(LV5+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -2990,7 +2990,7 @@
             "base": 25,
             "max": 48
         },
-        "name": "Ioprey Greaves U(LV1+)",
+        "name": "红速龙Ｕ胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3014,7 +3014,7 @@
             "base": 30,
             "max": 48
         },
-        "name": "Ioprey Greaves U(LV2+)",
+        "name": "红速龙Ｕ胫甲(LV2+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3038,7 +3038,7 @@
             "base": 29,
             "max": 62
         },
-        "name": "Ioprey Greaves S(LV1+)",
+        "name": "红速龙Ｓ胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3061,7 +3061,7 @@
             "base": 42,
             "max": 62
         },
-        "name": "Ioprey Greaves S(LV3+)",
+        "name": "红速龙Ｓ胫甲(LV3+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3084,7 +3084,7 @@
             "base": 62,
             "max": 62
         },
-        "name": "Ioprey Greaves S(LV5+)",
+        "name": "红速龙Ｓ胫甲(LV5+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3107,7 +3107,7 @@
             "base": 8,
             "max": 18
         },
-        "name": "Ioprey Leggings(LV1+)",
+        "name": "红速龙护胫(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -3131,7 +3131,7 @@
             "base": 18,
             "max": 18
         },
-        "name": "Ioprey Leggings(LV5+)",
+        "name": "红速龙护胫(LV5+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -3155,7 +3155,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Ioprey Leggings U(LV1+)",
+        "name": "红速龙Ｕ护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3179,7 +3179,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Ioprey Leggings U(LV3+)",
+        "name": "红速龙Ｕ护胫(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3203,7 +3203,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Ioprey Leggings S(LV1+)",
+        "name": "红速龙Ｓ护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3226,7 +3226,7 @@
             "base": 27,
             "max": 40
         },
-        "name": "Ioprey Leggings S(LV3+)",
+        "name": "红速龙Ｓ护胫(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3249,7 +3249,7 @@
             "base": 40,
             "max": 40
         },
-        "name": "Ioprey Leggings S(LV5+)",
+        "name": "红速龙Ｓ护胫(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3272,7 +3272,7 @@
             "base": 21,
             "max": 33
         },
-        "name": "Gypceros Greaves(LV1+)",
+        "name": "毒怪鸟胫甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -3296,7 +3296,7 @@
             "base": 30,
             "max": 49
         },
-        "name": "Gypceros Greaves U(LV1+)",
+        "name": "毒怪鸟Ｕ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3318,7 +3318,7 @@
             "base": 40,
             "max": 49
         },
-        "name": "Gypceros Greaves U(LV3+)",
+        "name": "毒怪鸟Ｕ胫甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3340,7 +3340,7 @@
             "base": 49,
             "max": 49
         },
-        "name": "Gypceros Greaves U(LV5+)",
+        "name": "毒怪鸟Ｕ胫甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3362,7 +3362,7 @@
             "base": 32,
             "max": 68
         },
-        "name": "Gypceros Greaves S(LV1+)",
+        "name": "毒怪鸟Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3387,7 +3387,7 @@
             "base": 10,
             "max": 18
         },
-        "name": "Gypceros Leggings(LV1+)",
+        "name": "毒怪鸟护胫(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -3411,7 +3411,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Gypceros Leggings U(LV1+)",
+        "name": "毒怪鸟Ｕ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3433,7 +3433,7 @@
             "base": 22,
             "max": 28
         },
-        "name": "Gypceros Leggings U(LV3+)",
+        "name": "毒怪鸟Ｕ护胫(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3455,7 +3455,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Gypceros Leggings U(LV5+)",
+        "name": "毒怪鸟Ｕ护胫(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3477,7 +3477,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Gypceros Leggings S(LV1+)",
+        "name": "毒怪鸟Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3502,7 +3502,7 @@
             "base": 20,
             "max": 29
         },
-        "name": "Cephalos Greaves(LV1+)",
+        "name": "砂龙胫甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -3,
@@ -3525,7 +3525,7 @@
             "base": 28,
             "max": 29
         },
-        "name": "Cephalos Greaves(LV4+)",
+        "name": "砂龙胫甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -3,
@@ -3548,7 +3548,7 @@
             "base": 28,
             "max": 47
         },
-        "name": "Cephalos Greaves U(LV1+)",
+        "name": "砂龙Ｕ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3569,7 +3569,7 @@
             "base": 29,
             "max": 62
         },
-        "name": "Cephalos Greaves S(LV1+)",
+        "name": "砂龙Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3590,7 +3590,7 @@
             "base": 10,
             "max": 17
         },
-        "name": "Cephalos Leggings(LV1+)",
+        "name": "砂龙护胫(LV1+)",
         "rarity": 2,
         "resistance": [
             -1,
@@ -3613,7 +3613,7 @@
             "base": 15,
             "max": 17
         },
-        "name": "Cephalos Leggings(LV4+)",
+        "name": "砂龙护胫(LV4+)",
         "rarity": 2,
         "resistance": [
             -1,
@@ -3636,7 +3636,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Cephalos Leggings U(LV1+)",
+        "name": "砂龙Ｕ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3657,7 +3657,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Cephalos Leggings S(LV1+)",
+        "name": "砂龙Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3678,7 +3678,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Rathian Greaves(LV1+)",
+        "name": "雌火龙胫甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -3703,7 +3703,7 @@
             "base": 33,
             "max": 54
         },
-        "name": "Rath Heart Greaves(LV1+)",
+        "name": "雌龙心胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3727,7 +3727,7 @@
             "base": 44,
             "max": 54
         },
-        "name": "Rath Heart Greaves(LV3+)",
+        "name": "雌龙心胫甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3751,7 +3751,7 @@
             "base": 35,
             "max": 73
         },
-        "name": "Rathian Greaves S(LV1+)",
+        "name": "雌火龙Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3775,7 +3775,7 @@
             "base": 43,
             "max": 73
         },
-        "name": "Rathian Greaves S(LV3+)",
+        "name": "雌火龙Ｓ胫甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3799,7 +3799,7 @@
             "base": 12,
             "max": 20
         },
-        "name": "Rathian Leggings(LV1+)",
+        "name": "雌火龙护胫(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -3824,7 +3824,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Rath heart Leggings(LV1+)",
+        "name": "雌龙心护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -3848,7 +3848,7 @@
             "base": 24,
             "max": 29
         },
-        "name": "Rath heart Leggings(LV3+)",
+        "name": "雌龙心护胫(LV3+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -3872,7 +3872,7 @@
             "base": 23,
             "max": 40
         },
-        "name": "Rathian Leggings S(LV1+)",
+        "name": "雌火龙Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -3896,7 +3896,7 @@
             "base": 32,
             "max": 40
         },
-        "name": "Rathian Leggings S(LV3+)",
+        "name": "雌火龙Ｓ护胫(LV3+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -3920,7 +3920,7 @@
             "base": 26,
             "max": 37
         },
-        "name": "Khezu Greaves(LV1+)",
+        "name": "电龙胫甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -3943,7 +3943,7 @@
             "base": 37,
             "max": 37
         },
-        "name": "Khezu Greaves(LV5+)",
+        "name": "电龙胫甲(LV5+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -3966,7 +3966,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Khezu Greaves U(LV1+)",
+        "name": "电龙Ｕ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -3990,7 +3990,7 @@
             "base": 39,
             "max": 51
         },
-        "name": "Khezu Greaves U(LV2+)",
+        "name": "电龙Ｕ胫甲(LV2+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4014,7 +4014,7 @@
             "base": 47,
             "max": 51
         },
-        "name": "Khezu Greaves U(LV4+)",
+        "name": "电龙Ｕ胫甲(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4038,7 +4038,7 @@
             "base": 37,
             "max": 72
         },
-        "name": "Khezu Greaves S(LV1+)",
+        "name": "电龙Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4063,7 +4063,7 @@
             "base": 59,
             "max": 72
         },
-        "name": "Khezu Greaves S(LV3+)",
+        "name": "电龙Ｓ胫甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4088,7 +4088,7 @@
             "base": 13,
             "max": 20
         },
-        "name": "Khezu Leggings(LV1+)",
+        "name": "电龙护胫(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -4111,7 +4111,7 @@
             "base": 20,
             "max": 20
         },
-        "name": "Khezu Leggings(LV5+)",
+        "name": "电龙护胫(LV5+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -4134,7 +4134,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Khezu Leggings U(LV1+)",
+        "name": "电龙Ｕ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4158,7 +4158,7 @@
             "base": 21,
             "max": 29
         },
-        "name": "Khezu Leggings U(LV2+)",
+        "name": "电龙Ｕ护胫(LV2+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4182,7 +4182,7 @@
             "base": 26,
             "max": 29
         },
-        "name": "Khezu Leggings U(LV4+)",
+        "name": "电龙Ｕ护胫(LV4+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4206,7 +4206,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Khezu Leggings S(LV1+)",
+        "name": "电龙Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4231,7 +4231,7 @@
             "base": 33,
             "max": 41
         },
-        "name": "Khezu Leggings S(LV3+)",
+        "name": "电龙Ｓ护胫(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4256,7 +4256,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Rathalos Greaves(LV1+)",
+        "name": "雄火龙胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -4280,7 +4280,7 @@
             "base": 38,
             "max": 42
         },
-        "name": "Rathalos Greaves(LV4+)",
+        "name": "雄火龙胫甲(LV4+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -4304,7 +4304,7 @@
             "base": 37,
             "max": 54
         },
-        "name": "Rath Soul Greaves(LV1+)",
+        "name": "雄龙魂胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4327,7 +4327,7 @@
             "base": 54,
             "max": 54
         },
-        "name": "Rath Soul Greaves(LV5+)",
+        "name": "雄龙魂胫甲(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4350,7 +4350,7 @@
             "base": 39,
             "max": 76
         },
-        "name": "Rathalos Greaves S(LV1+)",
+        "name": "雄火龙Ｓ胫甲(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -4373,7 +4373,7 @@
             "base": 14,
             "max": 24
         },
-        "name": "Rathalos Leggings(LV1+)",
+        "name": "雄火龙护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -4397,7 +4397,7 @@
             "base": 21,
             "max": 24
         },
-        "name": "Rathalos Leggings(LV4+)",
+        "name": "雄火龙护胫(LV4+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -4421,7 +4421,7 @@
             "base": 19,
             "max": 31
         },
-        "name": "Rath Soul Leggings(LV1+)",
+        "name": "雄龙魂护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4444,7 +4444,7 @@
             "base": 31,
             "max": 31
         },
-        "name": "Rath Soul Leggings(LV5+)",
+        "name": "雄龙魂护胫(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4467,7 +4467,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Rathalos Leggings S(LV1+)",
+        "name": "雄火龙Ｓ护胫(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -4490,7 +4490,7 @@
             "base": 25,
             "max": 36
         },
-        "name": "Plesioth Greaves(LV1+)",
+        "name": "水龙胫甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -4514,7 +4514,7 @@
             "base": 34,
             "max": 36
         },
-        "name": "Plesioth Greaves(LV3+)",
+        "name": "水龙胫甲(LV3+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -4538,7 +4538,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Plesioth Greaves U(LV1+)",
+        "name": "水龙Ｕ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4561,7 +4561,7 @@
             "base": 38,
             "max": 72
         },
-        "name": "Plesioth Greaves S(LV1+)",
+        "name": "水龙Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4584,7 +4584,7 @@
             "base": 13,
             "max": 21
         },
-        "name": "Plesioth Leggings(LV1+)",
+        "name": "水龙护胫(LV1+)",
         "rarity": 3,
         "resistance": [
             -2,
@@ -4608,7 +4608,7 @@
             "base": 19,
             "max": 21
         },
-        "name": "Plesioth Leggings(LV4+)",
+        "name": "水龙护胫(LV4+)",
         "rarity": 3,
         "resistance": [
             -2,
@@ -4632,7 +4632,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Plesioth Leggings U(LV1+)",
+        "name": "水龙Ｕ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -4655,7 +4655,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Plesioth Leggings S(LV1+)",
+        "name": "水龙Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -4678,7 +4678,7 @@
             "base": 33,
             "max": 41
         },
-        "name": "Plesioth Leggings S(LV3+)",
+        "name": "水龙Ｓ护胫(LV3+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -4701,7 +4701,7 @@
             "base": 17,
             "max": 35
         },
-        "name": "Basarios Greaves(LV1+)",
+        "name": "岩龙胫甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4725,7 +4725,7 @@
             "base": 28,
             "max": 35
         },
-        "name": "Basarios Greaves(LV3+)",
+        "name": "岩龙胫甲(LV3+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4749,7 +4749,7 @@
             "base": 35,
             "max": 35
         },
-        "name": "Basarios Greaves(LV5+)",
+        "name": "岩龙胫甲(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4773,7 +4773,7 @@
             "base": 33,
             "max": 54
         },
-        "name": "Basarios Greaves U(LV1+)",
+        "name": "岩龙Ｕ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4797,7 +4797,7 @@
             "base": 44,
             "max": 54
         },
-        "name": "Basarios Greaves U(LV3+)",
+        "name": "岩龙Ｕ胫甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4821,7 +4821,7 @@
             "base": 35,
             "max": 73
         },
-        "name": "Basarios Greaves S(LV1+)",
+        "name": "岩龙Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4845,7 +4845,7 @@
             "base": 10,
             "max": 20
         },
-        "name": "Basarios Leggings(LV1+)",
+        "name": "岩龙护胫(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4868,7 +4868,7 @@
             "base": 16,
             "max": 20
         },
-        "name": "Basarios Leggings(LV3+)",
+        "name": "岩龙护胫(LV3+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4891,7 +4891,7 @@
             "base": 20,
             "max": 20
         },
-        "name": "Basarios Leggings(LV5+)",
+        "name": "岩龙护胫(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4914,7 +4914,7 @@
             "base": 19,
             "max": 28
         },
-        "name": "Basarios Leggings U(LV1+)",
+        "name": "岩龙Ｕ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4938,7 +4938,7 @@
             "base": 22,
             "max": 28
         },
-        "name": "Basarios Leggings U(LV2+)",
+        "name": "岩龙Ｕ护胫(LV2+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4962,7 +4962,7 @@
             "base": 23,
             "max": 40
         },
-        "name": "Basarios Leggings S(LV1+)",
+        "name": "岩龙Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4986,7 +4986,7 @@
             "base": 29,
             "max": 43
         },
-        "name": "Diablo Greaves(LV1+)",
+        "name": "角龙胫甲(LV1+)",
         "rarity": 3,
         "resistance": [
             3,
@@ -5011,7 +5011,7 @@
             "base": 39,
             "max": 57
         },
-        "name": "Diablo Greaves U(LV1+)",
+        "name": "角龙Ｕ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5035,7 +5035,7 @@
             "base": 48,
             "max": 57
         },
-        "name": "Diablo Greaves U(LV3+)",
+        "name": "角龙Ｕ胫甲(LV3+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5059,7 +5059,7 @@
             "base": 57,
             "max": 57
         },
-        "name": "Diablo Greaves U(LV5+)",
+        "name": "角龙Ｕ胫甲(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5083,7 +5083,7 @@
             "base": 41,
             "max": 81
         },
-        "name": "Diablo Greaves S(LV1+)",
+        "name": "角龙Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5106,7 +5106,7 @@
             "base": 62,
             "max": 81
         },
-        "name": "Diablo Greaves S(LV4+)",
+        "name": "角龙Ｓ胫甲(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5129,7 +5129,7 @@
             "base": 15,
             "max": 23
         },
-        "name": "Diablo Leggings(LV1+)",
+        "name": "角龙护胫(LV1+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -5154,7 +5154,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Diablo Leggings U(LV1+)",
+        "name": "角龙Ｕ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5178,7 +5178,7 @@
             "base": 25,
             "max": 30
         },
-        "name": "Diablo Leggings U(LV3+)",
+        "name": "角龙Ｕ护胫(LV3+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5202,7 +5202,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Diablo Leggings U(LV5+)",
+        "name": "角龙Ｕ护胫(LV5+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5226,7 +5226,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Diablo Leggings S(LV1+)",
+        "name": "角龙Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5249,7 +5249,7 @@
             "base": 38,
             "max": 42
         },
-        "name": "Diablo Leggings S(LV4+)",
+        "name": "角龙Ｓ护胫(LV4+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5272,7 +5272,7 @@
             "base": 30,
             "max": 44
         },
-        "name": "Monoblos Greaves(LV1+)",
+        "name": "一角龙胫甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5296,7 +5296,7 @@
             "base": 44,
             "max": 44
         },
-        "name": "Monoblos Greaves(LV5+)",
+        "name": "一角龙胫甲(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5320,7 +5320,7 @@
             "base": 40,
             "max": 58
         },
-        "name": "Monodevil Greaves(LV1+)",
+        "name": "一角魔胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5344,7 +5344,7 @@
             "base": 58,
             "max": 58
         },
-        "name": "Monodevil Greaves(LV5+)",
+        "name": "一角魔胫甲(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5368,7 +5368,7 @@
             "base": 42,
             "max": 82
         },
-        "name": "Monoblos Greaves S(LV1+)",
+        "name": "一角龙Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5393,7 +5393,7 @@
             "base": 51,
             "max": 82
         },
-        "name": "Monoblos Greaves S(LV2+)",
+        "name": "一角龙Ｓ胫甲(LV2+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5418,7 +5418,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Monoblos Leggings(LV1+)",
+        "name": "一角龙护胫(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -5442,7 +5442,7 @@
             "base": 25,
             "max": 25
         },
-        "name": "Monoblos Leggings(LV5+)",
+        "name": "一角龙护胫(LV5+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -5466,7 +5466,7 @@
             "base": 21,
             "max": 33
         },
-        "name": "Monodevil Leggings(LV1+)",
+        "name": "一角魔护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5490,7 +5490,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Monoblos Leggings S(LV1+)",
+        "name": "一角龙Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5515,7 +5515,7 @@
             "base": 30,
             "max": 49
         },
-        "name": "Gravios Greaves(LV1+)",
+        "name": "铠龙胫甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5540,7 +5540,7 @@
             "base": 41,
             "max": 61
         },
-        "name": "Gravios Greaves U(LV1+)",
+        "name": "铠龙Ｕ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5564,7 +5564,7 @@
             "base": 51,
             "max": 61
         },
-        "name": "Gravios Greaves U(LV3+)",
+        "name": "铠龙Ｕ胫甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5588,7 +5588,7 @@
             "base": 61,
             "max": 61
         },
-        "name": "Gravios Greaves U(LV5+)",
+        "name": "铠龙Ｕ胫甲(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5612,7 +5612,7 @@
             "base": 42,
             "max": 82
         },
-        "name": "Gravios Greaves S(LV1+)",
+        "name": "铠龙Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5635,7 +5635,7 @@
             "base": 67,
             "max": 82
         },
-        "name": "Gravios Greaves S(LV3+)",
+        "name": "铠龙Ｓ胫甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5658,7 +5658,7 @@
             "base": 82,
             "max": 82
         },
-        "name": "Gravios Greaves S(LV5+)",
+        "name": "铠龙Ｓ胫甲(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5681,7 +5681,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Gravios Leggings(LV1+)",
+        "name": "铠龙护胫(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -5706,7 +5706,7 @@
             "base": 22,
             "max": 25
         },
-        "name": "Gravios Leggings(LV4+)",
+        "name": "铠龙护胫(LV4+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -5731,7 +5731,7 @@
             "base": 22,
             "max": 34
         },
-        "name": "Gravios Leggings U(LV1+)",
+        "name": "铠龙Ｕ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5755,7 +5755,7 @@
             "base": 28,
             "max": 34
         },
-        "name": "Gravios Leggings U(LV3+)",
+        "name": "铠龙Ｕ护胫(LV3+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5779,7 +5779,7 @@
             "base": 34,
             "max": 34
         },
-        "name": "Gravios Leggings U(LV5+)",
+        "name": "铠龙Ｕ护胫(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5803,7 +5803,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Gravios Leggings S(LV1+)",
+        "name": "铠龙Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5826,7 +5826,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Gravios Leggings S(LV3+)",
+        "name": "铠龙Ｓ护胫(LV3+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5849,7 +5849,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Gravios Leggings S(LV5+)",
+        "name": "铠龙Ｓ护胫(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5872,7 +5872,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Black Belt Greaves(LV1+)",
+        "name": "黑带胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -5893,7 +5893,7 @@
             "base": 25,
             "max": 37
         },
-        "name": "Black Belt Greaves S(LV1+)",
+        "name": "黑带Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5915,7 +5915,7 @@
             "base": 34,
             "max": 37
         },
-        "name": "Black Belt Greaves S(LV4+)",
+        "name": "黑带Ｓ胫甲(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5937,7 +5937,7 @@
             "base": 3,
             "max": 8
         },
-        "name": "Mosswine Feet(LV1+)",
+        "name": "苔猪足(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -5960,7 +5960,7 @@
             "base": 5,
             "max": 8
         },
-        "name": "Mosswine Feet(LV3+)",
+        "name": "苔猪足(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -5983,7 +5983,7 @@
             "base": 9,
             "max": 21
         },
-        "name": "Velociprey Feet(LV1+)",
+        "name": "蓝速龙之足(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6006,7 +6006,7 @@
             "base": 15,
             "max": 21
         },
-        "name": "Velociprey Feet(LV3+)",
+        "name": "蓝速龙之足(LV3+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6029,7 +6029,7 @@
             "base": 19,
             "max": 21
         },
-        "name": "Velociprey Feet(LV5+)",
+        "name": "蓝速龙之足(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6052,7 +6052,7 @@
             "base": 11,
             "max": 28
         },
-        "name": "Genprey Feet(LV1+)",
+        "name": "黄速龙之足(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6075,7 +6075,7 @@
             "base": 19,
             "max": 28
         },
-        "name": "Genprey Feet(LV3+)",
+        "name": "黄速龙之足(LV3+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6098,7 +6098,7 @@
             "base": 24,
             "max": 28
         },
-        "name": "Genprey Feet(LV5+)",
+        "name": "黄速龙之足(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6121,7 +6121,7 @@
             "base": 14,
             "max": 33
         },
-        "name": "Ioprey Feet(LV1+)",
+        "name": "红速龙之足(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6144,7 +6144,7 @@
             "base": 23,
             "max": 33
         },
-        "name": "Ioprey Feet(LV3+)",
+        "name": "红速龙之足(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6167,7 +6167,7 @@
             "base": 29,
             "max": 33
         },
-        "name": "Ioprey Feet(LV5+)",
+        "name": "红速龙之足(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6190,7 +6190,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Shinobi Boots \"Sun\"(LV1+)",
+        "name": "忍之足袋・阳(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6213,7 +6213,7 @@
             "base": 22,
             "max": 33
         },
-        "name": "Shinobi Boots \"Sun\"(LV3+)",
+        "name": "忍之足袋・阳(LV3+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6236,7 +6236,7 @@
             "base": 33,
             "max": 33
         },
-        "name": "Shinobi Boots \"Sun\"(LV5+)",
+        "name": "忍之足袋・阳(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6259,7 +6259,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Shinobi Boots \"Sky\"(LV1+)",
+        "name": "忍之足袋・空(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6282,7 +6282,7 @@
             "base": 32,
             "max": 32
         },
-        "name": "Shinobi Boots \"Sky\"(LV5+)",
+        "name": "忍之足袋・空(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6305,7 +6305,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Shinobi Boots \"Heaven\"(LV1+)",
+        "name": "忍之足袋・天(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6329,7 +6329,7 @@
             "base": 33,
             "max": 41
         },
-        "name": "Shinobi Boots \"Heaven\"(LV3+)",
+        "name": "忍之足袋・天(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6353,7 +6353,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Shinobi Boots \"Moon\"(LV1+)",
+        "name": "忍之足袋・阴(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -6376,7 +6376,7 @@
             "base": 22,
             "max": 33
         },
-        "name": "Shinobi Boots \"Moon\"(LV3+)",
+        "name": "忍之足袋・阴(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -6399,7 +6399,7 @@
             "base": 33,
             "max": 33
         },
-        "name": "Shinobi Boots \"Moon\"(LV5+)",
+        "name": "忍之足袋・阴(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -6422,7 +6422,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Shinobi Boots \"Sea\"(LV1+)",
+        "name": "忍之足袋・海(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6446,7 +6446,7 @@
             "base": 32,
             "max": 32
         },
-        "name": "Shinobi Boots \"Sea\"(LV5+)",
+        "name": "忍之足袋・海(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6470,7 +6470,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Shinobi Boots \"Earth\"(LV1+)",
+        "name": "忍之足袋・地(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6494,7 +6494,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Guardian Boots(LV1+)",
+        "name": "守卫者长靴(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6518,7 +6518,7 @@
             "base": 24,
             "max": 30
         },
-        "name": "Guardian Boots(LV3+)",
+        "name": "守卫者长靴(LV3+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6542,7 +6542,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Guardian Boots(LV5+)",
+        "name": "守卫者长靴(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6566,7 +6566,7 @@
             "base": 21,
             "max": 36
         },
-        "name": "Guardian Boots U(LV1+)",
+        "name": "守卫者Ｕ长靴(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6590,7 +6590,7 @@
             "base": 29,
             "max": 36
         },
-        "name": "Guardian Boots U(LV3+)",
+        "name": "守卫者Ｕ长靴(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6614,7 +6614,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Guardian Boots U(LV5+)",
+        "name": "守卫者Ｕ长靴(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6638,7 +6638,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Red Guild Guard Boots(LV1+)",
+        "name": "公会卫队长筒靴红(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6661,7 +6661,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Red Guild Guard Boots(LV3+)",
+        "name": "公会卫队长筒靴红(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6684,7 +6684,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Blue Guild Guard Boots(LV1+)",
+        "name": "公会卫队长筒靴苍(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6707,7 +6707,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Blue Guild Guard Boots(LV5+)",
+        "name": "公会卫队长筒靴苍(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6730,7 +6730,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Guardian Pants(LV1+)",
+        "name": "守卫者轻鞋(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6754,7 +6754,7 @@
             "base": 24,
             "max": 30
         },
-        "name": "Guardian Pants(LV3+)",
+        "name": "守卫者轻鞋(LV3+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6778,7 +6778,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Guardian Pants(LV5+)",
+        "name": "守卫者轻鞋(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6802,7 +6802,7 @@
             "base": 21,
             "max": 36
         },
-        "name": "Guardian Feet U(LV1+)",
+        "name": "守卫者Ｕ轻鞋(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6826,7 +6826,7 @@
             "base": 29,
             "max": 36
         },
-        "name": "Guardian Feet U(LV3+)",
+        "name": "守卫者Ｕ轻鞋(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6850,7 +6850,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Guardian Feet U(LV5+)",
+        "name": "守卫者Ｕ轻鞋(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6874,7 +6874,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Red Guild Guard Tights(LV1+)",
+        "name": "公会卫队紧身裤红(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6898,7 +6898,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Red Guild Guard Tights(LV3+)",
+        "name": "公会卫队紧身裤红(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6922,7 +6922,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Blue Guild Guard Tights(LV1+)",
+        "name": "公会卫队紧身裤苍(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6945,7 +6945,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Blue Guild Guard Tights(LV5+)",
+        "name": "公会卫队紧身裤苍(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6968,7 +6968,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Garuga Greaves(LV1+)",
+        "name": "黑狼鸟胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6992,7 +6992,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Garuga Leggings(LV1+)",
+        "name": "黑狼鸟护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -7017,7 +7017,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Auroros Pants(LV1+)",
+        "name": "晓丸【具足】(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -7041,7 +7041,7 @@
             "base": 43,
             "max": 51
         },
-        "name": "Auroros Pants(LV3+)",
+        "name": "晓丸【具足】(LV3+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -7065,7 +7065,7 @@
             "base": 51,
             "max": 51
         },
-        "name": "Auroros Pants(LV5+)",
+        "name": "晓丸【具足】(LV5+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -7089,7 +7089,7 @@
             "base": 43,
             "max": 63
         },
-        "name": "Auroros Pants Mai(LV1+)",
+        "name": "晓丸・皇【具足】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7112,7 +7112,7 @@
             "base": 53,
             "max": 63
         },
-        "name": "Auroros Pants Mai(LV3+)",
+        "name": "晓丸・皇【具足】(LV3+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7135,7 +7135,7 @@
             "base": 44,
             "max": 84
         },
-        "name": "Auroros Pants Haku(LV1+)",
+        "name": "晓丸・霸【具足】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7159,7 +7159,7 @@
             "base": 69,
             "max": 84
         },
-        "name": "Auroros Pants Haku(LV3+)",
+        "name": "晓丸・霸【具足】(LV3+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7183,7 +7183,7 @@
             "base": 18,
             "max": 26
         },
-        "name": "Genesis Pants(LV1+)",
+        "name": "曙丸【具足】(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -7206,7 +7206,7 @@
             "base": 22,
             "max": 26
         },
-        "name": "Genesis Pants(LV3+)",
+        "name": "曙丸【具足】(LV3+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -7229,7 +7229,7 @@
             "base": 26,
             "max": 26
         },
-        "name": "Genesis Pants(LV5+)",
+        "name": "曙丸【具足】(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -7252,7 +7252,7 @@
             "base": 22,
             "max": 34
         },
-        "name": "Genesis Pants Mai(LV1+)",
+        "name": "曙丸・皇【具足】(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7276,7 +7276,7 @@
             "base": 28,
             "max": 34
         },
-        "name": "Genesis Pants Mai(LV3+)",
+        "name": "曙丸・皇【具足】(LV3+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7300,7 +7300,7 @@
             "base": 29,
             "max": 43
         },
-        "name": "Genesis Pants Haku(LV1+)",
+        "name": "曙丸・霸【具足】(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7323,7 +7323,7 @@
             "base": 36,
             "max": 43
         },
-        "name": "Genesis Pants Haku(LV3+)",
+        "name": "曙丸・霸【具足】(LV3+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7346,7 +7346,7 @@
             "base": 38,
             "max": 56
         },
-        "name": "Dragonfeet(LV1+)",
+        "name": "邪龍之足(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7369,7 +7369,7 @@
             "base": 56,
             "max": 56
         },
-        "name": "Dragonfeet(LV5+)",
+        "name": "邪龍之足(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7392,7 +7392,7 @@
             "base": 48,
             "max": 70
         },
-        "name": "Fatalis Crimsonfeet(LV1+)",
+        "name": "魔龍之足(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7414,7 +7414,7 @@
             "base": 48,
             "max": 93
         },
-        "name": "Dragonfeet S(LV1+)",
+        "name": "邪龍Ｓ之足(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7437,7 +7437,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Dragonlegs(LV1+)",
+        "name": "邪龍之胫(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7461,7 +7461,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Fatalis Crimsonlegs(LV1+)",
+        "name": "魔龍之胫(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7484,7 +7484,7 @@
             "base": 29,
             "max": 48
         },
-        "name": "Dragonlegs S(LV1+)",
+        "name": "邪龍Ｓ之胫(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7507,7 +7507,7 @@
             "base": 50,
             "max": 82
         },
-        "name": "Golden Moon Greaves(LV1+)",
+        "name": "金月胫甲(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7530,7 +7530,7 @@
             "base": 53,
             "max": 82
         },
-        "name": "Golden Moon Greaves(LV2+)",
+        "name": "金月胫甲(LV2+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7553,7 +7553,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Golden Moon Leggings(LV1+)",
+        "name": "金月护胫(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -7576,7 +7576,7 @@
             "base": 30,
             "max": 39
         },
-        "name": "Golden Moon Leggings(LV2+)",
+        "name": "金月护胫(LV2+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -7599,7 +7599,7 @@
             "base": 53,
             "max": 85
         },
-        "name": "Silver Sol Greaves(LV1+)",
+        "name": "银日胫甲(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7623,7 +7623,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Silver Sol Leggings(LV1+)",
+        "name": "银日护胫(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -7646,7 +7646,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Silver Sol Leggings(LV5+)",
+        "name": "银日护胫(LV5+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -7669,7 +7669,7 @@
             "base": 33,
             "max": 64
         },
-        "name": "Kut-Ku Greaves S(LV1+)",
+        "name": "怪鸟Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -7693,7 +7693,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Kut-Ku Leggings S(LV1+)",
+        "name": "怪鸟Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -7717,7 +7717,7 @@
             "base": 16,
             "max": 32
         },
-        "name": "Hermitaur Greaves(LV1+)",
+        "name": "盾蟹胫甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -7740,7 +7740,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Hermitaur Greaves(LV2+)",
+        "name": "盾蟹胫甲(LV2+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -7763,7 +7763,7 @@
             "base": 30,
             "max": 32
         },
-        "name": "Hermitaur Greaves(LV4+)",
+        "name": "盾蟹胫甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -7786,7 +7786,7 @@
             "base": 28,
             "max": 47
         },
-        "name": "Hermitaur Greaves U(LV1+)",
+        "name": "盾蟹Ｕ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -7810,7 +7810,7 @@
             "base": 30,
             "max": 47
         },
-        "name": "Hermitaur Greaves U(LV2+)",
+        "name": "盾蟹Ｕ胫甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -7834,7 +7834,7 @@
             "base": 31,
             "max": 68
         },
-        "name": "Hermitaur Greaves S(LV1+)",
+        "name": "盾蟹Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -7857,7 +7857,7 @@
             "base": 56,
             "max": 68
         },
-        "name": "Hermitaur Greaves S(LV4+)",
+        "name": "盾蟹Ｓ胫甲(LV4+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -7880,7 +7880,7 @@
             "base": 68,
             "max": 68
         },
-        "name": "Hermitaur Greaves S(LV5+)",
+        "name": "盾蟹Ｓ胫甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -7903,7 +7903,7 @@
             "base": 10,
             "max": 18
         },
-        "name": "Hermitaur Leggings(LV1+)",
+        "name": "盾蟹护胫(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -7926,7 +7926,7 @@
             "base": 11,
             "max": 18
         },
-        "name": "Hermitaur Leggings(LV2+)",
+        "name": "盾蟹护胫(LV2+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -7949,7 +7949,7 @@
             "base": 16,
             "max": 18
         },
-        "name": "Hermitaur Leggings(LV4+)",
+        "name": "盾蟹护胫(LV4+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -7972,7 +7972,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Hermitaur Leggings U(LV1+)",
+        "name": "盾蟹Ｕ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -7996,7 +7996,7 @@
             "base": 17,
             "max": 28
         },
-        "name": "Hermitaur Leggings U(LV2+)",
+        "name": "盾蟹Ｕ护胫(LV2+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8020,7 +8020,7 @@
             "base": 25,
             "max": 28
         },
-        "name": "Hermitaur Leggings U(LV4+)",
+        "name": "盾蟹Ｕ护胫(LV4+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8044,7 +8044,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Hermitaur Leggings S(LV1+)",
+        "name": "盾蟹Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8068,7 +8068,7 @@
             "base": 17,
             "max": 35
         },
-        "name": "Conga Greaves(LV1+)",
+        "name": "桃毛胫甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8091,7 +8091,7 @@
             "base": 21,
             "max": 35
         },
-        "name": "Conga Greaves(LV2+)",
+        "name": "桃毛胫甲(LV2+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8114,7 +8114,7 @@
             "base": 28,
             "max": 35
         },
-        "name": "Conga Greaves(LV3+)",
+        "name": "桃毛胫甲(LV3+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8137,7 +8137,7 @@
             "base": 32,
             "max": 48
         },
-        "name": "Conga Greaves U(LV1+)",
+        "name": "桃毛Ｕ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8160,7 +8160,7 @@
             "base": 36,
             "max": 48
         },
-        "name": "Conga Greaves U(LV2+)",
+        "name": "桃毛Ｕ胫甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8183,7 +8183,7 @@
             "base": 48,
             "max": 48
         },
-        "name": "Conga Greaves U(LV5+)",
+        "name": "桃毛Ｕ胫甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8206,7 +8206,7 @@
             "base": 35,
             "max": 68
         },
-        "name": "Conga Greaves S(LV1+)",
+        "name": "桃毛Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8230,7 +8230,7 @@
             "base": 11,
             "max": 19
         },
-        "name": "Conga Leggings(LV1+)",
+        "name": "桃毛护胫(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8253,7 +8253,7 @@
             "base": 12,
             "max": 19
         },
-        "name": "Conga Leggings(LV2+)",
+        "name": "桃毛护胫(LV2+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8276,7 +8276,7 @@
             "base": 15,
             "max": 19
         },
-        "name": "Conga Leggings(LV3+)",
+        "name": "桃毛护胫(LV3+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8299,7 +8299,7 @@
             "base": 18,
             "max": 28
         },
-        "name": "Conga Leggings U(LV1+)",
+        "name": "桃毛Ｕ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8322,7 +8322,7 @@
             "base": 19,
             "max": 28
         },
-        "name": "Conga Leggings U(LV2+)",
+        "name": "桃毛Ｕ护胫(LV2+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8345,7 +8345,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Conga Leggings U(LV5+)",
+        "name": "桃毛Ｕ护胫(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8368,7 +8368,7 @@
             "base": 22,
             "max": 37
         },
-        "name": "Conga Leggings S(LV1+)",
+        "name": "桃毛Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8392,7 +8392,7 @@
             "base": 21,
             "max": 42
         },
-        "name": "Blango Greaves(LV1+)",
+        "name": "雪狮胫甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -8416,7 +8416,7 @@
             "base": 40,
             "max": 42
         },
-        "name": "Blango Greaves(LV4+)",
+        "name": "雪狮胫甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -8440,7 +8440,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Blango Greaves U(LV1+)",
+        "name": "雪狮Ｕ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -8464,7 +8464,7 @@
             "base": 47,
             "max": 51
         },
-        "name": "Blango Greaves U(LV4+)",
+        "name": "雪狮Ｕ胫甲(LV4+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -8488,7 +8488,7 @@
             "base": 37,
             "max": 72
         },
-        "name": "Blango Greaves S(LV1+)",
+        "name": "雪狮Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -8511,7 +8511,7 @@
             "base": 12,
             "max": 21
         },
-        "name": "Blango Leggings(LV1+)",
+        "name": "雪狮护胫(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8535,7 +8535,7 @@
             "base": 19,
             "max": 21
         },
-        "name": "Blango Leggings(LV4+)",
+        "name": "雪狮护胫(LV4+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8559,7 +8559,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Blango Leggings U(LV1+)",
+        "name": "雪狮Ｕ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8583,7 +8583,7 @@
             "base": 26,
             "max": 29
         },
-        "name": "Blango Leggings U(LV4+)",
+        "name": "雪狮Ｕ护胫(LV4+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8607,7 +8607,7 @@
             "base": 26,
             "max": 38
         },
-        "name": "Blango Leggings S(LV1+)",
+        "name": "雪狮Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8631,7 +8631,7 @@
             "base": 38,
             "max": 38
         },
-        "name": "Blango Leggings S(LV5+)",
+        "name": "雪狮Ｓ护胫(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8655,7 +8655,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Ceanataur Greaves(LV1+)",
+        "name": "镰蟹胫甲(LV1+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -8678,7 +8678,7 @@
             "base": 38,
             "max": 42
         },
-        "name": "Ceanataur Greaves(LV4+)",
+        "name": "镰蟹胫甲(LV4+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -8701,7 +8701,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Ceanataur Greaves(LV5+)",
+        "name": "镰蟹胫甲(LV5+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -8724,7 +8724,7 @@
             "base": 36,
             "max": 52
         },
-        "name": "Ceanataur Greaves U(LV1+)",
+        "name": "镰蟹Ｕ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -8748,7 +8748,7 @@
             "base": 40,
             "max": 52
         },
-        "name": "Ceanataur Greaves U(LV2+)",
+        "name": "镰蟹Ｕ胫甲(LV2+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -8772,7 +8772,7 @@
             "base": 44,
             "max": 52
         },
-        "name": "Ceanataur Greaves U(LV3+)",
+        "name": "镰蟹Ｕ胫甲(LV3+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -8796,7 +8796,7 @@
             "base": 52,
             "max": 52
         },
-        "name": "Ceanataur Greaves U(LV5+)",
+        "name": "镰蟹Ｕ胫甲(LV5+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -8820,7 +8820,7 @@
             "base": 38,
             "max": 73
         },
-        "name": "Ceanataur Greaves S(LV1+)",
+        "name": "镰蟹Ｓ胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -8843,7 +8843,7 @@
             "base": 69,
             "max": 73
         },
-        "name": "Ceanataur Greaves S(LV4+)",
+        "name": "镰蟹Ｓ胫甲(LV4+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -8866,7 +8866,7 @@
             "base": 14,
             "max": 22
         },
-        "name": "Ceanataur Leggings(LV1+)",
+        "name": "镰蟹护胫(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -8889,7 +8889,7 @@
             "base": 17,
             "max": 22
         },
-        "name": "Ceanataur Leggings(LV2+)",
+        "name": "镰蟹护胫(LV2+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -8912,7 +8912,7 @@
             "base": 20,
             "max": 22
         },
-        "name": "Ceanataur Leggings(LV3+)",
+        "name": "镰蟹护胫(LV3+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -8935,7 +8935,7 @@
             "base": 22,
             "max": 22
         },
-        "name": "Ceanataur Leggings(LV5+)",
+        "name": "镰蟹护胫(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -8958,7 +8958,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Ceanataur Leggings U(LV1+)",
+        "name": "镰蟹Ｕ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -8982,7 +8982,7 @@
             "base": 22,
             "max": 30
         },
-        "name": "Ceanataur Leggings U(LV2+)",
+        "name": "镰蟹Ｕ护胫(LV2+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9006,7 +9006,7 @@
             "base": 25,
             "max": 30
         },
-        "name": "Ceanataur Leggings U(LV3+)",
+        "name": "镰蟹Ｕ护胫(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9030,7 +9030,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Ceanataur Leggings U(LV5+)",
+        "name": "镰蟹Ｕ护胫(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9054,7 +9054,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Ceanataur Leggings S(LV1+)",
+        "name": "镰蟹Ｓ护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9078,7 +9078,7 @@
             "base": 36,
             "max": 39
         },
-        "name": "Ceanataur Leggings S(LV4+)",
+        "name": "镰蟹Ｓ护胫(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9102,7 +9102,7 @@
             "base": 34,
             "max": 50
         },
-        "name": "Kirin Leg Guards(LV1+)",
+        "name": "麒麟胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9126,7 +9126,7 @@
             "base": 50,
             "max": 50
         },
-        "name": "Kirin Leg Guards(LV5+)",
+        "name": "麒麟胫甲(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9150,7 +9150,7 @@
             "base": 43,
             "max": 84
         },
-        "name": "Kirin Leg Guards S(LV1+)",
+        "name": "麒麟Ｓ胫甲(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9173,7 +9173,7 @@
             "base": 64,
             "max": 84
         },
-        "name": "Kirin Leg Guards S(LV4+)",
+        "name": "麒麟Ｓ胫甲(LV4+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9196,7 +9196,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Kirin Boots(LV1+)",
+        "name": "麒麟长靴(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -9220,7 +9220,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Kirin Boots(LV5+)",
+        "name": "麒麟长靴(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -9244,7 +9244,7 @@
             "base": 26,
             "max": 43
         },
-        "name": "Kirin Boots S(LV1+)",
+        "name": "麒麟Ｓ长靴(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -9267,7 +9267,7 @@
             "base": 39,
             "max": 43
         },
-        "name": "Kirin Boots S(LV4+)",
+        "name": "麒麟Ｓ长靴(LV4+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -9290,7 +9290,7 @@
             "base": 39,
             "max": 83
         },
-        "name": "Kushala Crus(LV1+)",
+        "name": "乞沙拏胫甲(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9314,7 +9314,7 @@
             "base": 83,
             "max": 83
         },
-        "name": "Kushala Crus(LV5+)",
+        "name": "乞沙拏胫甲(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9338,7 +9338,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Kushala Shank(LV1+)",
+        "name": "乞沙拏护胫(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -9362,7 +9362,7 @@
             "base": 41,
             "max": 41
         },
-        "name": "Kushala Shank(LV5+)",
+        "name": "乞沙拏护胫(LV5+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -9386,7 +9386,7 @@
             "base": 40,
             "max": 77
         },
-        "name": "Mizuha Pants(LV1+)",
+        "name": "弥都波【具足】(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -9410,7 +9410,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Extravagant Pants(LV1+)",
+        "name": "丰玉【具足】(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -9434,7 +9434,7 @@
             "base": 43,
             "max": 83
         },
-        "name": "Empress Greaves(LV1+)",
+        "name": "女帝胫甲(LV1+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -9458,7 +9458,7 @@
             "base": 83,
             "max": 83
         },
-        "name": "Empress Greaves(LV5+)",
+        "name": "女帝胫甲(LV5+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -9482,7 +9482,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Empress Leggings(LV1+)",
+        "name": "女帝护胫(LV1+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -9506,7 +9506,7 @@
             "base": 46,
             "max": 46
         },
-        "name": "Empress Leggings(LV5+)",
+        "name": "女帝护胫(LV5+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -9530,7 +9530,7 @@
             "base": 42,
             "max": 89
         },
-        "name": "Indra Boots(LV1+)",
+        "name": "金刚【具足】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -9554,7 +9554,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Steadfast Boots(LV1+)",
+        "name": "不动【具足】(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9578,7 +9578,7 @@
             "base": 43,
             "max": 90
         },
-        "name": "Kaiser Greaves(LV1+)",
+        "name": "凯撒胫甲(LV1+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -9601,7 +9601,7 @@
             "base": 69,
             "max": 90
         },
-        "name": "Kaiser Greaves(LV4+)",
+        "name": "凯撒胫甲(LV4+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -9624,7 +9624,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Kaiser Leggings(LV1+)",
+        "name": "凯撒护胫(LV1+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -9648,7 +9648,7 @@
             "base": 41,
             "max": 46
         },
-        "name": "Kaiser Leggings(LV4+)",
+        "name": "凯撒护胫(LV4+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -9672,7 +9672,7 @@
             "base": 44,
             "max": 93
         },
-        "name": "Guardian Spirit Boots(LV1+)",
+        "name": "夜叉【御足】(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -9696,7 +9696,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Carnage Boots(LV1+)",
+        "name": "修罗【御足】(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -9720,7 +9720,7 @@
             "base": 51,
             "max": 75
         },
-        "name": "Golden Hakama(LV1+)",
+        "name": "金色之裤(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -9743,7 +9743,7 @@
             "base": 63,
             "max": 75
         },
-        "name": "Golden Hakama(LV3+)",
+        "name": "金色之裤(LV3+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -9766,7 +9766,7 @@
             "base": 26,
             "max": 38
         },
-        "name": "Puppet Master Socks(LV1+)",
+        "name": "黑子之足袋(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -9789,7 +9789,7 @@
             "base": 32,
             "max": 38
         },
-        "name": "Puppet Master Socks(LV3+)",
+        "name": "黑子之足袋(LV3+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -9812,7 +9812,7 @@
             "base": 59,
             "max": 95
         },
-        "name": "White Fatalis Feet(LV1+)",
+        "name": "祖龍之足(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9836,7 +9836,7 @@
             "base": 32,
             "max": 48
         },
-        "name": "White Fatalis Legs(LV1+)",
+        "name": "祖龍护胫(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -9860,7 +9860,7 @@
             "base": 13,
             "max": 25
         },
-        "name": "White Velociprey Feet(LV1+)",
+        "name": "白速龙之足(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9883,7 +9883,7 @@
             "base": 17,
             "max": 25
         },
-        "name": "White Velociprey Feet(LV3+)",
+        "name": "白速龙之足(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9906,7 +9906,7 @@
             "base": 21,
             "max": 25
         },
-        "name": "White Velociprey Feet(LV5+)",
+        "name": "白速龙之足(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9929,7 +9929,7 @@
             "base": 13,
             "max": 34
         },
-        "name": "Remobra Feet(LV1+)",
+        "name": "蛇龙之足(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9953,7 +9953,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Guild Knight Boots(LV1+)",
+        "name": "公会骑士长筒靴(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9976,7 +9976,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Guild Knight Tights(LV1+)",
+        "name": "公会骑士紧身裤(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9999,7 +9999,7 @@
             "base": 18,
             "max": 36
         },
-        "name": "Lobster Greaves(LV1+)",
+        "name": "帝王龙虾胫甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -10022,7 +10022,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Lobster Greaves(LV5+)",
+        "name": "帝王龙虾胫甲(LV5+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -10045,7 +10045,7 @@
             "base": 33,
             "max": 50
         },
-        "name": "Amethyst Greaves(LV1+)",
+        "name": "美国螯虾胫甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -10069,7 +10069,7 @@
             "base": 50,
             "max": 50
         },
-        "name": "Amethyst Greaves(LV5+)",
+        "name": "美国螯虾胫甲(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -10093,7 +10093,7 @@
             "base": 11,
             "max": 19
         },
-        "name": "Lobster Leggings(LV1+)",
+        "name": "帝王龙虾护胫(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10116,7 +10116,7 @@
             "base": 19,
             "max": 19
         },
-        "name": "Lobster Leggings(LV5+)",
+        "name": "帝王龙虾护胫(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10139,7 +10139,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Amethyst Leggings(LV1+)",
+        "name": "美国螯虾护胫(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -10163,7 +10163,7 @@
             "base": 29,
             "max": 29
         },
-        "name": "Amethyst Leggings(LV5+)",
+        "name": "美国螯虾护胫(LV5+)",
         "rarity": 6,
         "resistance": [
             3,

@@ -1,6 +1,6 @@
 [
     {
-        "name": "Attack Jewel 1",
+        "name": "腕力珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -9,7 +9,7 @@
         }
     },
     {
-        "name": "Attack Jewel 2",
+        "name": "怪力珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -18,7 +18,7 @@
         }
     },
     {
-        "name": "Attack Jewel 3",
+        "name": "刚力珠",
         "rarity": 5,
         "requiredSlots": 3,
         "skills": {
@@ -27,7 +27,7 @@
         }
     },
     {
-        "name": "Defense Jewel 1",
+        "name": "守护珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -35,7 +35,7 @@
         }
     },
     {
-        "name": "Defense Jewel 2",
+        "name": "防御珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -43,7 +43,7 @@
         }
     },
     {
-        "name": "Defense Jewel 3",
+        "name": "刚体珠",
         "rarity": 5,
         "requiredSlots": 3,
         "skills": {
@@ -51,7 +51,7 @@
         }
     },
     {
-        "name": "Steadfast Jewel 1",
+        "name": "耐绝珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -60,7 +60,7 @@
         }
     },
     {
-        "name": "Steadfast Jewel 2",
+        "name": "抗绝珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -69,7 +69,7 @@
         }
     },
     {
-        "name": "Steadfast Jewel 3",
+        "name": "觉醒珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -78,7 +78,7 @@
         }
     },
     {
-        "name": "Paralysis Jewel 1",
+        "name": "耐麻痹珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -87,7 +87,7 @@
         }
     },
     {
-        "name": "Paralysis Jewel 2",
+        "name": "抗麻痹珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -96,7 +96,7 @@
         }
     },
     {
-        "name": "Pep Jewel 1",
+        "name": "耐眠珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -104,7 +104,7 @@
         }
     },
     {
-        "name": "Pep Jewel 2",
+        "name": "绝眠珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -112,7 +112,7 @@
         }
     },
     {
-        "name": "Antidote Jewel 1",
+        "name": "抗毒珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -121,7 +121,7 @@
         }
     },
     {
-        "name": "Antidote Jewel 2",
+        "name": "断毒珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -130,7 +130,7 @@
         }
     },
     {
-        "name": "Antibacterial Jewel 1",
+        "name": "抗力珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -138,7 +138,7 @@
         }
     },
     {
-        "name": "Antibacterial Jewel 2",
+        "name": "抗菌珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -146,7 +146,7 @@
         }
     },
     {
-        "name": "Steady Jewel",
+        "name": "强腰珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -155,7 +155,7 @@
         }
     },
     {
-        "name": "Minstrel's Jewel",
+        "name": "美声珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -164,7 +164,7 @@
         }
     },
     {
-        "name": "Snow Resistance Jewel",
+        "name": "雪玉珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -173,7 +173,7 @@
         }
     },
     {
-        "name": "Ninja Jewel",
+        "name": "忍脚珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -181,7 +181,7 @@
         }
     },
     {
-        "name": "Vitality Jewel 1",
+        "name": "元气珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -190,7 +190,7 @@
         }
     },
     {
-        "name": "Vitality Jewel 2",
+        "name": "体力珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -198,7 +198,7 @@
         }
     },
     {
-        "name": "Vitality Jewel 3",
+        "name": "霸力珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -207,7 +207,7 @@
         }
     },
     {
-        "name": "Handicraft Jewel",
+        "name": "匠珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -216,16 +216,7 @@
         }
     },
     {
-        "name": "Handicraft Jewel",
-        "rarity": 4,
-        "requiredSlots": 1,
-        "skills": {
-            "27": 1,
-            "44": -1
-        }
-    },
-    {
-        "name": "Razor Jewel 1",
+        "name": "斩铁珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -234,7 +225,7 @@
         }
     },
     {
-        "name": "Razor Jewel 2",
+        "name": "斩空珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -243,7 +234,7 @@
         }
     },
     {
-        "name": "Expert Jewel 1",
+        "name": "达人珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -252,7 +243,7 @@
         }
     },
     {
-        "name": "Expert Jewel 2",
+        "name": "仙人珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -261,7 +252,7 @@
         }
     },
     {
-        "name": "Grinder Jewel",
+        "name": "研磨珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -269,7 +260,7 @@
         }
     },
     {
-        "name": "Ironwall Jewel",
+        "name": "铁壁珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -278,7 +269,7 @@
         }
     },
     {
-        "name": "Guard Jewel 1",
+        "name": "天盾珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -287,7 +278,7 @@
         }
     },
     {
-        "name": "Guard Jewel 2",
+        "name": "天壁珠",
         "rarity": 5,
         "requiredSlots": 3,
         "skills": {
@@ -296,7 +287,7 @@
         }
     },
     {
-        "name": "Throwing Jewel",
+        "name": "力投珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -304,7 +295,7 @@
         }
     },
     {
-        "name": "Absorber Jewel 1",
+        "name": "抑反珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -313,7 +304,7 @@
         }
     },
     {
-        "name": "Absorber Jewel 2",
+        "name": "反动珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -322,7 +313,7 @@
         }
     },
     {
-        "name": "Forceshot Jewel",
+        "name": "强弹珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -331,7 +322,7 @@
         }
     },
     {
-        "name": "Pierce Jewel",
+        "name": "贯通珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -340,7 +331,7 @@
         }
     },
     {
-        "name": "Pellet Jewel",
+        "name": "散弹珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -349,7 +340,7 @@
         }
     },
     {
-        "name": "Shot Plus Jewel 1",
+        "name": "加弹珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -358,7 +349,7 @@
         }
     },
     {
-        "name": "Pierce Plus Jewel 1",
+        "name": "加贯珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -367,7 +358,7 @@
         }
     },
     {
-        "name": "Pellet Plus Jewel 1",
+        "name": "加散珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -376,7 +367,7 @@
         }
     },
     {
-        "name": "Crag Plus Jewel 1",
+        "name": "加榴珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -385,7 +376,7 @@
         }
     },
     {
-        "name": "Cluster Plus Jewel 1",
+        "name": "加扩珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -394,7 +385,7 @@
         }
     },
     {
-        "name": "Shot Plus Jewel 2",
+        "name": "增弹珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -403,7 +394,7 @@
         }
     },
     {
-        "name": "Pierce Plus Jewel 2",
+        "name": "增贯珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -412,7 +403,7 @@
         }
     },
     {
-        "name": "Pellet Plus Jewel 2",
+        "name": "增散珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -421,7 +412,7 @@
         }
     },
     {
-        "name": "Crag Plus Jewel 2",
+        "name": "增榴珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -430,7 +421,7 @@
         }
     },
     {
-        "name": "Cluster Plus Jewel 2",
+        "name": "增扩珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -439,7 +430,7 @@
         }
     },
     {
-        "name": "Loading Jewel",
+        "name": "弹穴珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -448,7 +439,7 @@
         }
     },
     {
-        "name": "Precision Jewel",
+        "name": "针穴珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -456,7 +447,7 @@
         }
     },
     {
-        "name": "Status Jewel",
+        "name": "属攻珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -465,7 +456,7 @@
         }
     },
     {
-        "name": "Bombardier Jewel",
+        "name": "爆师珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -473,7 +464,7 @@
         }
     },
     {
-        "name": "Satiation Jewel",
+        "name": "满腹珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -482,7 +473,7 @@
         }
     },
     {
-        "name": "Metabolic Jewel",
+        "name": "食汉珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -490,7 +481,7 @@
         }
     },
     {
-        "name": "Ravenous Jewel",
+        "name": "气短珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -498,7 +489,7 @@
         }
     },
     {
-        "name": "BBQ Jewel",
+        "name": "美食珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -506,7 +497,7 @@
         }
     },
     {
-        "name": "Stamina Jewel",
+        "name": "强精珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -515,7 +506,7 @@
         }
     },
     {
-        "name": "Divine Jewel",
+        "name": "天力珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -523,7 +514,7 @@
         }
     },
     {
-        "name": "Earplug Jewel 1",
+        "name": "防音珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -532,7 +523,7 @@
         }
     },
     {
-        "name": "Earplug Jewel 2",
+        "name": "音无珠",
         "rarity": 5,
         "requiredSlots": 3,
         "skills": {
@@ -541,7 +532,7 @@
         }
     },
     {
-        "name": "Heavy Jewel 1",
+        "name": "文镇珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -550,7 +541,7 @@
         }
     },
     {
-        "name": "Heavy Jewel 2",
+        "name": "重块珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -559,7 +550,7 @@
         }
     },
     {
-        "name": "Traveller's Jewel",
+        "name": "旅人珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -568,7 +559,7 @@
         }
     },
     {
-        "name": "Evasion Jewel 1",
+        "name": "轻足珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -577,7 +568,7 @@
         }
     },
     {
-        "name": "Evasion Jewel 2",
+        "name": "神足珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -586,7 +577,7 @@
         }
     },
     {
-        "name": "Riskbreaker Jewel",
+        "name": "危机珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -594,7 +585,7 @@
         }
     },
     {
-        "name": "Anti-Theft Jewel",
+        "name": "键珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -602,7 +593,7 @@
         }
     },
     {
-        "name": "Enduring Jewel 1",
+        "name": "持续珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -611,7 +602,7 @@
         }
     },
     {
-        "name": "Enduring Jewel 2",
+        "name": "恒久珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -620,7 +611,7 @@
         }
     },
     {
-        "name": "Friendship Jewel 1",
+        "name": "友爱珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -629,7 +620,7 @@
         }
     },
     {
-        "name": "Friendship Jewel 2",
+        "name": "友情珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -638,7 +629,7 @@
         }
     },
     {
-        "name": "Transport Jewel 1",
+        "name": "快足珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -647,7 +638,7 @@
         }
     },
     {
-        "name": "Transport Jewel 2",
+        "name": "快速珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -655,7 +646,7 @@
         }
     },
     {
-        "name": "Resistance Jewel 1",
+        "name": "耐性珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -664,7 +655,7 @@
         }
     },
     {
-        "name": "Resistance Jewel 2",
+        "name": "万耐珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -673,7 +664,7 @@
         }
     },
     {
-        "name": "Resistance Jewel 3",
+        "name": "天耐珠",
         "rarity": 5,
         "requiredSlots": 3,
         "skills": {
@@ -682,7 +673,7 @@
         }
     },
     {
-        "name": "Blaze Jewel 1",
+        "name": "火炎珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -691,7 +682,7 @@
         }
     },
     {
-        "name": "Blaze Jewel 2",
+        "name": "红莲珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -700,7 +691,7 @@
         }
     },
     {
-        "name": "Blaze Jewel 3",
+        "name": "狱炎珠",
         "rarity": 5,
         "requiredSlots": 3,
         "skills": {
@@ -709,7 +700,7 @@
         }
     },
     {
-        "name": "Stream Jewel 1",
+        "name": "流水珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -718,7 +709,7 @@
         }
     },
     {
-        "name": "Stream Jewel 2",
+        "name": "爆水珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -727,7 +718,7 @@
         }
     },
     {
-        "name": "Stream Jewel 3",
+        "name": "水鬼珠",
         "rarity": 5,
         "requiredSlots": 3,
         "skills": {
@@ -736,7 +727,7 @@
         }
     },
     {
-        "name": "Frost Jewel 1",
+        "name": "冰珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -745,7 +736,7 @@
         }
     },
     {
-        "name": "Frost Jewel 2",
+        "name": "冰河珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -754,7 +745,7 @@
         }
     },
     {
-        "name": "Frost Jewel 3",
+        "name": "永冰珠",
         "rarity": 5,
         "requiredSlots": 3,
         "skills": {
@@ -763,7 +754,7 @@
         }
     },
     {
-        "name": "Bolt Jewel 1",
+        "name": "雷光珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -772,7 +763,7 @@
         }
     },
     {
-        "name": "Bolt Jewel 2",
+        "name": "雷鸣珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -781,7 +772,7 @@
         }
     },
     {
-        "name": "Bolt Jewel 3",
+        "name": "雷神珠",
         "rarity": 5,
         "requiredSlots": 3,
         "skills": {
@@ -790,7 +781,7 @@
         }
     },
     {
-        "name": "Dragon Jewel 1",
+        "name": "破龍珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -799,7 +790,7 @@
         }
     },
     {
-        "name": "Dragon Jewel 2",
+        "name": "灭龍珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -808,7 +799,7 @@
         }
     },
     {
-        "name": "Dragon Jewel 3",
+        "name": "龍王珠",
         "rarity": 5,
         "requiredSlots": 3,
         "skills": {
@@ -817,7 +808,7 @@
         }
     },
     {
-        "name": "Cold Jewel 1",
+        "name": "凉风珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -825,7 +816,7 @@
         }
     },
     {
-        "name": "Cold Jewel 2",
+        "name": "冷风珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -833,7 +824,7 @@
         }
     },
     {
-        "name": "Hot Jewel 1",
+        "name": "温风珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -841,7 +832,7 @@
         }
     },
     {
-        "name": "Hot Jewel 2",
+        "name": "暖风珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -849,7 +840,7 @@
         }
     },
     {
-        "name": "Map Jewel",
+        "name": "锐眼珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -857,7 +848,7 @@
         }
     },
     {
-        "name": "Gathering Jewel 1",
+        "name": "百手珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -865,7 +856,7 @@
         }
     },
     {
-        "name": "Gathering Jewel 2",
+        "name": "千手珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -873,7 +864,7 @@
         }
     },
     {
-        "name": "Gathering Jewel 3",
+        "name": "万手珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -882,7 +873,7 @@
         }
     },
     {
-        "name": "Snatcher Jewel 1",
+        "name": "早手珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -890,7 +881,7 @@
         }
     },
     {
-        "name": "Snatcher Jewel 2",
+        "name": "速手珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -898,7 +889,7 @@
         }
     },
     {
-        "name": "Blessing Jewel 1",
+        "name": "祝珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -906,7 +897,7 @@
         }
     },
     {
-        "name": "Blessing Jewel 2",
+        "name": "祝福珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -914,7 +905,7 @@
         }
     },
     {
-        "name": "Carver Jewel 1",
+        "name": "皮剥珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -923,7 +914,7 @@
         }
     },
     {
-        "name": "Carver Jewel 2",
+        "name": "兽剥珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -932,7 +923,7 @@
         }
     },
     {
-        "name": "Fate Jewel 1",
+        "name": "宝珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -941,7 +932,7 @@
         }
     },
     {
-        "name": "Fate Jewel 2",
+        "name": "报珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -950,7 +941,7 @@
         }
     },
     {
-        "name": "Fisher's Jewel",
+        "name": "钓力珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -958,7 +949,7 @@
         }
     },
     {
-        "name": "Psychic Jewel 1",
+        "name": "透眼珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -967,7 +958,7 @@
         }
     },
     {
-        "name": "Psychic Jewel 2",
+        "name": "千里珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -976,7 +967,7 @@
         }
     },
     {
-        "name": "Psychic Jewel 3",
+        "name": "万里珠",
         "rarity": 5,
         "requiredSlots": 3,
         "skills": {
@@ -985,7 +976,7 @@
         }
     },
     {
-        "name": "Recovery Jewel 1",
+        "name": "回复珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -994,7 +985,7 @@
         }
     },
     {
-        "name": "Recovery Jewel 2",
+        "name": "快复珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {
@@ -1003,7 +994,7 @@
         }
     },
     {
-        "name": "Medicine Jewel",
+        "name": "治愈珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -1012,16 +1003,7 @@
         }
     },
     {
-        "name": "Medicine Jewel",
-        "rarity": 4,
-        "requiredSlots": 1,
-        "skills": {
-            "51": 1,
-            "70": -1
-        }
-    },
-    {
-        "name": "Professor Jewel",
+        "name": "博士珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -1029,7 +1011,7 @@
         }
     },
     {
-        "name": "Combination Jewel",
+        "name": "弹制珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -1038,7 +1020,7 @@
         }
     },
     {
-        "name": "Alchemical Jewel",
+        "name": "秘术珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -1046,7 +1028,7 @@
         }
     },
     {
-        "name": "Giant Jewel",
+        "name": "巨兽珠",
         "rarity": 4,
         "requiredSlots": 1,
         "skills": {
@@ -1054,7 +1036,7 @@
         }
     },
     {
-        "name": "Cannoneer's Jewel",
+        "name": "大炮珠",
         "rarity": 5,
         "requiredSlots": 2,
         "skills": {

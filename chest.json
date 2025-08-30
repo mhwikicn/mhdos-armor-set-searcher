@@ -5,7 +5,7 @@
             "base": 2,
             "max": 16
         },
-        "name": "Leather Vest(LV1+)",
+        "name": "轻革铠甲(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -28,7 +28,7 @@
             "base": 8,
             "max": 16
         },
-        "name": "Leather Vest(LV4+)",
+        "name": "轻革铠甲(LV4+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -51,7 +51,7 @@
             "base": 7,
             "max": 21
         },
-        "name": "Leather Mail U(LV1+)",
+        "name": "轻革Ｕ铠甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -73,7 +73,7 @@
             "base": 8,
             "max": 21
         },
-        "name": "Leather Mail U(LV2+)",
+        "name": "轻革Ｕ铠甲(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -95,7 +95,7 @@
             "base": 14,
             "max": 21
         },
-        "name": "Leather Mail U(LV4+)",
+        "name": "轻革Ｕ铠甲(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -117,7 +117,7 @@
             "base": 11,
             "max": 35
         },
-        "name": "Leather Mail S(LV1+)",
+        "name": "轻革Ｓ铠甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -140,7 +140,7 @@
             "base": 35,
             "max": 35
         },
-        "name": "Leather Mail S(LV5+)",
+        "name": "轻革Ｓ铠甲(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -163,7 +163,7 @@
             "base": 4,
             "max": 14
         },
-        "name": "Chain Mail(LV1+)",
+        "name": "锁链铠甲(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -186,7 +186,7 @@
             "base": 6,
             "max": 14
         },
-        "name": "Chain Mail(LV3+)",
+        "name": "锁链铠甲(LV3+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -209,7 +209,7 @@
             "base": 8,
             "max": 23
         },
-        "name": "Chain Mail U(LV1+)",
+        "name": "锁链Ｕ铠甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -231,7 +231,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Chain Mail U(LV3+)",
+        "name": "锁链Ｕ铠甲(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -253,7 +253,7 @@
             "base": 23,
             "max": 23
         },
-        "name": "Chain Mail U(LV5+)",
+        "name": "锁链Ｕ铠甲(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -275,7 +275,7 @@
             "base": 12,
             "max": 36
         },
-        "name": "Chain Mail S(LV1+)",
+        "name": "锁链Ｓ铠甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -297,7 +297,7 @@
             "base": 16,
             "max": 36
         },
-        "name": "Chain Mail S(LV3+)",
+        "name": "锁链Ｓ铠甲(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -319,7 +319,7 @@
             "base": 4,
             "max": 24
         },
-        "name": "Hunter's Mail(LV1+)",
+        "name": "猎人铠甲(LV1+)",
         "rarity": 1,
         "resistance": [
             0,
@@ -341,7 +341,7 @@
             "base": 6,
             "max": 24
         },
-        "name": "Hunter's Mail(LV3+)",
+        "name": "猎人铠甲(LV3+)",
         "rarity": 1,
         "resistance": [
             0,
@@ -363,7 +363,7 @@
             "base": 24,
             "max": 24
         },
-        "name": "Hunter's Mail(LV5+)",
+        "name": "猎人铠甲(LV5+)",
         "rarity": 1,
         "resistance": [
             0,
@@ -385,7 +385,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Hunter's Mail U(LV1+)",
+        "name": "猎人Ｕ铠甲(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -408,7 +408,7 @@
             "base": 24,
             "max": 39
         },
-        "name": "Hunter's Mail U(LV2+)",
+        "name": "猎人Ｕ铠甲(LV2+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -431,7 +431,7 @@
             "base": 32,
             "max": 39
         },
-        "name": "Hunter's Mail U(LV3+)",
+        "name": "猎人Ｕ铠甲(LV3+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -454,7 +454,7 @@
             "base": 24,
             "max": 51
         },
-        "name": "Hunter Mail S(LV1+)",
+        "name": "猎人Ｓ铠甲(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -477,7 +477,7 @@
             "base": 2,
             "max": 16
         },
-        "name": "Hunter's Vest(LV1+)",
+        "name": "猎人轻甲(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -499,7 +499,7 @@
             "base": 4,
             "max": 16
         },
-        "name": "Hunter's Vest(LV3+)",
+        "name": "猎人轻甲(LV3+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -521,7 +521,7 @@
             "base": 16,
             "max": 16
         },
-        "name": "Hunter's Vest(LV5+)",
+        "name": "猎人轻甲(LV5+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -543,7 +543,7 @@
             "base": 11,
             "max": 24
         },
-        "name": "Hunter's Vest U(LV1+)",
+        "name": "猎人Ｕ轻甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -566,7 +566,7 @@
             "base": 14,
             "max": 24
         },
-        "name": "Hunter's Vest U(LV2+)",
+        "name": "猎人Ｕ轻甲(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -589,7 +589,7 @@
             "base": 19,
             "max": 24
         },
-        "name": "Hunter's Vest U(LV3+)",
+        "name": "猎人Ｕ轻甲(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -612,7 +612,7 @@
             "base": 13,
             "max": 39
         },
-        "name": "Hunter Vest S(LV1+)",
+        "name": "猎人Ｓ轻甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -635,7 +635,7 @@
             "base": 9,
             "max": 26
         },
-        "name": "Bone Mail(LV1+)",
+        "name": "骸骨铠甲(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -658,7 +658,7 @@
             "base": 17,
             "max": 26
         },
-        "name": "Bone Mail(LV4+)",
+        "name": "骸骨铠甲(LV4+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -681,7 +681,7 @@
             "base": 21,
             "max": 42
         },
-        "name": "Bone Mail U(LV1+)",
+        "name": "骸骨Ｕ铠甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -704,7 +704,7 @@
             "base": 26,
             "max": 42
         },
-        "name": "Bone Mail U(LV2+)",
+        "name": "骸骨Ｕ铠甲(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -727,7 +727,7 @@
             "base": 25,
             "max": 54
         },
-        "name": "Bone Mail S(LV1+)",
+        "name": "骸骨Ｓ铠甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -751,7 +751,7 @@
             "base": 31,
             "max": 54
         },
-        "name": "Bone Mail S(LV3+)",
+        "name": "骸骨Ｓ铠甲(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -775,7 +775,7 @@
             "base": 4,
             "max": 14
         },
-        "name": "Bone Vest(LV1+)",
+        "name": "骸骨轻甲(LV1+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -798,7 +798,7 @@
             "base": 9,
             "max": 14
         },
-        "name": "Bone Vest(LV4+)",
+        "name": "骸骨轻甲(LV4+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -821,7 +821,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Bone Vest U(LV1+)",
+        "name": "骸骨Ｕ轻甲(LV1+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -844,7 +844,7 @@
             "base": 14,
             "max": 26
         },
-        "name": "Bone Vest U(LV2+)",
+        "name": "骸骨Ｕ轻甲(LV2+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -867,7 +867,7 @@
             "base": 21,
             "max": 26
         },
-        "name": "Bone Vest U(LV4+)",
+        "name": "骸骨Ｕ轻甲(LV4+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -890,7 +890,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Bone Vest S(LV1+)",
+        "name": "骸骨Ｓ轻甲(LV1+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -914,7 +914,7 @@
             "base": 26,
             "max": 39
         },
-        "name": "Bone Vest S(LV3+)",
+        "name": "骸骨Ｓ轻甲(LV3+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -938,7 +938,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Velociprey Mail(LV1+)",
+        "name": "蓝速龙铠甲(LV1+)",
         "rarity": 2,
         "resistance": [
             1,
@@ -961,7 +961,7 @@
             "base": 17,
             "max": 23
         },
-        "name": "Velociprey Mail(LV4+)",
+        "name": "蓝速龙铠甲(LV4+)",
         "rarity": 2,
         "resistance": [
             1,
@@ -984,7 +984,7 @@
             "base": 22,
             "max": 45
         },
-        "name": "Velociprey Mail U(LV1+)",
+        "name": "蓝速龙Ｕ铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1008,7 +1008,7 @@
             "base": 26,
             "max": 57
         },
-        "name": "Velociprey Mail S(LV1+)",
+        "name": "蓝速龙Ｓ铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1031,7 +1031,7 @@
             "base": 39,
             "max": 57
         },
-        "name": "Velociprey Mail S(LV3+)",
+        "name": "蓝速龙Ｓ铠甲(LV3+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1054,7 +1054,7 @@
             "base": 5,
             "max": 13
         },
-        "name": "Velociprey Vest(LV1+)",
+        "name": "蓝速龙轻甲(LV1+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -1077,7 +1077,7 @@
             "base": 10,
             "max": 13
         },
-        "name": "Velociprey Vest(LV4+)",
+        "name": "蓝速龙轻甲(LV4+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -1100,7 +1100,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Velociprey Vest U(LV1+)",
+        "name": "蓝速龙Ｕ轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1124,7 +1124,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Velociprey Vest S(LV1+)",
+        "name": "蓝速龙Ｓ轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1147,7 +1147,7 @@
             "base": 22,
             "max": 38
         },
-        "name": "Velociprey Vest S(LV3+)",
+        "name": "蓝速龙Ｓ轻甲(LV3+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1170,7 +1170,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Battle Mail(LV1+)",
+        "name": "战斗铠甲(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1193,7 +1193,7 @@
             "base": 13,
             "max": 23
         },
-        "name": "Battle Mail(LV3+)",
+        "name": "战斗铠甲(LV3+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1216,7 +1216,7 @@
             "base": 22,
             "max": 45
         },
-        "name": "Battle Mail U(LV1+)",
+        "name": "战斗Ｕ铠甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1241,7 +1241,7 @@
             "base": 42,
             "max": 45
         },
-        "name": "Battle Mail U(LV4+)",
+        "name": "战斗Ｕ铠甲(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1266,7 +1266,7 @@
             "base": 26,
             "max": 57
         },
-        "name": "Battle Mail S(LV1+)",
+        "name": "战斗Ｓ铠甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1291,7 +1291,7 @@
             "base": 39,
             "max": 57
         },
-        "name": "Battle Mail S(LV3+)",
+        "name": "战斗Ｓ铠甲(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1316,7 +1316,7 @@
             "base": 6,
             "max": 13
         },
-        "name": "Battle Vest(LV1+)",
+        "name": "战斗轻甲(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -1339,7 +1339,7 @@
             "base": 8,
             "max": 13
         },
-        "name": "Battle Vest(LV3+)",
+        "name": "战斗轻甲(LV3+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -1362,7 +1362,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Battle Vest U(LV1+)",
+        "name": "战斗Ｕ轻甲(LV1+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1386,7 +1386,7 @@
             "base": 25,
             "max": 25
         },
-        "name": "Battle Vest U(LV5+)",
+        "name": "战斗Ｕ轻甲(LV5+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1410,7 +1410,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Battle Vest S(LV1+)",
+        "name": "战斗Ｓ轻甲(LV1+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1435,7 +1435,7 @@
             "base": 30,
             "max": 37
         },
-        "name": "Battle Vest S(LV3+)",
+        "name": "战斗Ｓ轻甲(LV3+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1460,7 +1460,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Vespoid Mail(LV1+)",
+        "name": "巨蜂铠甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1484,7 +1484,7 @@
             "base": 23,
             "max": 46
         },
-        "name": "Vespoid Mail U(LV1+)",
+        "name": "巨蜂Ｕ铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1508,7 +1508,7 @@
             "base": 43,
             "max": 46
         },
-        "name": "Vespoid Mail U(LV4+)",
+        "name": "巨蜂Ｕ铠甲(LV4+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1532,7 +1532,7 @@
             "base": 27,
             "max": 58
         },
-        "name": "Vespoid Mail S(LV1+)",
+        "name": "巨蜂Ｓ铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1555,7 +1555,7 @@
             "base": 7,
             "max": 13
         },
-        "name": "Vespoid Vest(LV1+)",
+        "name": "巨蜂轻甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1579,7 +1579,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Vespoid Vest U(LV1+)",
+        "name": "巨蜂Ｕ轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1603,7 +1603,7 @@
             "base": 19,
             "max": 25
         },
-        "name": "Vespoid Vest U(LV4+)",
+        "name": "巨蜂Ｕ轻甲(LV4+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1627,7 +1627,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Vespoid Vest S(LV1+)",
+        "name": "巨蜂Ｓ轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1651,7 +1651,7 @@
             "base": 29,
             "max": 38
         },
-        "name": "Vespoid Vest S(LV4+)",
+        "name": "巨蜂Ｓ轻甲(LV4+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1675,7 +1675,7 @@
             "base": 14,
             "max": 29
         },
-        "name": "Hornet Mail(LV1+)",
+        "name": "爬虫铠甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1699,7 +1699,7 @@
             "base": 29,
             "max": 29
         },
-        "name": "Hornet Mail(LV5+)",
+        "name": "爬虫铠甲(LV5+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1723,7 +1723,7 @@
             "base": 24,
             "max": 47
         },
-        "name": "Hornet Mail U(LV1+)",
+        "name": "爬虫Ｕ铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1747,7 +1747,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Hornet Mail S(LV1+)",
+        "name": "爬虫Ｓ铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1770,7 +1770,7 @@
             "base": 41,
             "max": 60
         },
-        "name": "Hornet Mail S(LV3+)",
+        "name": "爬虫Ｓ铠甲(LV3+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1793,7 +1793,7 @@
             "base": 8,
             "max": 16
         },
-        "name": "Hornet Vest(LV1+)",
+        "name": "爬虫轻甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1817,7 +1817,7 @@
             "base": 16,
             "max": 16
         },
-        "name": "Hornet Vest(LV5+)",
+        "name": "爬虫轻甲(LV5+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1841,7 +1841,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Hornet Vest U(LV1+)",
+        "name": "爬虫Ｕ轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1865,7 +1865,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Hornet Vest S(LV1+)",
+        "name": "爬虫Ｓ轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1888,7 +1888,7 @@
             "base": 22,
             "max": 38
         },
-        "name": "Hornet Vest S(LV3+)",
+        "name": "爬虫Ｓ轻甲(LV3+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1911,7 +1911,7 @@
             "base": 12,
             "max": 27
         },
-        "name": "Hi-Metal Mail(LV1+)",
+        "name": "精炼矿石铠甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -2,
@@ -1935,7 +1935,7 @@
             "base": 22,
             "max": 27
         },
-        "name": "Hi-Metal Mail(LV4+)",
+        "name": "精炼矿石铠甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -2,
@@ -1959,7 +1959,7 @@
             "base": 24,
             "max": 47
         },
-        "name": "Hi-Metal Mail U(LV1+)",
+        "name": "精炼矿石Ｕ铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -1983,7 +1983,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Hi-Metal Mail S(LV1+)",
+        "name": "精炼矿石Ｓ铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2006,7 +2006,7 @@
             "base": 50,
             "max": 60
         },
-        "name": "Hi-Metal Mail S(LV4+)",
+        "name": "精炼矿石Ｓ铠甲(LV4+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2029,7 +2029,7 @@
             "base": 60,
             "max": 60
         },
-        "name": "Hi-Metal Mail S(LV5+)",
+        "name": "精炼矿石Ｓ铠甲(LV5+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2052,7 +2052,7 @@
             "base": 7,
             "max": 13
         },
-        "name": "Hi-Metal Vest(LV1+)",
+        "name": "精炼矿石轻甲(LV1+)",
         "rarity": 2,
         "resistance": [
             0,
@@ -2076,7 +2076,7 @@
             "base": 11,
             "max": 13
         },
-        "name": "Hi-Metal Vest(LV4+)",
+        "name": "精炼矿石轻甲(LV4+)",
         "rarity": 2,
         "resistance": [
             0,
@@ -2100,7 +2100,7 @@
             "base": 14,
             "max": 24
         },
-        "name": "Hi-Metal Vest U(LV1+)",
+        "name": "精炼矿石Ｕ轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2124,7 +2124,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Hi-Metal Vest S(LV1+)",
+        "name": "精炼矿石Ｓ轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2147,7 +2147,7 @@
             "base": 32,
             "max": 39
         },
-        "name": "Hi-Metal Vest S(LV4+)",
+        "name": "精炼矿石Ｓ轻甲(LV4+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2170,7 +2170,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Hi-Metal Vest S(LV5+)",
+        "name": "精炼矿石Ｓ轻甲(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2193,7 +2193,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Genprey Mail(LV1+)",
+        "name": "黄速龙铠甲(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -2216,7 +2216,7 @@
             "base": 23,
             "max": 30
         },
-        "name": "Genprey Mail(LV4+)",
+        "name": "黄速龙铠甲(LV4+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -2239,7 +2239,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Genprey Mail U(LV1+)",
+        "name": "黄速龙Ｕ铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2261,7 +2261,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Genprey Mail U(LV3+)",
+        "name": "黄速龙Ｕ铠甲(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2283,7 +2283,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Genprey Mail S(LV1+)",
+        "name": "黄速龙Ｓ铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2307,7 +2307,7 @@
             "base": 8,
             "max": 17
         },
-        "name": "Genprey Vest(LV1+)",
+        "name": "黄速龙轻甲(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2330,7 +2330,7 @@
             "base": 13,
             "max": 17
         },
-        "name": "Genprey Vest(LV4+)",
+        "name": "黄速龙轻甲(LV4+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2353,7 +2353,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Genprey Vest U(LV1+)",
+        "name": "黄速龙Ｕ轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2375,7 +2375,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Genprey Vest U(LV3+)",
+        "name": "黄速龙Ｕ轻甲(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2397,7 +2397,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Genprey Vest S(LV1+)",
+        "name": "黄速龙Ｓ轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2421,7 +2421,7 @@
             "base": 18,
             "max": 30
         },
-        "name": "Kut-Ku Mail(LV1+)",
+        "name": "怪鸟铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -2444,7 +2444,7 @@
             "base": 27,
             "max": 30
         },
-        "name": "Kut-Ku Mail(LV4+)",
+        "name": "怪鸟铠甲(LV4+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -2467,7 +2467,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Kut-Ku Mail U(LV1+)",
+        "name": "怪鸟Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2491,7 +2491,7 @@
             "base": 33,
             "max": 64
         },
-        "name": "Kut-Ku Mail S(LV1+)",
+        "name": "怪鸟Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2514,7 +2514,7 @@
             "base": 9,
             "max": 15
         },
-        "name": "Kut-Ku Vest(LV1+)",
+        "name": "怪鸟轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -2536,7 +2536,7 @@
             "base": 13,
             "max": 15
         },
-        "name": "Kut-Ku Vest(LV3+)",
+        "name": "怪鸟轻甲(LV3+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -2558,7 +2558,7 @@
             "base": 15,
             "max": 15
         },
-        "name": "Kut-Ku Vest(LV5+)",
+        "name": "怪鸟轻甲(LV5+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -2580,7 +2580,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Kut-Ku Vest U(LV1+)",
+        "name": "怪鸟Ｕ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -2604,7 +2604,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Kut-Ku Vest S(LV1+)",
+        "name": "怪鸟Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -2628,7 +2628,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Ioprey Mail(LV1+)",
+        "name": "红速龙铠甲(LV1+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -2651,7 +2651,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Ioprey Mail(LV5+)",
+        "name": "红速龙铠甲(LV5+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -2674,7 +2674,7 @@
             "base": 25,
             "max": 48
         },
-        "name": "Ioprey Mail U(LV1+)",
+        "name": "红速龙Ｕ铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -2697,7 +2697,7 @@
             "base": 45,
             "max": 48
         },
-        "name": "Ioprey Mail U(LV4+)",
+        "name": "红速龙Ｕ铠甲(LV4+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -2720,7 +2720,7 @@
             "base": 29,
             "max": 62
         },
-        "name": "Ioprey Mail S(LV1+)",
+        "name": "红速龙Ｓ铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -2743,7 +2743,7 @@
             "base": 62,
             "max": 62
         },
-        "name": "Ioprey Mail S(LV5+)",
+        "name": "红速龙Ｓ铠甲(LV5+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -2766,7 +2766,7 @@
             "base": 8,
             "max": 18
         },
-        "name": "Ioprey Vest(LV1+)",
+        "name": "红速龙轻甲(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2789,7 +2789,7 @@
             "base": 18,
             "max": 18
         },
-        "name": "Ioprey Vest(LV5+)",
+        "name": "红速龙轻甲(LV5+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2812,7 +2812,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Ioprey Vest U(LV1+)",
+        "name": "红速龙Ｕ轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2835,7 +2835,7 @@
             "base": 22,
             "max": 25
         },
-        "name": "Ioprey Vest U(LV4+)",
+        "name": "红速龙Ｕ轻甲(LV4+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2858,7 +2858,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Ioprey Vest S(LV1+)",
+        "name": "红速龙Ｓ轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2881,7 +2881,7 @@
             "base": 33,
             "max": 40
         },
-        "name": "Ioprey Vest S(LV4+)",
+        "name": "红速龙Ｓ轻甲(LV4+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2904,7 +2904,7 @@
             "base": 21,
             "max": 33
         },
-        "name": "Gypceros Mail(LV1+)",
+        "name": "毒怪鸟铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -2928,7 +2928,7 @@
             "base": 30,
             "max": 33
         },
-        "name": "Gypceros Mail(LV4+)",
+        "name": "毒怪鸟铠甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -2952,7 +2952,7 @@
             "base": 30,
             "max": 49
         },
-        "name": "Gypceros Mail U(LV1+)",
+        "name": "毒怪鸟Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -2976,7 +2976,7 @@
             "base": 32,
             "max": 68
         },
-        "name": "Gypceros Mail S(LV1+)",
+        "name": "毒怪鸟Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -2998,7 +2998,7 @@
             "base": 36,
             "max": 68
         },
-        "name": "Gypceros Mail S(LV2+)",
+        "name": "毒怪鸟Ｓ铠甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3020,7 +3020,7 @@
             "base": 10,
             "max": 18
         },
-        "name": "Gypceros Vest(LV1+)",
+        "name": "毒怪鸟轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -3044,7 +3044,7 @@
             "base": 16,
             "max": 18
         },
-        "name": "Gypceros Vest(LV4+)",
+        "name": "毒怪鸟轻甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -3068,7 +3068,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Gypceros Vest U(LV1+)",
+        "name": "毒怪鸟Ｕ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3092,7 +3092,7 @@
             "base": 17,
             "max": 28
         },
-        "name": "Gypceros Vest U(LV2+)",
+        "name": "毒怪鸟Ｕ轻甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3116,7 +3116,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Gypceros Vest S(LV1+)",
+        "name": "毒怪鸟Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3138,7 +3138,7 @@
             "base": 24,
             "max": 39
         },
-        "name": "Gypceros Vest S(LV2+)",
+        "name": "毒怪鸟Ｓ轻甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3160,7 +3160,7 @@
             "base": 20,
             "max": 29
         },
-        "name": "Cephalos Mail(LV1+)",
+        "name": "砂龙铠甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -3,
@@ -3183,7 +3183,7 @@
             "base": 28,
             "max": 29
         },
-        "name": "Cephalos Mail(LV4+)",
+        "name": "砂龙铠甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -3,
@@ -3206,7 +3206,7 @@
             "base": 28,
             "max": 47
         },
-        "name": "Cephalos Mail U(LV1+)",
+        "name": "砂龙Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3229,7 +3229,7 @@
             "base": 38,
             "max": 47
         },
-        "name": "Cephalos Mail U(LV3+)",
+        "name": "砂龙Ｕ铠甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3252,7 +3252,7 @@
             "base": 29,
             "max": 62
         },
-        "name": "Cephalos Mail S(LV1+)",
+        "name": "砂龙Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3275,7 +3275,7 @@
             "base": 10,
             "max": 17
         },
-        "name": "Cephalos Vest(LV1+)",
+        "name": "砂龙轻甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -1,
@@ -3299,7 +3299,7 @@
             "base": 15,
             "max": 17
         },
-        "name": "Cephalos Vest(LV4+)",
+        "name": "砂龙轻甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -1,
@@ -3323,7 +3323,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Cephalos Vest U(LV1+)",
+        "name": "砂龙Ｕ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3347,7 +3347,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Cephalos Vest S(LV1+)",
+        "name": "砂龙Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3371,7 +3371,7 @@
             "base": 19,
             "max": 31
         },
-        "name": "Steel Mail(LV1+)",
+        "name": "钢制铠甲(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -3394,7 +3394,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Steel Mail U(LV1+)",
+        "name": "钢制Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3416,7 +3416,7 @@
             "base": 30,
             "max": 64
         },
-        "name": "Steel Mail S(LV1+)",
+        "name": "钢制Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3438,7 +3438,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Rathian Mail(LV1+)",
+        "name": "雌火龙铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -3461,7 +3461,7 @@
             "base": 33,
             "max": 54
         },
-        "name": "Rath Heart Mail(LV1+)",
+        "name": "雌龙心铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3485,7 +3485,7 @@
             "base": 35,
             "max": 73
         },
-        "name": "Rathian Mail S(LV1+)",
+        "name": "雌火龙Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3509,7 +3509,7 @@
             "base": 73,
             "max": 73
         },
-        "name": "Rathian Mail S(LV5+)",
+        "name": "雌火龙Ｓ铠甲(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3533,7 +3533,7 @@
             "base": 12,
             "max": 20
         },
-        "name": "Rathian Vest(LV1+)",
+        "name": "雌火龙轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -3556,7 +3556,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Rath Heart Vest(LV1+)",
+        "name": "雌龙心轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -3580,7 +3580,7 @@
             "base": 23,
             "max": 40
         },
-        "name": "Rathian Vest S(LV1+)",
+        "name": "雌火龙Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -3604,7 +3604,7 @@
             "base": 40,
             "max": 40
         },
-        "name": "Rathian Vest S(LV5+)",
+        "name": "雌火龙Ｓ轻甲(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -3628,7 +3628,7 @@
             "base": 26,
             "max": 37
         },
-        "name": "Khezu Mail(LV1+)",
+        "name": "电龙铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -3652,7 +3652,7 @@
             "base": 36,
             "max": 37
         },
-        "name": "Khezu Mail(LV4+)",
+        "name": "电龙铠甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -3676,7 +3676,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Khezu Mail U(LV1+)",
+        "name": "电龙Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -3700,7 +3700,7 @@
             "base": 43,
             "max": 51
         },
-        "name": "Khezu Mail U(LV3+)",
+        "name": "电龙Ｕ铠甲(LV3+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -3724,7 +3724,7 @@
             "base": 37,
             "max": 72
         },
-        "name": "Khezu Mail S(LV1+)",
+        "name": "电龙Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3748,7 +3748,7 @@
             "base": 45,
             "max": 72
         },
-        "name": "Khezu Mail S(LV2+)",
+        "name": "电龙Ｓ铠甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3772,7 +3772,7 @@
             "base": 13,
             "max": 20
         },
-        "name": "Khezu Vest(LV1+)",
+        "name": "电龙轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -3796,7 +3796,7 @@
             "base": 19,
             "max": 20
         },
-        "name": "Khezu Vest(LV4+)",
+        "name": "电龙轻甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -3820,7 +3820,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Khezu Vest U(LV1+)",
+        "name": "电龙Ｕ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -3844,7 +3844,7 @@
             "base": 24,
             "max": 29
         },
-        "name": "Khezu Vest U(LV3+)",
+        "name": "电龙Ｕ轻甲(LV3+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -3868,7 +3868,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Khezu Vest S(LV1+)",
+        "name": "电龙Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3892,7 +3892,7 @@
             "base": 26,
             "max": 41
         },
-        "name": "Khezu Vest S(LV2+)",
+        "name": "电龙Ｓ轻甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3916,7 +3916,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Rathalos Mail(LV1+)",
+        "name": "雄火龙铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -3939,7 +3939,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Rathalos Mail(LV5+)",
+        "name": "雄火龙铠甲(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -3962,7 +3962,7 @@
             "base": 37,
             "max": 54
         },
-        "name": "Rath Soul Mail(LV1+)",
+        "name": "雄龙魂铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3985,7 +3985,7 @@
             "base": 39,
             "max": 76
         },
-        "name": "Rathalos Mail S(LV1+)",
+        "name": "雄火龙Ｓ铠甲(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -4007,7 +4007,7 @@
             "base": 14,
             "max": 24
         },
-        "name": "Rathalos Vest(LV1+)",
+        "name": "雄火龙轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -4030,7 +4030,7 @@
             "base": 24,
             "max": 24
         },
-        "name": "Rathalos Vest(LV5+)",
+        "name": "雄火龙轻甲(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -4053,7 +4053,7 @@
             "base": 19,
             "max": 31
         },
-        "name": "Rath Soul Vest(LV1+)",
+        "name": "雄龙魂轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4076,7 +4076,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Rathalos Vest S(LV1+)",
+        "name": "雄火龙Ｓ轻甲(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -4098,7 +4098,7 @@
             "base": 25,
             "max": 36
         },
-        "name": "Plesioth Mail(LV1+)",
+        "name": "水龙铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -4123,7 +4123,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Plesioth Mail U(LV1+)",
+        "name": "水龙Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4146,7 +4146,7 @@
             "base": 38,
             "max": 72
         },
-        "name": "Plesioth Mail S(LV1+)",
+        "name": "水龙Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4169,7 +4169,7 @@
             "base": 44,
             "max": 72
         },
-        "name": "Plesioth Mail S(LV3+)",
+        "name": "水龙Ｓ铠甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4192,7 +4192,7 @@
             "base": 72,
             "max": 72
         },
-        "name": "Plesioth Mail S(LV5+)",
+        "name": "水龙Ｓ铠甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4215,7 +4215,7 @@
             "base": 13,
             "max": 21
         },
-        "name": "Plesioth Vest(LV1+)",
+        "name": "水龙轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -2,
@@ -4240,7 +4240,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Plesioth Vest U(LV1+)",
+        "name": "水龙Ｕ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -4263,7 +4263,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Plesioth Vest S(LV1+)",
+        "name": "水龙Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -4286,7 +4286,7 @@
             "base": 26,
             "max": 41
         },
-        "name": "Plesioth Vest S(LV2+)",
+        "name": "水龙Ｓ轻甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -4309,7 +4309,7 @@
             "base": 18,
             "max": 36
         },
-        "name": "Lobster Mail(LV1+)",
+        "name": "帝王龙虾之壳(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -4331,7 +4331,7 @@
             "base": 34,
             "max": 36
         },
-        "name": "Lobster Mail(LV4+)",
+        "name": "帝王龙虾之壳(LV4+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -4353,7 +4353,7 @@
             "base": 33,
             "max": 50
         },
-        "name": "Amethyst Mail(LV1+)",
+        "name": "美国螯虾之铠(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4376,7 +4376,7 @@
             "base": 11,
             "max": 19
         },
-        "name": "Lobster Vest(LV1+)",
+        "name": "帝王龙虾之皮(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -4398,7 +4398,7 @@
             "base": 17,
             "max": 19
         },
-        "name": "Lobster Vest(LV4+)",
+        "name": "帝王龙虾之皮(LV4+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -4420,7 +4420,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Amethyst Vest(LV1+)",
+        "name": "美国螯虾之皮(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4443,7 +4443,7 @@
             "base": 17,
             "max": 35
         },
-        "name": "Basarios Mail(LV1+)",
+        "name": "岩龙铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4467,7 +4467,7 @@
             "base": 33,
             "max": 54
         },
-        "name": "Basarios Mail U(LV1+)",
+        "name": "岩龙Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4490,7 +4490,7 @@
             "base": 54,
             "max": 54
         },
-        "name": "Basarios Mail U(LV5+)",
+        "name": "岩龙Ｕ铠甲(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4513,7 +4513,7 @@
             "base": 35,
             "max": 73
         },
-        "name": "Basarios Mail S(LV1+)",
+        "name": "岩龙Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4537,7 +4537,7 @@
             "base": 10,
             "max": 20
         },
-        "name": "Basarios Vest(LV1+)",
+        "name": "岩龙轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4561,7 +4561,7 @@
             "base": 19,
             "max": 28
         },
-        "name": "Basarios Vest U(LV1+)",
+        "name": "岩龙Ｕ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4584,7 +4584,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Basarios Vest U(LV5+)",
+        "name": "岩龙Ｕ轻甲(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4607,7 +4607,7 @@
             "base": 23,
             "max": 40
         },
-        "name": "Basarios Vest S(LV1+)",
+        "name": "岩龙Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4631,7 +4631,7 @@
             "base": 29,
             "max": 43
         },
-        "name": "Diablo Mail(LV1+)",
+        "name": "角龙铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             3,
@@ -4655,7 +4655,7 @@
             "base": 36,
             "max": 43
         },
-        "name": "Diablo Mail(LV3+)",
+        "name": "角龙铠甲(LV3+)",
         "rarity": 3,
         "resistance": [
             3,
@@ -4679,7 +4679,7 @@
             "base": 39,
             "max": 57
         },
-        "name": "Diablo Mail U(LV1+)",
+        "name": "角龙Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4703,7 +4703,7 @@
             "base": 41,
             "max": 81
         },
-        "name": "Diablo Mail S(LV1+)",
+        "name": "角龙Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4725,7 +4725,7 @@
             "base": 49,
             "max": 81
         },
-        "name": "Diablo Mail S(LV3+)",
+        "name": "角龙Ｓ铠甲(LV3+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4747,7 +4747,7 @@
             "base": 15,
             "max": 23
         },
-        "name": "Diablo Vest(LV1+)",
+        "name": "角龙轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -4772,7 +4772,7 @@
             "base": 19,
             "max": 23
         },
-        "name": "Diablo Vest(LV3+)",
+        "name": "角龙轻甲(LV3+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -4797,7 +4797,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Diablo Vest U(LV1+)",
+        "name": "角龙Ｕ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4821,7 +4821,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Diablo Vest S(LV1+)",
+        "name": "角龙Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4843,7 +4843,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Diablo Vest S(LV3+)",
+        "name": "角龙Ｓ轻甲(LV3+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4865,7 +4865,7 @@
             "base": 30,
             "max": 44
         },
-        "name": "Monoblos Mail(LV1+)",
+        "name": "一角龙铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4889,7 +4889,7 @@
             "base": 40,
             "max": 58
         },
-        "name": "Monodevil Mail(LV1+)",
+        "name": "一角魔铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4913,7 +4913,7 @@
             "base": 49,
             "max": 58
         },
-        "name": "Monodevil Mail(LV3+)",
+        "name": "一角魔铠甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4937,7 +4937,7 @@
             "base": 42,
             "max": 82
         },
-        "name": "Monoblos Mail S(LV1+)",
+        "name": "一角龙Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4962,7 +4962,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Monoblos Vest(LV1+)",
+        "name": "一角龙轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -4986,7 +4986,7 @@
             "base": 21,
             "max": 33
         },
-        "name": "Monodevil Vest(LV1+)",
+        "name": "一角魔轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5010,7 +5010,7 @@
             "base": 27,
             "max": 33
         },
-        "name": "Monodevil Vest(LV3+)",
+        "name": "一角魔轻甲(LV3+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5034,7 +5034,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Monoblos Vest S(LV1+)",
+        "name": "一角龙Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5059,7 +5059,7 @@
             "base": 30,
             "max": 49
         },
-        "name": "Gravios Mail(LV1+)",
+        "name": "铠龙铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5082,7 +5082,7 @@
             "base": 41,
             "max": 61
         },
-        "name": "Gravios Mail U(LV1+)",
+        "name": "铠龙Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5106,7 +5106,7 @@
             "base": 61,
             "max": 61
         },
-        "name": "Gravios Mail U(LV5+)",
+        "name": "铠龙Ｕ铠甲(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5130,7 +5130,7 @@
             "base": 42,
             "max": 82
         },
-        "name": "Gravios Mail S(LV1+)",
+        "name": "铠龙Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5154,7 +5154,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Gravios Vest(LV1+)",
+        "name": "铠龙轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -5177,7 +5177,7 @@
             "base": 16,
             "max": 25
         },
-        "name": "Gravios Vest(LV2+)",
+        "name": "铠龙轻甲(LV2+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -5200,7 +5200,7 @@
             "base": 22,
             "max": 34
         },
-        "name": "Gravios Vest U(LV1+)",
+        "name": "铠龙Ｕ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5224,7 +5224,7 @@
             "base": 34,
             "max": 34
         },
-        "name": "Gravios Vest U(LV5+)",
+        "name": "铠龙Ｕ轻甲(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5248,7 +5248,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Gravios Vest S(LV1+)",
+        "name": "铠龙Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5271,7 +5271,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Black Belt Mail(LV1+)",
+        "name": "黑带铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -5294,7 +5294,7 @@
             "base": 22,
             "max": 37
         },
-        "name": "Black Belt Mail(LV3+)",
+        "name": "黑带铠甲(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -5317,7 +5317,7 @@
             "base": 25,
             "max": 37
         },
-        "name": "Black Belt Mail S(LV1+)",
+        "name": "黑带Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5339,7 +5339,7 @@
             "base": 3,
             "max": 8
         },
-        "name": "Moss Breastplate(LV1+)",
+        "name": "苔猪胸(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -5362,7 +5362,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Melhoa Jacket(LV1+)",
+        "name": "花瓣铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -5385,7 +5385,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Melhoa Jacket(LV3+)",
+        "name": "花瓣铠甲(LV3+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -5408,7 +5408,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Makluva Cover(LV1+)",
+        "name": "鱼鳞腰裙(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -5431,7 +5431,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Makluva Cover(LV3+)",
+        "name": "鱼鳞腰裙(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -5454,7 +5454,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Bistro Suit(LV1+)",
+        "name": "餐馆马甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -5477,7 +5477,7 @@
             "base": 9,
             "max": 21
         },
-        "name": "Velociprey Body(LV1+)",
+        "name": "蓝速龙之躯(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -5500,7 +5500,7 @@
             "base": 15,
             "max": 21
         },
-        "name": "Velociprey Body(LV3+)",
+        "name": "蓝速龙之躯(LV3+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -5523,7 +5523,7 @@
             "base": 19,
             "max": 21
         },
-        "name": "Velociprey Body(LV5+)",
+        "name": "蓝速龙之躯(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -5546,7 +5546,7 @@
             "base": 11,
             "max": 28
         },
-        "name": "Genprey Body(LV1+)",
+        "name": "黄速龙之躯(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -5569,7 +5569,7 @@
             "base": 19,
             "max": 28
         },
-        "name": "Genprey Body(LV3+)",
+        "name": "黄速龙之躯(LV3+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -5592,7 +5592,7 @@
             "base": 24,
             "max": 28
         },
-        "name": "Genprey Body(LV5+)",
+        "name": "黄速龙之躯(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -5615,7 +5615,7 @@
             "base": 14,
             "max": 33
         },
-        "name": "Ioprey Body(LV1+)",
+        "name": "红速龙之躯(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -5638,7 +5638,7 @@
             "base": 23,
             "max": 33
         },
-        "name": "Ioprey Body(LV3+)",
+        "name": "红速龙之躯(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -5661,7 +5661,7 @@
             "base": 29,
             "max": 33
         },
-        "name": "Ioprey Body(LV5+)",
+        "name": "红速龙之躯(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -5684,7 +5684,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Shinobi Suit \"Sun\"(LV1+)",
+        "name": "忍之装束・阳(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -5707,7 +5707,7 @@
             "base": 22,
             "max": 33
         },
-        "name": "Shinobi Suit \"Sun\"(LV3+)",
+        "name": "忍之装束・阳(LV3+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -5730,7 +5730,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Shinobi Suit \"Sky\"(LV1+)",
+        "name": "忍之装束・空(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -5753,7 +5753,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Shinobi Suit \"Heaven\"(LV1+)",
+        "name": "忍之装束・天(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -5777,7 +5777,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Shinobi Suit \"Moon\"(LV1+)",
+        "name": "忍之装束・阴(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -5800,7 +5800,7 @@
             "base": 22,
             "max": 33
         },
-        "name": "Shinobi Suit \"Moon\"(LV3+)",
+        "name": "忍之装束・阴(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -5823,7 +5823,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Shinobi Suit \"Sea\"(LV1+)",
+        "name": "忍之装束・海(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5846,7 +5846,7 @@
             "base": 32,
             "max": 32
         },
-        "name": "Shinobi Suit \"Sea\"(LV5+)",
+        "name": "忍之装束・海(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5869,7 +5869,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Shinobi Suit \"Earth\"(LV1+)",
+        "name": "忍之装束・地(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5892,7 +5892,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Guardian Suit(LV1+)",
+        "name": "守卫者制服(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -5916,7 +5916,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Guardian Suit(LV5+)",
+        "name": "守卫者制服(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -5940,7 +5940,7 @@
             "base": 21,
             "max": 36
         },
-        "name": "Guardian Suit U(LV1+)",
+        "name": "守卫者Ｕ制服(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -5964,7 +5964,7 @@
             "base": 32,
             "max": 36
         },
-        "name": "Guardian Suit U(LV4+)",
+        "name": "守卫者Ｕ制服(LV4+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -5988,7 +5988,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Red Guild Guard Suit(LV1+)",
+        "name": "公会卫队制服红(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6011,7 +6011,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Red Guild Guard Suit(LV3+)",
+        "name": "公会卫队制服红(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6034,7 +6034,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Blue Guild Guard Suit(LV1+)",
+        "name": "公会卫队制服苍(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6057,7 +6057,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Blue Guild Guard Suit(LV5+)",
+        "name": "公会卫队制服苍(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6080,7 +6080,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Guardian Vest(LV1+)",
+        "name": "守卫者马甲(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6104,7 +6104,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Guardian Vest(LV5+)",
+        "name": "守卫者马甲(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6128,7 +6128,7 @@
             "base": 21,
             "max": 36
         },
-        "name": "Guardian Vest U(LV1+)",
+        "name": "守卫者Ｕ马甲(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6152,7 +6152,7 @@
             "base": 32,
             "max": 36
         },
-        "name": "Guardian Vest U(LV4+)",
+        "name": "守卫者Ｕ马甲(LV4+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6176,7 +6176,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Red Guild Guard Vest(LV1+)",
+        "name": "公会卫队马甲红(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6200,7 +6200,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Red Guild Guard Vest(LV3+)",
+        "name": "公会卫队马甲红(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6224,7 +6224,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Blue Guild Guard Vest(LV1+)",
+        "name": "公会卫队马甲苍(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6247,7 +6247,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Blue Guild Guard Vest(LV5+)",
+        "name": "公会卫队马甲苍(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6270,7 +6270,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Garuga Mail(LV1+)",
+        "name": "黑狼鸟铠甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6294,7 +6294,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Garuga Vest(LV1+)",
+        "name": "黑狼鸟轻甲(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -6319,7 +6319,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Auroros Torso(LV1+)",
+        "name": "晓丸【胴当】(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -6343,7 +6343,7 @@
             "base": 43,
             "max": 63
         },
-        "name": "Auroros Torso Mai(LV1+)",
+        "name": "晓丸・皇【胴当】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -6366,7 +6366,7 @@
             "base": 44,
             "max": 84
         },
-        "name": "Auroros Torso Ha(LV1+)",
+        "name": "晓丸・霸【胴当】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -6390,7 +6390,7 @@
             "base": 18,
             "max": 26
         },
-        "name": "Genesis Torso(LV1+)",
+        "name": "曙丸【胴当】(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6414,7 +6414,7 @@
             "base": 22,
             "max": 34
         },
-        "name": "Genesis Torso Mai(LV1+)",
+        "name": "曙丸・皇【胴当】(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -6438,7 +6438,7 @@
             "base": 29,
             "max": 43
         },
-        "name": "Genesis Torso Ha(LV1+)",
+        "name": "曙丸・霸【胴当】(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -6461,7 +6461,7 @@
             "base": 36,
             "max": 43
         },
-        "name": "Genesis Torso Ha(LV3+)",
+        "name": "曙丸・霸【胴当】(LV3+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -6484,7 +6484,7 @@
             "base": 38,
             "max": 56
         },
-        "name": "Dragonhide(LV1+)",
+        "name": "邪龍之皮(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -6507,7 +6507,7 @@
             "base": 48,
             "max": 70
         },
-        "name": "Fatalis Crimsonhide(LV1+)",
+        "name": "魔龍之皮(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -6529,7 +6529,7 @@
             "base": 48,
             "max": 93
         },
-        "name": "Dragonhide S(LV1+)",
+        "name": "邪龍Ｓ之皮(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -6551,7 +6551,7 @@
             "base": 93,
             "max": 93
         },
-        "name": "Dragonhide S(LV5+)",
+        "name": "邪龍Ｓ之皮(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -6573,7 +6573,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Dragonskin(LV1+)",
+        "name": "邪龍之肤(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -6597,7 +6597,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Fatalis Crimsonskin(LV1+)",
+        "name": "魔龍之肤(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -6620,7 +6620,7 @@
             "base": 29,
             "max": 48
         },
-        "name": "Dragonskin S(LV1+)",
+        "name": "邪龍Ｓ之肤(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -6643,7 +6643,7 @@
             "base": 50,
             "max": 82
         },
-        "name": "Golden Moon Mail(LV1+)",
+        "name": "金月铠甲(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -6666,7 +6666,7 @@
             "base": 74,
             "max": 82
         },
-        "name": "Golden Moon Mail(LV4+)",
+        "name": "金月铠甲(LV4+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -6689,7 +6689,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Golden Moon Vest(LV1+)",
+        "name": "金月轻甲(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -6712,7 +6712,7 @@
             "base": 36,
             "max": 39
         },
-        "name": "Golden Moon Vest(LV4+)",
+        "name": "金月轻甲(LV4+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -6735,7 +6735,7 @@
             "base": 53,
             "max": 85
         },
-        "name": "Silver Sol Mail(LV1+)",
+        "name": "银日铠甲(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -6759,7 +6759,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Silver Sol Vest(LV1+)",
+        "name": "银日轻甲(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -6782,7 +6782,7 @@
             "base": 16,
             "max": 32
         },
-        "name": "Hermitaur Mail(LV1+)",
+        "name": "盾蟹铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -6805,7 +6805,7 @@
             "base": 32,
             "max": 32
         },
-        "name": "Hermitaur Mail(LV5+)",
+        "name": "盾蟹铠甲(LV5+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -6828,7 +6828,7 @@
             "base": 28,
             "max": 47
         },
-        "name": "Hermitaur Mail U(LV1+)",
+        "name": "盾蟹Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -6852,7 +6852,7 @@
             "base": 31,
             "max": 68
         },
-        "name": "Hermitaur Mail S(LV1+)",
+        "name": "盾蟹Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -6876,7 +6876,7 @@
             "base": 46,
             "max": 68
         },
-        "name": "Hermitaur Mail S(LV3+)",
+        "name": "盾蟹Ｓ铠甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -6900,7 +6900,7 @@
             "base": 10,
             "max": 18
         },
-        "name": "Hermitaur Vest(LV1+)",
+        "name": "盾蟹轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -6923,7 +6923,7 @@
             "base": 18,
             "max": 18
         },
-        "name": "Hermitaur Vest(LV5+)",
+        "name": "盾蟹轻甲(LV5+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -6946,7 +6946,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Hermitaur Vest U(LV1+)",
+        "name": "盾蟹Ｕ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -6970,7 +6970,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Hermitaur Vest S(LV1+)",
+        "name": "盾蟹Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -6993,7 +6993,7 @@
             "base": 30,
             "max": 37
         },
-        "name": "Hermitaur Vest S(LV3+)",
+        "name": "盾蟹Ｓ轻甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -7016,7 +7016,7 @@
             "base": 17,
             "max": 35
         },
-        "name": "Conga Mail(LV1+)",
+        "name": "桃毛铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -7039,7 +7039,7 @@
             "base": 33,
             "max": 35
         },
-        "name": "Conga Mail(LV4+)",
+        "name": "桃毛铠甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -7062,7 +7062,7 @@
             "base": 35,
             "max": 35
         },
-        "name": "Conga Mail(LV5+)",
+        "name": "桃毛铠甲(LV5+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -7085,7 +7085,7 @@
             "base": 32,
             "max": 48
         },
-        "name": "Conga Mail U(LV1+)",
+        "name": "桃毛Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -7109,7 +7109,7 @@
             "base": 35,
             "max": 68
         },
-        "name": "Conga Mail S(LV1+)",
+        "name": "桃毛Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -7133,7 +7133,7 @@
             "base": 11,
             "max": 19
         },
-        "name": "Conga Vest(LV1+)",
+        "name": "桃毛轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -7156,7 +7156,7 @@
             "base": 17,
             "max": 19
         },
-        "name": "Conga Vest(LV4+)",
+        "name": "桃毛轻甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -7179,7 +7179,7 @@
             "base": 19,
             "max": 19
         },
-        "name": "Conga Vest(LV5+)",
+        "name": "桃毛轻甲(LV5+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -7202,7 +7202,7 @@
             "base": 18,
             "max": 28
         },
-        "name": "Conga Vest U(LV1+)",
+        "name": "桃毛Ｕ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -7226,7 +7226,7 @@
             "base": 19,
             "max": 28
         },
-        "name": "Conga Vest U(LV2+)",
+        "name": "桃毛Ｕ轻甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -7250,7 +7250,7 @@
             "base": 22,
             "max": 37
         },
-        "name": "Conga Vest S(LV1+)",
+        "name": "桃毛Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -7274,7 +7274,7 @@
             "base": 33,
             "max": 37
         },
-        "name": "Conga Vest S(LV4+)",
+        "name": "桃毛Ｓ轻甲(LV4+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -7298,7 +7298,7 @@
             "base": 21,
             "max": 42
         },
-        "name": "Blango Mail(LV1+)",
+        "name": "雪狮铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -7322,7 +7322,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Blango Mail U(LV1+)",
+        "name": "雪狮Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -7345,7 +7345,7 @@
             "base": 47,
             "max": 51
         },
-        "name": "Blango Mail U(LV4+)",
+        "name": "雪狮Ｕ铠甲(LV4+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -7368,7 +7368,7 @@
             "base": 37,
             "max": 72
         },
-        "name": "Blango Mail S(LV1+)",
+        "name": "雪狮Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -7391,7 +7391,7 @@
             "base": 12,
             "max": 21
         },
-        "name": "Blango Vest(LV1+)",
+        "name": "雪狮轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -7415,7 +7415,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Blango Vest U(LV1+)",
+        "name": "雪狮Ｕ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -7438,7 +7438,7 @@
             "base": 26,
             "max": 29
         },
-        "name": "Blango Vest U(LV4+)",
+        "name": "雪狮Ｕ轻甲(LV4+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -7461,7 +7461,7 @@
             "base": 26,
             "max": 38
         },
-        "name": "Blango Vest S(LV1+)",
+        "name": "雪狮Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -7485,7 +7485,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Ceanataur Mail(LV1+)",
+        "name": "镰蟹铠甲(LV1+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -7510,7 +7510,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Ceanataur Mail(LV3+)",
+        "name": "镰蟹铠甲(LV3+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -7535,7 +7535,7 @@
             "base": 36,
             "max": 52
         },
-        "name": "Ceanataur Mail U(LV1+)",
+        "name": "镰蟹Ｕ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -7559,7 +7559,7 @@
             "base": 44,
             "max": 52
         },
-        "name": "Ceanataur Mail U(LV3+)",
+        "name": "镰蟹Ｕ铠甲(LV3+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -7583,7 +7583,7 @@
             "base": 38,
             "max": 73
         },
-        "name": "Ceanataur Mail S(LV1+)",
+        "name": "镰蟹Ｓ铠甲(LV1+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -7606,7 +7606,7 @@
             "base": 14,
             "max": 22
         },
-        "name": "Ceanataur Vest(LV1+)",
+        "name": "镰蟹轻甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -7630,7 +7630,7 @@
             "base": 21,
             "max": 22
         },
-        "name": "Ceanataur Vest(LV4+)",
+        "name": "镰蟹轻甲(LV4+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -7654,7 +7654,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Ceanataur Vest U(LV1+)",
+        "name": "镰蟹Ｕ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -7677,7 +7677,7 @@
             "base": 25,
             "max": 30
         },
-        "name": "Ceanataur Vest U(LV3+)",
+        "name": "镰蟹Ｕ轻甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -7700,7 +7700,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Ceanataur Vest S(LV1+)",
+        "name": "镰蟹Ｓ轻甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -7724,7 +7724,7 @@
             "base": 34,
             "max": 50
         },
-        "name": "Kirin Jacket(LV1+)",
+        "name": "麒麟马甲(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -7748,7 +7748,7 @@
             "base": 42,
             "max": 50
         },
-        "name": "Kirin Jacket(LV3+)",
+        "name": "麒麟马甲(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -7772,7 +7772,7 @@
             "base": 43,
             "max": 84
         },
-        "name": "Kirin Jacket S(LV1+)",
+        "name": "麒麟Ｓ马甲(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7795,7 +7795,7 @@
             "base": 84,
             "max": 84
         },
-        "name": "Kirin Jacket S(LV5+)",
+        "name": "麒麟Ｓ马甲(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7818,7 +7818,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Kirin Cape(LV1+)",
+        "name": "麒麟披肩(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -7842,7 +7842,7 @@
             "base": 25,
             "max": 28
         },
-        "name": "Kirin Cape(LV4+)",
+        "name": "麒麟披肩(LV4+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -7866,7 +7866,7 @@
             "base": 26,
             "max": 43
         },
-        "name": "Kirin Cape S(LV1+)",
+        "name": "麒麟Ｓ披肩(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7889,7 +7889,7 @@
             "base": 43,
             "max": 43
         },
-        "name": "Kirin Cape S(LV5+)",
+        "name": "麒麟Ｓ披肩(LV5+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7912,7 +7912,7 @@
             "base": 39,
             "max": 83
         },
-        "name": "Kushala Cista(LV1+)",
+        "name": "乞沙拏铠甲(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7936,7 +7936,7 @@
             "base": 83,
             "max": 83
         },
-        "name": "Kushala Cista(LV5+)",
+        "name": "乞沙拏铠甲(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7960,7 +7960,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Kushala Vise(LV1+)",
+        "name": "乞沙拏轻甲(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7984,7 +7984,7 @@
             "base": 41,
             "max": 41
         },
-        "name": "Kushala Vise(LV5+)",
+        "name": "乞沙拏轻甲(LV5+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8008,7 +8008,7 @@
             "base": 40,
             "max": 77
         },
-        "name": "Mizuha Chest(LV1+)",
+        "name": "弥都波【胸当】(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -8032,7 +8032,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Extravagant Chest(LV1+)",
+        "name": "丰玉【胸当】(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -8056,7 +8056,7 @@
             "base": 43,
             "max": 83
         },
-        "name": "Empress Mail(LV1+)",
+        "name": "女帝铠甲(LV1+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -8080,7 +8080,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Empress Vest(LV1+)",
+        "name": "女帝轻甲(LV1+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -8104,7 +8104,7 @@
             "base": 42,
             "max": 89
         },
-        "name": "Indra Chest(LV1+)",
+        "name": "金刚【胴当】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -8128,7 +8128,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Steadfast Chest(LV1+)",
+        "name": "不动【胴当】(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -8152,7 +8152,7 @@
             "base": 43,
             "max": 90
         },
-        "name": "Kaiser Mail(LV1+)",
+        "name": "凯撒铠甲(LV1+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -8175,7 +8175,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Kaiser Vest(LV1+)",
+        "name": "凯撒轻甲(LV1+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -8199,7 +8199,7 @@
             "base": 44,
             "max": 93
         },
-        "name": "Guardian Spirit Coat(LV1+)",
+        "name": "夜叉【羽衣】(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8223,7 +8223,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Carnage Coat(LV1+)",
+        "name": "修罗【羽衣】(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -8247,7 +8247,7 @@
             "base": 51,
             "max": 75
         },
-        "name": "Golden Haori(LV1+)",
+        "name": "金色之羽织(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -8270,7 +8270,7 @@
             "base": 26,
             "max": 38
         },
-        "name": "Puppet Master Costume(LV1+)",
+        "name": "黑子之装束(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -8293,7 +8293,7 @@
             "base": 59,
             "max": 95
         },
-        "name": "White Fatalis Hide(LV1+)",
+        "name": "祖龍之皮(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -8317,7 +8317,7 @@
             "base": 32,
             "max": 48
         },
-        "name": "White Fatalis Skin(LV1+)",
+        "name": "祖龍之肤(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8341,7 +8341,7 @@
             "base": 13,
             "max": 25
         },
-        "name": "White Velociprey Body(LV1+)",
+        "name": "白速龙之躯(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -8364,7 +8364,7 @@
             "base": 17,
             "max": 25
         },
-        "name": "White Velociprey Body(LV3+)",
+        "name": "白速龙之躯(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -8387,7 +8387,7 @@
             "base": 21,
             "max": 25
         },
-        "name": "White Velociprey Body(LV5+)",
+        "name": "白速龙之躯(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -8410,7 +8410,7 @@
             "base": 13,
             "max": 34
         },
-        "name": "Remobra Body(LV1+)",
+        "name": "蛇龙之躯(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -8434,7 +8434,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Guild Knight Suit(LV1+)",
+        "name": "公会骑士制服(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -8457,7 +8457,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Guild Knight Vest(LV1+)",
+        "name": "公会骑士马甲(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -8480,7 +8480,7 @@
             "base": 8,
             "max": 8
         },
-        "name": "Hunter T-Shirt(LV1+)",
+        "name": "狩人Ｔ恤衫(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -8503,7 +8503,7 @@
             "base": 4,
             "max": 10
         },
-        "name": "Famitsu T-Shirt(LV1+)",
+        "name": "Fami通Ｔ恤衫(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -8525,7 +8525,7 @@
             "base": 20,
             "max": 20
         },
-        "name": "Famitsu T-Shirt S(LV1+)",
+        "name": "Fami通Ｔ恤衫Ｓ(LV1+)",
         "rarity": 6,
         "resistance": [
             4,

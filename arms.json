@@ -5,7 +5,7 @@
             "base": 2,
             "max": 16
         },
-        "name": "Leather Vambraces(LV1+)",
+        "name": "轻革臂甲(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -27,7 +27,7 @@
             "base": 8,
             "max": 16
         },
-        "name": "Leather Vambraces(LV4+)",
+        "name": "轻革臂甲(LV4+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -49,7 +49,7 @@
             "base": 7,
             "max": 21
         },
-        "name": "Leather Vambraces U(LV1+)",
+        "name": "轻革Ｕ臂甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -71,7 +71,7 @@
             "base": 9,
             "max": 21
         },
-        "name": "Leather Vambraces U(LV3+)",
+        "name": "轻革Ｕ臂甲(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -93,7 +93,7 @@
             "base": 21,
             "max": 21
         },
-        "name": "Leather Vambraces U(LV5+)",
+        "name": "轻革Ｕ臂甲(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -115,7 +115,7 @@
             "base": 11,
             "max": 35
         },
-        "name": "Leather Vambraces S(LV1+)",
+        "name": "轻革Ｓ臂甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -139,7 +139,7 @@
             "base": 13,
             "max": 35
         },
-        "name": "Leather Vambraces S(LV2+)",
+        "name": "轻革Ｓ臂甲(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -163,7 +163,7 @@
             "base": 4,
             "max": 14
         },
-        "name": "Chain Vambraces(LV1+)",
+        "name": "锁链臂甲(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -187,7 +187,7 @@
             "base": 9,
             "max": 14
         },
-        "name": "Chain Vambraces(LV4+)",
+        "name": "锁链臂甲(LV4+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -211,7 +211,7 @@
             "base": 8,
             "max": 23
         },
-        "name": "Chain Vambraces U(LV1+)",
+        "name": "锁链Ｕ臂甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -234,7 +234,7 @@
             "base": 23,
             "max": 23
         },
-        "name": "Chain Vambraces U(LV5+)",
+        "name": "锁链Ｕ臂甲(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -257,7 +257,7 @@
             "base": 12,
             "max": 36
         },
-        "name": "Chain Vambraces S(LV1+)",
+        "name": "锁链Ｓ臂甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -280,7 +280,7 @@
             "base": 16,
             "max": 36
         },
-        "name": "Chain Vambraces S(LV3+)",
+        "name": "锁链Ｓ臂甲(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -303,7 +303,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Chain Vambraces S(LV5+)",
+        "name": "锁链Ｓ臂甲(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -326,7 +326,7 @@
             "base": 4,
             "max": 24
         },
-        "name": "Hunter's Vambraces(LV1+)",
+        "name": "猎人臂甲(LV1+)",
         "rarity": 1,
         "resistance": [
             0,
@@ -349,7 +349,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Hunter's Vambraces(LV4+)",
+        "name": "猎人臂甲(LV4+)",
         "rarity": 1,
         "resistance": [
             0,
@@ -372,7 +372,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Hunter's Vambraces U(LV1+)",
+        "name": "猎人Ｕ臂甲(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -395,7 +395,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Hunter's Vambraces U(LV5+)",
+        "name": "猎人Ｕ臂甲(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -418,7 +418,7 @@
             "base": 24,
             "max": 51
         },
-        "name": "Hunter's Vambraces S(LV1+)",
+        "name": "猎人Ｓ臂甲(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -441,7 +441,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Hunter's Vambraces S(LV3+)",
+        "name": "猎人Ｓ臂甲(LV3+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -464,7 +464,7 @@
             "base": 51,
             "max": 51
         },
-        "name": "Hunter's Vambraces S(LV5+)",
+        "name": "猎人Ｓ臂甲(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -487,7 +487,7 @@
             "base": 2,
             "max": 16
         },
-        "name": "Hunter's Guards(LV1+)",
+        "name": "猎人护臂(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -510,7 +510,7 @@
             "base": 8,
             "max": 16
         },
-        "name": "Hunter's Guards(LV4+)",
+        "name": "猎人护臂(LV4+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -533,7 +533,7 @@
             "base": 11,
             "max": 24
         },
-        "name": "Hunter's Guards U(LV1+)",
+        "name": "猎人Ｕ护臂(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -556,7 +556,7 @@
             "base": 24,
             "max": 24
         },
-        "name": "Hunter's Guards U(LV5+)",
+        "name": "猎人Ｕ护臂(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -579,7 +579,7 @@
             "base": 13,
             "max": 39
         },
-        "name": "Hunter's Guards S(LV1+)",
+        "name": "猎人Ｓ护臂(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -602,7 +602,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Hunter's Guards S(LV3+)",
+        "name": "猎人Ｓ护臂(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -625,7 +625,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Hunter's Guards S(LV5+)",
+        "name": "猎人Ｓ护臂(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -648,7 +648,7 @@
             "base": 9,
             "max": 26
         },
-        "name": "Bone Vambraces(LV1+)",
+        "name": "骸骨臂甲(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -672,7 +672,7 @@
             "base": 26,
             "max": 26
         },
-        "name": "Bone Vambraces(LV5+)",
+        "name": "骸骨臂甲(LV5+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -696,7 +696,7 @@
             "base": 21,
             "max": 42
         },
-        "name": "Bone Vambraces U(LV1+)",
+        "name": "骸骨Ｕ臂甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -720,7 +720,7 @@
             "base": 25,
             "max": 54
         },
-        "name": "Bone Vambraces S(LV1+)",
+        "name": "骸骨Ｓ臂甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -744,7 +744,7 @@
             "base": 41,
             "max": 54
         },
-        "name": "Bone Vambraces S(LV4+)",
+        "name": "骸骨Ｓ臂甲(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -768,7 +768,7 @@
             "base": 4,
             "max": 14
         },
-        "name": "Bone Guards(LV1+)",
+        "name": "骸骨护臂(LV1+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -792,7 +792,7 @@
             "base": 14,
             "max": 14
         },
-        "name": "Bone Guards(LV5+)",
+        "name": "骸骨护臂(LV5+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -816,7 +816,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Bone Guards U(LV1+)",
+        "name": "骸骨Ｕ护臂(LV1+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -840,7 +840,7 @@
             "base": 14,
             "max": 26
         },
-        "name": "Bone Guards U(LV2+)",
+        "name": "骸骨Ｕ护臂(LV2+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -864,7 +864,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Bone Guards S(LV1+)",
+        "name": "骸骨Ｓ护臂(LV1+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -888,7 +888,7 @@
             "base": 32,
             "max": 39
         },
-        "name": "Bone Guards S(LV4+)",
+        "name": "骸骨Ｓ护臂(LV4+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -912,7 +912,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Velociprey Vambraces(LV1+)",
+        "name": "蓝速龙臂甲(LV1+)",
         "rarity": 2,
         "resistance": [
             1,
@@ -934,7 +934,7 @@
             "base": 13,
             "max": 23
         },
-        "name": "Velociprey Vambraces(LV3+)",
+        "name": "蓝速龙臂甲(LV3+)",
         "rarity": 2,
         "resistance": [
             1,
@@ -956,7 +956,7 @@
             "base": 22,
             "max": 45
         },
-        "name": "Velociprey Vambraces U(LV1+)",
+        "name": "蓝速龙Ｕ臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -980,7 +980,7 @@
             "base": 42,
             "max": 45
         },
-        "name": "Velociprey Vambraces U(LV4+)",
+        "name": "蓝速龙Ｕ臂甲(LV4+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1004,7 +1004,7 @@
             "base": 26,
             "max": 57
         },
-        "name": "Velociprey Vambraces S(LV1+)",
+        "name": "蓝速龙Ｓ臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1028,7 +1028,7 @@
             "base": 57,
             "max": 57
         },
-        "name": "Velociprey Vambraces S(LV5+)",
+        "name": "蓝速龙Ｓ臂甲(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1052,7 +1052,7 @@
             "base": 5,
             "max": 13
         },
-        "name": "Velociprey Guards(LV1+)",
+        "name": "蓝速龙护臂(LV1+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -1076,7 +1076,7 @@
             "base": 7,
             "max": 13
         },
-        "name": "Velociprey Guards(LV3+)",
+        "name": "蓝速龙护臂(LV3+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -1100,7 +1100,7 @@
             "base": 13,
             "max": 13
         },
-        "name": "Velociprey Guards(LV5+)",
+        "name": "蓝速龙护臂(LV5+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -1124,7 +1124,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Velociprey Guard U(LV1+)",
+        "name": "蓝速龙Ｕ护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1148,7 +1148,7 @@
             "base": 21,
             "max": 26
         },
-        "name": "Velociprey Guard U(LV4+)",
+        "name": "蓝速龙Ｕ护臂(LV4+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1172,7 +1172,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Velociprey Guards S(LV1+)",
+        "name": "蓝速龙Ｓ护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1196,7 +1196,7 @@
             "base": 38,
             "max": 38
         },
-        "name": "Velociprey Guards S(LV5+)",
+        "name": "蓝速龙Ｓ护臂(LV5+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1220,7 +1220,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Battle Vambraces(LV1+)",
+        "name": "战斗臂甲(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1244,7 +1244,7 @@
             "base": 17,
             "max": 23
         },
-        "name": "Battle Vambraces(LV4+)",
+        "name": "战斗臂甲(LV4+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1268,7 +1268,7 @@
             "base": 22,
             "max": 45
         },
-        "name": "Battle Vambraces U(LV1+)",
+        "name": "战斗Ｕ臂甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1293,7 +1293,7 @@
             "base": 45,
             "max": 45
         },
-        "name": "Battle Vambraces U(LV5+)",
+        "name": "战斗Ｕ臂甲(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1318,7 +1318,7 @@
             "base": 26,
             "max": 57
         },
-        "name": "Battle Vambraces S(LV1+)",
+        "name": "战斗Ｓ臂甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1343,7 +1343,7 @@
             "base": 6,
             "max": 13
         },
-        "name": "Battle Guards(LV1+)",
+        "name": "战斗护臂(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -1367,7 +1367,7 @@
             "base": 10,
             "max": 13
         },
-        "name": "Battle Guards(LV4+)",
+        "name": "战斗护臂(LV4+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -1391,7 +1391,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Battle Guards U(LV1+)",
+        "name": "战斗Ｕ护臂(LV1+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1416,7 +1416,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Battle Guards U(LV3+)",
+        "name": "战斗Ｕ护臂(LV3+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1441,7 +1441,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Battle Guards S(LV1+)",
+        "name": "战斗Ｓ护臂(LV1+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1466,7 +1466,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Vespoid Vambraces(LV1+)",
+        "name": "巨蜂臂甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1488,7 +1488,7 @@
             "base": 23,
             "max": 25
         },
-        "name": "Vespoid Vambraces(LV4+)",
+        "name": "巨蜂臂甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1510,7 +1510,7 @@
             "base": 23,
             "max": 46
         },
-        "name": "Vespoid Vambraces U(LV1+)",
+        "name": "巨蜂Ｕ臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1535,7 +1535,7 @@
             "base": 43,
             "max": 46
         },
-        "name": "Vespoid Vambraces U(LV4+)",
+        "name": "巨蜂Ｕ臂甲(LV4+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1560,7 +1560,7 @@
             "base": 27,
             "max": 58
         },
-        "name": "Vespoid Vambraces S(LV1+)",
+        "name": "巨蜂Ｓ臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1585,7 +1585,7 @@
             "base": 48,
             "max": 58
         },
-        "name": "Vespoid Vambraces S(LV4+)",
+        "name": "巨蜂Ｓ臂甲(LV4+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1610,7 +1610,7 @@
             "base": 7,
             "max": 13
         },
-        "name": "Vespoid Guards(LV1+)",
+        "name": "巨蜂护臂(LV1+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1632,7 +1632,7 @@
             "base": 10,
             "max": 13
         },
-        "name": "Vespoid Guards(LV3+)",
+        "name": "巨蜂护臂(LV3+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1654,7 +1654,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Vespoid Guard U(LV1+)",
+        "name": "巨蜂Ｕ护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1677,7 +1677,7 @@
             "base": 19,
             "max": 25
         },
-        "name": "Vespoid Guard U(LV4+)",
+        "name": "巨蜂Ｕ护臂(LV4+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1700,7 +1700,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Vespoid Guards S(LV1+)",
+        "name": "巨蜂Ｓ护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1725,7 +1725,7 @@
             "base": 14,
             "max": 29
         },
-        "name": "Hornet Vambraces(LV1+)",
+        "name": "爬虫臂甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1749,7 +1749,7 @@
             "base": 17,
             "max": 29
         },
-        "name": "Hornet Vambraces(LV2+)",
+        "name": "爬虫臂甲(LV2+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1773,7 +1773,7 @@
             "base": 27,
             "max": 29
         },
-        "name": "Hornet Vambraces(LV4+)",
+        "name": "爬虫臂甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1797,7 +1797,7 @@
             "base": 24,
             "max": 47
         },
-        "name": "Hornet Vambraces U(LV1+)",
+        "name": "爬虫Ｕ臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1820,7 +1820,7 @@
             "base": 38,
             "max": 47
         },
-        "name": "Hornet Vambraces U(LV3+)",
+        "name": "爬虫Ｕ臂甲(LV3+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1843,7 +1843,7 @@
             "base": 47,
             "max": 47
         },
-        "name": "Hornet Vambraces U(LV5+)",
+        "name": "爬虫Ｕ臂甲(LV5+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1866,7 +1866,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Hornet Vambraces S(LV1+)",
+        "name": "爬虫Ｓ臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1890,7 +1890,7 @@
             "base": 60,
             "max": 60
         },
-        "name": "Hornet Vambraces S(LV5+)",
+        "name": "爬虫Ｓ臂甲(LV5+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1914,7 +1914,7 @@
             "base": 8,
             "max": 16
         },
-        "name": "Hornet Guards(LV1+)",
+        "name": "爬虫护臂(LV1+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1938,7 +1938,7 @@
             "base": 9,
             "max": 16
         },
-        "name": "Hornet Guards(LV2+)",
+        "name": "爬虫护臂(LV2+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1962,7 +1962,7 @@
             "base": 14,
             "max": 16
         },
-        "name": "Hornet Guards(LV4+)",
+        "name": "爬虫护臂(LV4+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1986,7 +1986,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Hornet Guards U(LV1+)",
+        "name": "爬虫Ｕ护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2009,7 +2009,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Hornet Guards U(LV3+)",
+        "name": "爬虫Ｕ护臂(LV3+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2032,7 +2032,7 @@
             "base": 25,
             "max": 25
         },
-        "name": "Hornet Guards U(LV5+)",
+        "name": "爬虫Ｕ护臂(LV5+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2055,7 +2055,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Hornet Guards S(LV1+)",
+        "name": "爬虫Ｓ护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2079,7 +2079,7 @@
             "base": 38,
             "max": 38
         },
-        "name": "Hornet Guards S(LV5+)",
+        "name": "爬虫Ｓ护臂(LV5+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2103,7 +2103,7 @@
             "base": 12,
             "max": 27
         },
-        "name": "Hi-Metal Vambraces(LV1+)",
+        "name": "精炼矿石臂甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -2,
@@ -2127,7 +2127,7 @@
             "base": 22,
             "max": 27
         },
-        "name": "Hi-Metal Vambraces(LV4+)",
+        "name": "精炼矿石臂甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -2,
@@ -2151,7 +2151,7 @@
             "base": 24,
             "max": 47
         },
-        "name": "Hi-Metal Vambraces U(LV1+)",
+        "name": "精炼矿石Ｕ臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2173,7 +2173,7 @@
             "base": 47,
             "max": 47
         },
-        "name": "Hi-Metal Vambraces U(LV5+)",
+        "name": "精炼矿石Ｕ臂甲(LV5+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2195,7 +2195,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Hi-Metal Vambraces S(LV1+)",
+        "name": "精炼矿石Ｓ臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2219,7 +2219,7 @@
             "base": 7,
             "max": 13
         },
-        "name": "Hi-Metal Guards(LV1+)",
+        "name": "精炼矿石护臂(LV1+)",
         "rarity": 2,
         "resistance": [
             0,
@@ -2243,7 +2243,7 @@
             "base": 11,
             "max": 13
         },
-        "name": "Hi-Metal Guards(LV4+)",
+        "name": "精炼矿石护臂(LV4+)",
         "rarity": 2,
         "resistance": [
             0,
@@ -2267,7 +2267,7 @@
             "base": 14,
             "max": 24
         },
-        "name": "Hi-Metal Guards U(LV1+)",
+        "name": "精炼矿石Ｕ护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2289,7 +2289,7 @@
             "base": 24,
             "max": 24
         },
-        "name": "Hi-Metal Guards U(LV5+)",
+        "name": "精炼矿石Ｕ护臂(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2311,7 +2311,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Hi-Metal Guards S(LV1+)",
+        "name": "精炼矿石Ｓ护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2335,7 +2335,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Genprey Vambraces(LV1+)",
+        "name": "黄速龙臂甲(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -2359,7 +2359,7 @@
             "base": 23,
             "max": 30
         },
-        "name": "Genprey Vambraces(LV4+)",
+        "name": "黄速龙臂甲(LV4+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -2383,7 +2383,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Genprey Vambraces U(LV1+)",
+        "name": "黄速龙Ｕ臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2406,7 +2406,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Genprey Vambraces U(LV3+)",
+        "name": "黄速龙Ｕ臂甲(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2429,7 +2429,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Genprey Vambraces U(LV5+)",
+        "name": "黄速龙Ｕ臂甲(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2452,7 +2452,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Genprey Vambraces S(LV1+)",
+        "name": "黄速龙Ｓ臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2476,7 +2476,7 @@
             "base": 50,
             "max": 60
         },
-        "name": "Genprey Vambraces S(LV4+)",
+        "name": "黄速龙Ｓ臂甲(LV4+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2500,7 +2500,7 @@
             "base": 8,
             "max": 17
         },
-        "name": "Genprey Guards(LV1+)",
+        "name": "黄速龙护臂(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2524,7 +2524,7 @@
             "base": 13,
             "max": 17
         },
-        "name": "Genprey Guards(LV4+)",
+        "name": "黄速龙护臂(LV4+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2548,7 +2548,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Genprey Guard U(LV1+)",
+        "name": "黄速龙Ｕ护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2571,7 +2571,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Genprey Guard U(LV3+)",
+        "name": "黄速龙Ｕ护臂(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2594,7 +2594,7 @@
             "base": 25,
             "max": 25
         },
-        "name": "Genprey Guard U(LV5+)",
+        "name": "黄速龙Ｕ护臂(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2617,7 +2617,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Genprey Guards S(LV1+)",
+        "name": "黄速龙Ｓ护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2641,7 +2641,7 @@
             "base": 33,
             "max": 40
         },
-        "name": "Genprey Guards S(LV4+)",
+        "name": "黄速龙Ｓ护臂(LV4+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2665,7 +2665,7 @@
             "base": 18,
             "max": 30
         },
-        "name": "Kut-Ku Vambraces(LV1+)",
+        "name": "怪鸟臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -2688,7 +2688,7 @@
             "base": 24,
             "max": 30
         },
-        "name": "Kut-Ku Vambraces(LV3+)",
+        "name": "怪鸟臂甲(LV3+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -2711,7 +2711,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Kut-Ku Vambraces(LV5+)",
+        "name": "怪鸟臂甲(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -2734,7 +2734,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Kut-Ku Vambraces U(LV1+)",
+        "name": "怪鸟Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2758,7 +2758,7 @@
             "base": 35,
             "max": 42
         },
-        "name": "Kut-Ku Vambraces U(LV3+)",
+        "name": "怪鸟Ｕ臂甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2782,7 +2782,7 @@
             "base": 33,
             "max": 64
         },
-        "name": "Kut-Ku Vambraces S(LV1+)",
+        "name": "怪鸟Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -2806,7 +2806,7 @@
             "base": 9,
             "max": 15
         },
-        "name": "Kut-Ku Guards(LV1+)",
+        "name": "怪鸟护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -2828,7 +2828,7 @@
             "base": 13,
             "max": 15
         },
-        "name": "Kut-Ku Guards(LV3+)",
+        "name": "怪鸟护臂(LV3+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -2850,7 +2850,7 @@
             "base": 15,
             "max": 15
         },
-        "name": "Kut-Ku Guards(LV5+)",
+        "name": "怪鸟护臂(LV5+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -2872,7 +2872,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Kut-Ku Guards U(LV1+)",
+        "name": "怪鸟Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -2896,7 +2896,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Kut-Ku Guards U(LV3+)",
+        "name": "怪鸟Ｕ护臂(LV3+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -2920,7 +2920,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Kut-Ku Guards S(LV1+)",
+        "name": "怪鸟Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -2944,7 +2944,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Ioprey Vambraces(LV1+)",
+        "name": "红速龙臂甲(LV1+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -2967,7 +2967,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Ioprey Vambraces(LV5+)",
+        "name": "红速龙臂甲(LV5+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -2990,7 +2990,7 @@
             "base": 25,
             "max": 48
         },
-        "name": "Ioprey Vambraces U(LV1+)",
+        "name": "红速龙Ｕ臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3012,7 +3012,7 @@
             "base": 39,
             "max": 48
         },
-        "name": "Ioprey Vambraces U(LV3+)",
+        "name": "红速龙Ｕ臂甲(LV3+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3034,7 +3034,7 @@
             "base": 48,
             "max": 48
         },
-        "name": "Ioprey Vambraces U(LV5+)",
+        "name": "红速龙Ｕ臂甲(LV5+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3056,7 +3056,7 @@
             "base": 29,
             "max": 62
         },
-        "name": "Ioprey Vambraces S(LV1+)",
+        "name": "红速龙Ｓ臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3080,7 +3080,7 @@
             "base": 51,
             "max": 62
         },
-        "name": "Ioprey Vambraces S(LV4+)",
+        "name": "红速龙Ｓ臂甲(LV4+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3104,7 +3104,7 @@
             "base": 8,
             "max": 18
         },
-        "name": "Ioprey Guards(LV1+)",
+        "name": "红速龙护臂(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -3128,7 +3128,7 @@
             "base": 18,
             "max": 18
         },
-        "name": "Ioprey Guards(LV5+)",
+        "name": "红速龙护臂(LV5+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -3152,7 +3152,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Ioprey Guards U(LV1+)",
+        "name": "红速龙Ｕ护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3174,7 +3174,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Ioprey Guards U(LV3+)",
+        "name": "红速龙Ｕ护臂(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3196,7 +3196,7 @@
             "base": 25,
             "max": 25
         },
-        "name": "Ioprey Guards U(LV5+)",
+        "name": "红速龙Ｕ护臂(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3218,7 +3218,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Ioprey Guards S(LV1+)",
+        "name": "红速龙Ｓ护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3242,7 +3242,7 @@
             "base": 33,
             "max": 40
         },
-        "name": "Ioprey Guards S(LV4+)",
+        "name": "红速龙Ｓ护臂(LV4+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3266,7 +3266,7 @@
             "base": 21,
             "max": 33
         },
-        "name": "Gypceros Vambraces(LV1+)",
+        "name": "毒怪鸟臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -3290,7 +3290,7 @@
             "base": 30,
             "max": 33
         },
-        "name": "Gypceros Vambraces(LV4+)",
+        "name": "毒怪鸟臂甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -3314,7 +3314,7 @@
             "base": 30,
             "max": 49
         },
-        "name": "Gypceros Vambraces U(LV1+)",
+        "name": "毒怪鸟Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3338,7 +3338,7 @@
             "base": 32,
             "max": 68
         },
-        "name": "Gypceros Vambraces S(LV1+)",
+        "name": "毒怪鸟Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3363,7 +3363,7 @@
             "base": 10,
             "max": 18
         },
-        "name": "Gypceros Guards(LV1+)",
+        "name": "毒怪鸟护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -3387,7 +3387,7 @@
             "base": 16,
             "max": 18
         },
-        "name": "Gypceros Guards(LV4+)",
+        "name": "毒怪鸟护臂(LV4+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -3411,7 +3411,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Gypceros Guard U(LV1+)",
+        "name": "毒怪鸟Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3435,7 +3435,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Gypceros Guards S(LV1+)",
+        "name": "毒怪鸟Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3460,7 +3460,7 @@
             "base": 20,
             "max": 29
         },
-        "name": "Cephalos Vambraces(LV1+)",
+        "name": "砂龙臂甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -3,
@@ -3483,7 +3483,7 @@
             "base": 28,
             "max": 29
         },
-        "name": "Cephalos Vambraces(LV4+)",
+        "name": "砂龙臂甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -3,
@@ -3506,7 +3506,7 @@
             "base": 28,
             "max": 47
         },
-        "name": "Cephalos Vambraces U(LV1+)",
+        "name": "砂龙Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3530,7 +3530,7 @@
             "base": 47,
             "max": 47
         },
-        "name": "Cephalos Vambraces U(LV5+)",
+        "name": "砂龙Ｕ臂甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3554,7 +3554,7 @@
             "base": 29,
             "max": 62
         },
-        "name": "Cephalos Vambraces S(LV1+)",
+        "name": "砂龙Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3578,7 +3578,7 @@
             "base": 51,
             "max": 62
         },
-        "name": "Cephalos Vambraces S(LV4+)",
+        "name": "砂龙Ｓ臂甲(LV4+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3602,7 +3602,7 @@
             "base": 10,
             "max": 17
         },
-        "name": "Cephalos Guards(LV1+)",
+        "name": "砂龙护臂(LV1+)",
         "rarity": 2,
         "resistance": [
             -1,
@@ -3625,7 +3625,7 @@
             "base": 15,
             "max": 17
         },
-        "name": "Cephalos Guards(LV4+)",
+        "name": "砂龙护臂(LV4+)",
         "rarity": 2,
         "resistance": [
             -1,
@@ -3648,7 +3648,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Cephalos Guard U(LV1+)",
+        "name": "砂龙Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3672,7 +3672,7 @@
             "base": 24,
             "max": 24
         },
-        "name": "Cephalos Guard U(LV5+)",
+        "name": "砂龙Ｕ护臂(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3696,7 +3696,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Cephalos Guards S(LV1+)",
+        "name": "砂龙Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3720,7 +3720,7 @@
             "base": 40,
             "max": 40
         },
-        "name": "Cephalos Guards S(LV5+)",
+        "name": "砂龙Ｓ护臂(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3744,7 +3744,7 @@
             "base": 19,
             "max": 31
         },
-        "name": "Steel Vambraces(LV1+)",
+        "name": "钢制臂甲(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -3766,7 +3766,7 @@
             "base": 25,
             "max": 31
         },
-        "name": "Steel Vambraces(LV3+)",
+        "name": "钢制臂甲(LV3+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -3788,7 +3788,7 @@
             "base": 31,
             "max": 31
         },
-        "name": "Steel Vambraces(LV5+)",
+        "name": "钢制臂甲(LV5+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -3810,7 +3810,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Steel Vambraces U(LV1+)",
+        "name": "钢制Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3832,7 +3832,7 @@
             "base": 38,
             "max": 42
         },
-        "name": "Steel Vambraces U(LV4+)",
+        "name": "钢制Ｕ臂甲(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3854,7 +3854,7 @@
             "base": 30,
             "max": 64
         },
-        "name": "Steel Vambraces S(LV1+)",
+        "name": "钢制Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3876,7 +3876,7 @@
             "base": 49,
             "max": 64
         },
-        "name": "Steel Vambraces S(LV4+)",
+        "name": "钢制Ｓ臂甲(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3898,7 +3898,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Rathian Vambraces(LV1+)",
+        "name": "雌火龙臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -3921,7 +3921,7 @@
             "base": 29,
             "max": 35
         },
-        "name": "Rathian Vambraces(LV3+)",
+        "name": "雌火龙臂甲(LV3+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -3944,7 +3944,7 @@
             "base": 35,
             "max": 35
         },
-        "name": "Rathian Vambraces(LV5+)",
+        "name": "雌火龙臂甲(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -3967,7 +3967,7 @@
             "base": 33,
             "max": 54
         },
-        "name": "Rath Heart Vambraces(LV1+)",
+        "name": "雌龙心臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3991,7 +3991,7 @@
             "base": 44,
             "max": 54
         },
-        "name": "Rath Heart Vambraces(LV3+)",
+        "name": "雌龙心臂甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4015,7 +4015,7 @@
             "base": 35,
             "max": 73
         },
-        "name": "Rathian Vambraces S(LV1+)",
+        "name": "雌火龙Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4039,7 +4039,7 @@
             "base": 43,
             "max": 73
         },
-        "name": "Rathian Vambraces S(LV3+)",
+        "name": "雌火龙Ｓ臂甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4063,7 +4063,7 @@
             "base": 12,
             "max": 20
         },
-        "name": "Rathian Guards(LV1+)",
+        "name": "雌火龙护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -4086,7 +4086,7 @@
             "base": 16,
             "max": 20
         },
-        "name": "Rathian Guards(LV3+)",
+        "name": "雌火龙护臂(LV3+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -4109,7 +4109,7 @@
             "base": 20,
             "max": 20
         },
-        "name": "Rathian Guards(LV5+)",
+        "name": "雌火龙护臂(LV5+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -4132,7 +4132,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Rath Heart Guards(LV1+)",
+        "name": "雌龙心护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4156,7 +4156,7 @@
             "base": 29,
             "max": 29
         },
-        "name": "Rath Heart Guards(LV5+)",
+        "name": "雌龙心护臂(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4180,7 +4180,7 @@
             "base": 23,
             "max": 40
         },
-        "name": "Rathian Guards S(LV1+)",
+        "name": "雌火龙Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4204,7 +4204,7 @@
             "base": 32,
             "max": 40
         },
-        "name": "Rathian Guards S(LV3+)",
+        "name": "雌火龙Ｓ护臂(LV3+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4228,7 +4228,7 @@
             "base": 26,
             "max": 37
         },
-        "name": "Khezu Vambraces(LV1+)",
+        "name": "电龙臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -4253,7 +4253,7 @@
             "base": 35,
             "max": 37
         },
-        "name": "Khezu Vambraces(LV3+)",
+        "name": "电龙臂甲(LV3+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -4278,7 +4278,7 @@
             "base": 37,
             "max": 37
         },
-        "name": "Khezu Vambraces(LV5+)",
+        "name": "电龙臂甲(LV5+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -4303,7 +4303,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Khezu Vambraces U(LV1+)",
+        "name": "电龙Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4327,7 +4327,7 @@
             "base": 51,
             "max": 51
         },
-        "name": "Khezu Vambraces U(LV5+)",
+        "name": "电龙Ｕ臂甲(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4351,7 +4351,7 @@
             "base": 37,
             "max": 72
         },
-        "name": "Khezu Vambraces S(LV1+)",
+        "name": "电龙Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4376,7 +4376,7 @@
             "base": 59,
             "max": 72
         },
-        "name": "Khezu Vambraces S(LV3+)",
+        "name": "电龙Ｓ臂甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4401,7 +4401,7 @@
             "base": 13,
             "max": 20
         },
-        "name": "Khezu Guards(LV1+)",
+        "name": "电龙护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -4426,7 +4426,7 @@
             "base": 18,
             "max": 20
         },
-        "name": "Khezu Guards(LV3+)",
+        "name": "电龙护臂(LV3+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -4451,7 +4451,7 @@
             "base": 20,
             "max": 20
         },
-        "name": "Khezu Guards(LV5+)",
+        "name": "电龙护臂(LV5+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -4476,7 +4476,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Khezu Guards U(LV1+)",
+        "name": "电龙Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4500,7 +4500,7 @@
             "base": 29,
             "max": 29
         },
-        "name": "Khezu Guards U(LV5+)",
+        "name": "电龙Ｕ护臂(LV5+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4524,7 +4524,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Khezu Guards S(LV1+)",
+        "name": "电龙Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4549,7 +4549,7 @@
             "base": 33,
             "max": 41
         },
-        "name": "Khezu Guards S(LV3+)",
+        "name": "电龙Ｓ护臂(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4574,7 +4574,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Rathalos Vambraces(LV1+)",
+        "name": "雄火龙臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -4598,7 +4598,7 @@
             "base": 35,
             "max": 42
         },
-        "name": "Rathalos Vambraces(LV3+)",
+        "name": "雄火龙臂甲(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -4622,7 +4622,7 @@
             "base": 37,
             "max": 54
         },
-        "name": "Rath Soul Vambraces(LV1+)",
+        "name": "雄龙魂臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4645,7 +4645,7 @@
             "base": 50,
             "max": 54
         },
-        "name": "Rath Soul Vambraces(LV4+)",
+        "name": "雄龙魂臂甲(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4668,7 +4668,7 @@
             "base": 39,
             "max": 76
         },
-        "name": "Rathalos Vambraces S(LV1+)",
+        "name": "雄火龙Ｓ臂甲(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -4691,7 +4691,7 @@
             "base": 14,
             "max": 24
         },
-        "name": "Rathalos Guards(LV1+)",
+        "name": "雄火龙护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -4715,7 +4715,7 @@
             "base": 19,
             "max": 24
         },
-        "name": "Rathalos Guards(LV3+)",
+        "name": "雄火龙护臂(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -4739,7 +4739,7 @@
             "base": 19,
             "max": 31
         },
-        "name": "Rath Soul Guards(LV1+)",
+        "name": "雄龙魂护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4762,7 +4762,7 @@
             "base": 31,
             "max": 31
         },
-        "name": "Rath Soul Guards(LV5+)",
+        "name": "雄龙魂护臂(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4785,7 +4785,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Rathalos Guards S(LV1+)",
+        "name": "雄火龙Ｓ护臂(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -4808,7 +4808,7 @@
             "base": 25,
             "max": 36
         },
-        "name": "Plesioth Vambraces(LV1+)",
+        "name": "水龙臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -4832,7 +4832,7 @@
             "base": 34,
             "max": 36
         },
-        "name": "Plesioth Vambraces(LV3+)",
+        "name": "水龙臂甲(LV3+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -4856,7 +4856,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Plesioth Vambraces U(LV1+)",
+        "name": "水龙Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4879,7 +4879,7 @@
             "base": 38,
             "max": 72
         },
-        "name": "Plesioth Vambraces S(LV1+)",
+        "name": "水龙Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4902,7 +4902,7 @@
             "base": 44,
             "max": 72
         },
-        "name": "Plesioth Vambraces S(LV3+)",
+        "name": "水龙Ｓ臂甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -4925,7 +4925,7 @@
             "base": 13,
             "max": 21
         },
-        "name": "Plesioth Guards(LV1+)",
+        "name": "水龙护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             -2,
@@ -4949,7 +4949,7 @@
             "base": 17,
             "max": 21
         },
-        "name": "Plesioth Guards(LV3+)",
+        "name": "水龙护臂(LV3+)",
         "rarity": 3,
         "resistance": [
             -2,
@@ -4973,7 +4973,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Plesioth Guards U(LV1+)",
+        "name": "水龙Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -4996,7 +4996,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Plesioth Guards S(LV1+)",
+        "name": "水龙Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -5019,7 +5019,7 @@
             "base": 41,
             "max": 41
         },
-        "name": "Plesioth Guards S(LV5+)",
+        "name": "水龙Ｓ护臂(LV5+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -5042,7 +5042,7 @@
             "base": 18,
             "max": 36
         },
-        "name": "Lobster Vambraces(LV1+)",
+        "name": "帝王龙虾臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -5065,7 +5065,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Lobster Vambraces(LV5+)",
+        "name": "帝王龙虾臂甲(LV5+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -5088,7 +5088,7 @@
             "base": 33,
             "max": 50
         },
-        "name": "Amethyst Vambraces(LV1+)",
+        "name": "美国螯虾臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5112,7 +5112,7 @@
             "base": 50,
             "max": 50
         },
-        "name": "Amethyst Vambraces(LV5+)",
+        "name": "美国螯虾臂甲(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5136,7 +5136,7 @@
             "base": 11,
             "max": 19
         },
-        "name": "Lobster Guards(LV1+)",
+        "name": "帝王龙虾护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -5159,7 +5159,7 @@
             "base": 19,
             "max": 19
         },
-        "name": "Lobster Guards(LV5+)",
+        "name": "帝王龙虾护臂(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -5182,7 +5182,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Amethyst Guards(LV1+)",
+        "name": "美国螯虾护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5206,7 +5206,7 @@
             "base": 29,
             "max": 29
         },
-        "name": "Amethyst Guards(LV5+)",
+        "name": "美国螯虾护臂(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5230,7 +5230,7 @@
             "base": 17,
             "max": 35
         },
-        "name": "Basarios Vambraces(LV1+)",
+        "name": "岩龙臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5254,7 +5254,7 @@
             "base": 21,
             "max": 35
         },
-        "name": "Basarios Vambraces(LV2+)",
+        "name": "岩龙臂甲(LV2+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5278,7 +5278,7 @@
             "base": 33,
             "max": 35
         },
-        "name": "Basarios Vambraces(LV4+)",
+        "name": "岩龙臂甲(LV4+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5302,7 +5302,7 @@
             "base": 33,
             "max": 54
         },
-        "name": "Basarios Vambraces U(LV1+)",
+        "name": "岩龙Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5326,7 +5326,7 @@
             "base": 44,
             "max": 54
         },
-        "name": "Basarios Vambraces U(LV3+)",
+        "name": "岩龙Ｕ臂甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5350,7 +5350,7 @@
             "base": 35,
             "max": 73
         },
-        "name": "Basarios Vambraces S(LV1+)",
+        "name": "岩龙Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5374,7 +5374,7 @@
             "base": 73,
             "max": 73
         },
-        "name": "Basarios Vambraces S(LV5+)",
+        "name": "岩龙Ｓ臂甲(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5398,7 +5398,7 @@
             "base": 10,
             "max": 20
         },
-        "name": "Basarios Guards(LV1+)",
+        "name": "岩龙护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5421,7 +5421,7 @@
             "base": 12,
             "max": 20
         },
-        "name": "Basarios Guards(LV2+)",
+        "name": "岩龙护臂(LV2+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5444,7 +5444,7 @@
             "base": 19,
             "max": 20
         },
-        "name": "Basarios Guards(LV4+)",
+        "name": "岩龙护臂(LV4+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5467,7 +5467,7 @@
             "base": 19,
             "max": 28
         },
-        "name": "Basarios Guard U(LV1+)",
+        "name": "岩龙Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5491,7 +5491,7 @@
             "base": 26,
             "max": 28
         },
-        "name": "Basarios Guard U(LV3+)",
+        "name": "岩龙Ｕ护臂(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5515,7 +5515,7 @@
             "base": 23,
             "max": 40
         },
-        "name": "Basarios Guards S(LV1+)",
+        "name": "岩龙Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5539,7 +5539,7 @@
             "base": 40,
             "max": 40
         },
-        "name": "Basarios Guards S(LV5+)",
+        "name": "岩龙Ｓ护臂(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5563,7 +5563,7 @@
             "base": 29,
             "max": 43
         },
-        "name": "Diablo Vambraces(LV1+)",
+        "name": "角龙臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             3,
@@ -5586,7 +5586,7 @@
             "base": 39,
             "max": 43
         },
-        "name": "Diablo Vambraces(LV4+)",
+        "name": "角龙臂甲(LV4+)",
         "rarity": 3,
         "resistance": [
             3,
@@ -5609,7 +5609,7 @@
             "base": 39,
             "max": 57
         },
-        "name": "Diablo Vambraces U(LV1+)",
+        "name": "角龙Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5633,7 +5633,7 @@
             "base": 52,
             "max": 57
         },
-        "name": "Diablo Vambraces U(LV4+)",
+        "name": "角龙Ｕ臂甲(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5657,7 +5657,7 @@
             "base": 57,
             "max": 57
         },
-        "name": "Diablo Vambraces U(LV5+)",
+        "name": "角龙Ｕ臂甲(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5681,7 +5681,7 @@
             "base": 41,
             "max": 81
         },
-        "name": "Diablo Vambraces S(LV1+)",
+        "name": "角龙Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5704,7 +5704,7 @@
             "base": 15,
             "max": 23
         },
-        "name": "Diablo Guards(LV1+)",
+        "name": "角龙护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -5728,7 +5728,7 @@
             "base": 21,
             "max": 23
         },
-        "name": "Diablo Guards(LV4+)",
+        "name": "角龙护臂(LV4+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -5752,7 +5752,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Diablo Guards U(LV1+)",
+        "name": "角龙Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5776,7 +5776,7 @@
             "base": 22,
             "max": 30
         },
-        "name": "Diablo Guards U(LV2+)",
+        "name": "角龙Ｕ护臂(LV2+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5800,7 +5800,7 @@
             "base": 27,
             "max": 30
         },
-        "name": "Diablo Guards U(LV4+)",
+        "name": "角龙Ｕ护臂(LV4+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5824,7 +5824,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Diablo Guards S(LV1+)",
+        "name": "角龙Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5847,7 +5847,7 @@
             "base": 30,
             "max": 44
         },
-        "name": "Monoblos Vambraces(LV1+)",
+        "name": "一角龙臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5871,7 +5871,7 @@
             "base": 37,
             "max": 44
         },
-        "name": "Monoblos Vambraces(LV3+)",
+        "name": "一角龙臂甲(LV3+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5895,7 +5895,7 @@
             "base": 40,
             "max": 58
         },
-        "name": "Monodevil Vambraces(LV1+)",
+        "name": "一角魔臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5919,7 +5919,7 @@
             "base": 42,
             "max": 82
         },
-        "name": "Monoblos Vambraces S(LV1+)",
+        "name": "一角龙Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5943,7 +5943,7 @@
             "base": 67,
             "max": 82
         },
-        "name": "Monoblos Vambraces S(LV3+)",
+        "name": "一角龙Ｓ臂甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5967,7 +5967,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Monoblos Guards(LV1+)",
+        "name": "一角龙护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -5991,7 +5991,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Monoblos Guards(LV3+)",
+        "name": "一角龙护臂(LV3+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -6015,7 +6015,7 @@
             "base": 21,
             "max": 33
         },
-        "name": "Monodevil Guards(LV1+)",
+        "name": "一角魔护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6039,7 +6039,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Monoblos Guards S(LV1+)",
+        "name": "一角龙Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6063,7 +6063,7 @@
             "base": 27,
             "max": 42
         },
-        "name": "Monoblos Guards S(LV2+)",
+        "name": "一角龙Ｓ护臂(LV2+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6087,7 +6087,7 @@
             "base": 30,
             "max": 49
         },
-        "name": "Gravios Vambraces(LV1+)",
+        "name": "铠龙臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -6112,7 +6112,7 @@
             "base": 41,
             "max": 61
         },
-        "name": "Gravios Vambraces U(LV1+)",
+        "name": "铠龙Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6136,7 +6136,7 @@
             "base": 51,
             "max": 61
         },
-        "name": "Gravios Vambraces U(LV3+)",
+        "name": "铠龙Ｕ臂甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6160,7 +6160,7 @@
             "base": 42,
             "max": 82
         },
-        "name": "Gravios Vambraces S(LV1+)",
+        "name": "铠龙Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6184,7 +6184,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Gravios Guards(LV1+)",
+        "name": "铠龙护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -6209,7 +6209,7 @@
             "base": 22,
             "max": 34
         },
-        "name": "Gravios Guards U(LV1+)",
+        "name": "铠龙Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6232,7 +6232,7 @@
             "base": 28,
             "max": 34
         },
-        "name": "Gravios Guards U(LV3+)",
+        "name": "铠龙Ｕ护臂(LV3+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6255,7 +6255,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Gravios Guards S(LV1+)",
+        "name": "铠龙Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6278,7 +6278,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Black Belt Vambraces(LV1+)",
+        "name": "黑带臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6301,7 +6301,7 @@
             "base": 22,
             "max": 37
         },
-        "name": "Black Belt Vambraces(LV3+)",
+        "name": "黑带臂甲(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6324,7 +6324,7 @@
             "base": 37,
             "max": 37
         },
-        "name": "Black Belt Vambraces(LV5+)",
+        "name": "黑带臂甲(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6347,7 +6347,7 @@
             "base": 25,
             "max": 37
         },
-        "name": "Black Belt Vambraces S(LV1+)",
+        "name": "黑带Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -6369,7 +6369,7 @@
             "base": 34,
             "max": 37
         },
-        "name": "Black Belt Vambraces S(LV4+)",
+        "name": "黑带Ｓ臂甲(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -6391,7 +6391,7 @@
             "base": 3,
             "max": 8
         },
-        "name": "Mosswine Gloves(LV1+)",
+        "name": "苔猪拳(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -6414,7 +6414,7 @@
             "base": 5,
             "max": 8
         },
-        "name": "Mosswine Gloves(LV3+)",
+        "name": "苔猪拳(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -6437,7 +6437,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Makluva Sleeves(LV1+)",
+        "name": "鱼鳞长袖(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6460,7 +6460,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Makluva Sleeves(LV3+)",
+        "name": "鱼鳞长袖(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6483,7 +6483,7 @@
             "base": 9,
             "max": 21
         },
-        "name": "Velociprey Claws(LV1+)",
+        "name": "蓝速龙之爪(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6506,7 +6506,7 @@
             "base": 15,
             "max": 21
         },
-        "name": "Velociprey Claws(LV3+)",
+        "name": "蓝速龙之爪(LV3+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6529,7 +6529,7 @@
             "base": 19,
             "max": 21
         },
-        "name": "Velociprey Claws(LV5+)",
+        "name": "蓝速龙之爪(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6552,7 +6552,7 @@
             "base": 11,
             "max": 28
         },
-        "name": "Genprey Claws(LV1+)",
+        "name": "黄速龙之爪(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6575,7 +6575,7 @@
             "base": 19,
             "max": 28
         },
-        "name": "Genprey Claws(LV3+)",
+        "name": "黄速龙之爪(LV3+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6598,7 +6598,7 @@
             "base": 24,
             "max": 28
         },
-        "name": "Genprey Claws(LV5+)",
+        "name": "黄速龙之爪(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -6621,7 +6621,7 @@
             "base": 14,
             "max": 33
         },
-        "name": "Ioprey Claws(LV1+)",
+        "name": "红速龙之爪(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6644,7 +6644,7 @@
             "base": 23,
             "max": 33
         },
-        "name": "Ioprey Claws(LV3+)",
+        "name": "红速龙之爪(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6667,7 +6667,7 @@
             "base": 29,
             "max": 33
         },
-        "name": "Ioprey Claws(LV5+)",
+        "name": "红速龙之爪(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6690,7 +6690,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Shinobi Kote \"Sun\"(LV1+)",
+        "name": "忍之笼手・阳(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6713,7 +6713,7 @@
             "base": 33,
             "max": 33
         },
-        "name": "Shinobi Kote \"Sun\"(LV5+)",
+        "name": "忍之笼手・阳(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6736,7 +6736,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Shinobi Gauntlets \"Sky\"(LV1+)",
+        "name": "忍之笼手・空(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6759,7 +6759,7 @@
             "base": 26,
             "max": 32
         },
-        "name": "Shinobi Gauntlets \"Sky\"(LV4+)",
+        "name": "忍之笼手・空(LV4+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6782,7 +6782,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Shinobi Gauntlets \"Heaven\"(LV1+)",
+        "name": "忍之笼手・天(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6806,7 +6806,7 @@
             "base": 33,
             "max": 41
         },
-        "name": "Shinobi Gauntlets \"Heaven\"(LV3+)",
+        "name": "忍之笼手・天(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6830,7 +6830,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Shinobi Kote \"Moon\"(LV1+)",
+        "name": "忍之笼手・阴(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -6853,7 +6853,7 @@
             "base": 27,
             "max": 33
         },
-        "name": "Shinobi Kote \"Moon\"(LV4+)",
+        "name": "忍之笼手・阴(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -6876,7 +6876,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Shinobi Gauntlets \"Sea\"(LV1+)",
+        "name": "忍之笼手・海(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6900,7 +6900,7 @@
             "base": 32,
             "max": 32
         },
-        "name": "Shinobi Gauntlets \"Sea\"(LV5+)",
+        "name": "忍之笼手・海(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6924,7 +6924,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Shinobi Gauntlets \"Earth\"(LV1+)",
+        "name": "忍之笼手・地(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6948,7 +6948,7 @@
             "base": 37,
             "max": 41
         },
-        "name": "Shinobi Gauntlets \"Earth\"(LV4+)",
+        "name": "忍之笼手・地(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6972,7 +6972,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Guardian Vambraces(LV1+)",
+        "name": "守卫者臂甲(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6996,7 +6996,7 @@
             "base": 24,
             "max": 30
         },
-        "name": "Guardian Vambraces(LV3+)",
+        "name": "守卫者臂甲(LV3+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7020,7 +7020,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Guardian Vambraces(LV5+)",
+        "name": "守卫者臂甲(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7044,7 +7044,7 @@
             "base": 21,
             "max": 36
         },
-        "name": "Guardian Vambraces U(LV1+)",
+        "name": "守卫者Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7068,7 +7068,7 @@
             "base": 29,
             "max": 36
         },
-        "name": "Guardian Vambraces U(LV3+)",
+        "name": "守卫者Ｕ臂甲(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7092,7 +7092,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Guardian Vambraces U(LV5+)",
+        "name": "守卫者Ｕ臂甲(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7116,7 +7116,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Red Guild Guard Gloves(LV1+)",
+        "name": "公会卫队手套红(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7139,7 +7139,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Red Guild Guard Gloves(LV3+)",
+        "name": "公会卫队手套红(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7162,7 +7162,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Blue Guild Guard Gloves(LV1+)",
+        "name": "公会卫队手套苍(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7185,7 +7185,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Blue Guild Guard Gloves(LV5+)",
+        "name": "公会卫队手套苍(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7208,7 +7208,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Guardian Guards(LV1+)",
+        "name": "守卫者护臂(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7232,7 +7232,7 @@
             "base": 24,
             "max": 30
         },
-        "name": "Guardian Guards(LV3+)",
+        "name": "守卫者护臂(LV3+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7256,7 +7256,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Guardian Guards(LV5+)",
+        "name": "守卫者护臂(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7280,7 +7280,7 @@
             "base": 21,
             "max": 36
         },
-        "name": "Guardian Guard U(LV1+)",
+        "name": "守卫者Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7304,7 +7304,7 @@
             "base": 29,
             "max": 36
         },
-        "name": "Guardian Guard U(LV3+)",
+        "name": "守卫者Ｕ护臂(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7328,7 +7328,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Guardian Guard U(LV5+)",
+        "name": "守卫者Ｕ护臂(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7352,7 +7352,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Red Guild Guard Sleeves(LV1+)",
+        "name": "公会卫队袖扣红(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7376,7 +7376,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Red Guild Guard Sleeves(LV3+)",
+        "name": "公会卫队袖扣红(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7400,7 +7400,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Blue Guild Guard Sleeves(LV1+)",
+        "name": "公会卫队袖扣苍(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7423,7 +7423,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Blue Guild Guard Sleeves(LV5+)",
+        "name": "公会卫队袖扣苍(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7446,7 +7446,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Garuga Vambraces(LV1+)",
+        "name": "黑狼鸟臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -7470,7 +7470,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Garuga Guards(LV1+)",
+        "name": "黑狼鸟护臂(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -7495,7 +7495,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Auroros Gauntlets(LV1+)",
+        "name": "晓丸【笼手】(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -7519,7 +7519,7 @@
             "base": 51,
             "max": 51
         },
-        "name": "Auroros Gauntlets(LV5+)",
+        "name": "晓丸【笼手】(LV5+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -7543,7 +7543,7 @@
             "base": 43,
             "max": 63
         },
-        "name": "Auroros Gauntlets Mai(LV1+)",
+        "name": "晓丸・皇【笼手】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7566,7 +7566,7 @@
             "base": 63,
             "max": 63
         },
-        "name": "Auroros Gauntlets Mai(LV5+)",
+        "name": "晓丸・皇【笼手】(LV5+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7589,7 +7589,7 @@
             "base": 44,
             "max": 84
         },
-        "name": "Auroros Gauntlets Ha(LV1+)",
+        "name": "晓丸・霸【笼手】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7613,7 +7613,7 @@
             "base": 69,
             "max": 84
         },
-        "name": "Auroros Gauntlets Ha(LV3+)",
+        "name": "晓丸・霸【笼手】(LV3+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7637,7 +7637,7 @@
             "base": 18,
             "max": 26
         },
-        "name": "Genesis Gauntlets(LV1+)",
+        "name": "曙丸【笼手】(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -7661,7 +7661,7 @@
             "base": 26,
             "max": 26
         },
-        "name": "Genesis Gauntlets(LV5+)",
+        "name": "曙丸【笼手】(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -7685,7 +7685,7 @@
             "base": 22,
             "max": 34
         },
-        "name": "Genesis Gauntlets Mai(LV1+)",
+        "name": "曙丸・皇【笼手】(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7709,7 +7709,7 @@
             "base": 29,
             "max": 43
         },
-        "name": "Genesis Gauntlets Ha(LV1+)",
+        "name": "曙丸・霸【笼手】(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7732,7 +7732,7 @@
             "base": 36,
             "max": 43
         },
-        "name": "Genesis Gauntlets Ha(LV3+)",
+        "name": "曙丸・霸【笼手】(LV3+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7755,7 +7755,7 @@
             "base": 38,
             "max": 56
         },
-        "name": "Dragonclaw(LV1+)",
+        "name": "邪龍之爪(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7778,7 +7778,7 @@
             "base": 51,
             "max": 56
         },
-        "name": "Dragonclaw(LV4+)",
+        "name": "邪龍之爪(LV4+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7801,7 +7801,7 @@
             "base": 48,
             "max": 70
         },
-        "name": "Fatalis Crimsonclaw(LV1+)",
+        "name": "魔龍之爪(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7823,7 +7823,7 @@
             "base": 48,
             "max": 93
         },
-        "name": "Dragoncrow S(LV1+)",
+        "name": "邪龍Ｓ之爪(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7846,7 +7846,7 @@
             "base": 93,
             "max": 93
         },
-        "name": "Dragoncrow S(LV5+)",
+        "name": "邪龍Ｓ之爪(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7869,7 +7869,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Dragonfist(LV1+)",
+        "name": "邪龍之拳(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7893,7 +7893,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Fatalis Crimsonfist(LV1+)",
+        "name": "魔龍之拳(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7916,7 +7916,7 @@
             "base": 29,
             "max": 48
         },
-        "name": "Dragonfist S(LV1+)",
+        "name": "邪龍Ｓ之拳(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7939,7 +7939,7 @@
             "base": 50,
             "max": 82
         },
-        "name": "Golden Moon Vambraces(LV1+)",
+        "name": "金月臂甲(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7962,7 +7962,7 @@
             "base": 67,
             "max": 82
         },
-        "name": "Golden Moon Vambraces(LV3+)",
+        "name": "金月臂甲(LV3+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7985,7 +7985,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Golden Moon Guards(LV1+)",
+        "name": "金月护臂(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -8008,7 +8008,7 @@
             "base": 33,
             "max": 39
         },
-        "name": "Golden Moon Guards(LV3+)",
+        "name": "金月护臂(LV3+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -8031,7 +8031,7 @@
             "base": 53,
             "max": 85
         },
-        "name": "Silver Sol Vambraces(LV1+)",
+        "name": "银日臂甲(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8055,7 +8055,7 @@
             "base": 77,
             "max": 85
         },
-        "name": "Silver Sol Vambraces(LV4+)",
+        "name": "银日臂甲(LV4+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8079,7 +8079,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Silver Sol Guards(LV1+)",
+        "name": "银日护臂(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -8102,7 +8102,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Silver Sol Guards(LV5+)",
+        "name": "银日护臂(LV5+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -8125,7 +8125,7 @@
             "base": 16,
             "max": 32
         },
-        "name": "Hermitaur Vambraces(LV1+)",
+        "name": "盾蟹臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8148,7 +8148,7 @@
             "base": 26,
             "max": 32
         },
-        "name": "Hermitaur Vambraces(LV3+)",
+        "name": "盾蟹臂甲(LV3+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8171,7 +8171,7 @@
             "base": 28,
             "max": 47
         },
-        "name": "Hermitaur Vambraces U(LV1+)",
+        "name": "盾蟹Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8195,7 +8195,7 @@
             "base": 30,
             "max": 47
         },
-        "name": "Hermitaur Vambraces U(LV2+)",
+        "name": "盾蟹Ｕ臂甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8219,7 +8219,7 @@
             "base": 42,
             "max": 47
         },
-        "name": "Hermitaur Vambraces U(LV4+)",
+        "name": "盾蟹Ｕ臂甲(LV4+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8243,7 +8243,7 @@
             "base": 31,
             "max": 68
         },
-        "name": "Hermitaur Vambraces S(LV1+)",
+        "name": "盾蟹Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8267,7 +8267,7 @@
             "base": 68,
             "max": 68
         },
-        "name": "Hermitaur Vambraces S(LV5+)",
+        "name": "盾蟹Ｓ臂甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8291,7 +8291,7 @@
             "base": 10,
             "max": 18
         },
-        "name": "Hermitaur Guards(LV1+)",
+        "name": "盾蟹护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8314,7 +8314,7 @@
             "base": 14,
             "max": 18
         },
-        "name": "Hermitaur Guards(LV3+)",
+        "name": "盾蟹护臂(LV3+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8337,7 +8337,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Hermitaur Guard U(LV1+)",
+        "name": "盾蟹Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8362,7 +8362,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Hermitaur Guard U(LV5+)",
+        "name": "盾蟹Ｕ护臂(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8387,7 +8387,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Hermitaur Guards S(LV1+)",
+        "name": "盾蟹Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8410,7 +8410,7 @@
             "base": 30,
             "max": 37
         },
-        "name": "Hermitaur Guards S(LV3+)",
+        "name": "盾蟹Ｓ护臂(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8433,7 +8433,7 @@
             "base": 17,
             "max": 35
         },
-        "name": "Conga Vambraces(LV1+)",
+        "name": "桃毛臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8456,7 +8456,7 @@
             "base": 21,
             "max": 35
         },
-        "name": "Conga Vambraces(LV2+)",
+        "name": "桃毛臂甲(LV2+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8479,7 +8479,7 @@
             "base": 33,
             "max": 35
         },
-        "name": "Conga Vambraces(LV4+)",
+        "name": "桃毛臂甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8502,7 +8502,7 @@
             "base": 32,
             "max": 48
         },
-        "name": "Conga Vambraces U(LV1+)",
+        "name": "桃毛Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8525,7 +8525,7 @@
             "base": 40,
             "max": 48
         },
-        "name": "Conga Vambraces U(LV3+)",
+        "name": "桃毛Ｕ臂甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8548,7 +8548,7 @@
             "base": 48,
             "max": 48
         },
-        "name": "Conga Vambraces U(LV5+)",
+        "name": "桃毛Ｕ臂甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8571,7 +8571,7 @@
             "base": 35,
             "max": 68
         },
-        "name": "Conga Vambraces S(LV1+)",
+        "name": "桃毛Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8596,7 +8596,7 @@
             "base": 11,
             "max": 19
         },
-        "name": "Conga Guards(LV1+)",
+        "name": "桃毛护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8619,7 +8619,7 @@
             "base": 12,
             "max": 19
         },
-        "name": "Conga Guards(LV2+)",
+        "name": "桃毛护臂(LV2+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8642,7 +8642,7 @@
             "base": 17,
             "max": 19
         },
-        "name": "Conga Guards(LV4+)",
+        "name": "桃毛护臂(LV4+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8665,7 +8665,7 @@
             "base": 18,
             "max": 28
         },
-        "name": "Conga Guards U(LV1+)",
+        "name": "桃毛Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8688,7 +8688,7 @@
             "base": 20,
             "max": 28
         },
-        "name": "Conga Guards U(LV3+)",
+        "name": "桃毛Ｕ护臂(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8711,7 +8711,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Conga Guards U(LV5+)",
+        "name": "桃毛Ｕ护臂(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8734,7 +8734,7 @@
             "base": 22,
             "max": 37
         },
-        "name": "Conga Guards S(LV1+)",
+        "name": "桃毛Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8759,7 +8759,7 @@
             "base": 21,
             "max": 42
         },
-        "name": "Blango Vambraces(LV1+)",
+        "name": "雪狮臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -8782,7 +8782,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Blango Vambraces(LV3+)",
+        "name": "雪狮臂甲(LV3+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -8805,7 +8805,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Blango Vambraces(LV5+)",
+        "name": "雪狮臂甲(LV5+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -8828,7 +8828,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Blango Vambraces U(LV1+)",
+        "name": "雪狮Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -8852,7 +8852,7 @@
             "base": 43,
             "max": 51
         },
-        "name": "Blango Vambraces U(LV3+)",
+        "name": "雪狮Ｕ臂甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -8876,7 +8876,7 @@
             "base": 37,
             "max": 72
         },
-        "name": "Blango Vambraces S(LV1+)",
+        "name": "雪狮Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -8899,7 +8899,7 @@
             "base": 68,
             "max": 72
         },
-        "name": "Blango Vambraces S(LV4+)",
+        "name": "雪狮Ｓ臂甲(LV4+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -8922,7 +8922,7 @@
             "base": 12,
             "max": 21
         },
-        "name": "Blango Guards(LV1+)",
+        "name": "雪狮护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8945,7 +8945,7 @@
             "base": 17,
             "max": 21
         },
-        "name": "Blango Guards(LV3+)",
+        "name": "雪狮护臂(LV3+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8968,7 +8968,7 @@
             "base": 21,
             "max": 21
         },
-        "name": "Blango Guards(LV5+)",
+        "name": "雪狮护臂(LV5+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8991,7 +8991,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Blango Guard U(LV1+)",
+        "name": "雪狮Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -9015,7 +9015,7 @@
             "base": 24,
             "max": 29
         },
-        "name": "Blango Guard U(LV3+)",
+        "name": "雪狮Ｕ护臂(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -9039,7 +9039,7 @@
             "base": 26,
             "max": 38
         },
-        "name": "Blango Guards S(LV1+)",
+        "name": "雪狮Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -9063,7 +9063,7 @@
             "base": 35,
             "max": 38
         },
-        "name": "Blango Guards S(LV4+)",
+        "name": "雪狮Ｓ护臂(LV4+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -9087,7 +9087,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Ceanataur Vambraces(LV1+)",
+        "name": "镰蟹臂甲(LV1+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -9110,7 +9110,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Ceanataur Vambraces(LV3+)",
+        "name": "镰蟹臂甲(LV3+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -9133,7 +9133,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Ceanataur Vambraces(LV5+)",
+        "name": "镰蟹臂甲(LV5+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -9156,7 +9156,7 @@
             "base": 36,
             "max": 52
         },
-        "name": "Ceanataur Vambraces U(LV1+)",
+        "name": "镰蟹Ｕ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -9180,7 +9180,7 @@
             "base": 44,
             "max": 52
         },
-        "name": "Ceanataur Vambraces U(LV3+)",
+        "name": "镰蟹Ｕ臂甲(LV3+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -9204,7 +9204,7 @@
             "base": 38,
             "max": 73
         },
-        "name": "Ceanataur Vambraces S(LV1+)",
+        "name": "镰蟹Ｓ臂甲(LV1+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -9227,7 +9227,7 @@
             "base": 14,
             "max": 22
         },
-        "name": "Ceanataur Guards(LV1+)",
+        "name": "镰蟹护臂(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -9252,7 +9252,7 @@
             "base": 20,
             "max": 22
         },
-        "name": "Ceanataur Guards(LV3+)",
+        "name": "镰蟹护臂(LV3+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -9277,7 +9277,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Ceanataur Guards U(LV1+)",
+        "name": "镰蟹Ｕ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9300,7 +9300,7 @@
             "base": 27,
             "max": 30
         },
-        "name": "Ceanataur Guards U(LV4+)",
+        "name": "镰蟹Ｕ护臂(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9323,7 +9323,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Ceanataur Guards S(LV1+)",
+        "name": "镰蟹Ｓ护臂(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9347,7 +9347,7 @@
             "base": 34,
             "max": 50
         },
-        "name": "Kirin Vambraces(LV1+)",
+        "name": "麒麟臂甲(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9371,7 +9371,7 @@
             "base": 46,
             "max": 50
         },
-        "name": "Kirin Vambraces(LV4+)",
+        "name": "麒麟臂甲(LV4+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9395,7 +9395,7 @@
             "base": 50,
             "max": 50
         },
-        "name": "Kirin Vambraces(LV5+)",
+        "name": "麒麟臂甲(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9419,7 +9419,7 @@
             "base": 43,
             "max": 84
         },
-        "name": "Kirin VambracesS(LV1+)",
+        "name": "麒麟Ｓ臂甲(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9442,7 +9442,7 @@
             "base": 46,
             "max": 84
         },
-        "name": "Kirin VambracesS(LV2+)",
+        "name": "麒麟Ｓ臂甲(LV2+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9465,7 +9465,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Kirin Guards(LV1+)",
+        "name": "麒麟手套(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -9489,7 +9489,7 @@
             "base": 25,
             "max": 28
         },
-        "name": "Kirin Guards(LV4+)",
+        "name": "麒麟手套(LV4+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -9513,7 +9513,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Kirin Guards(LV5+)",
+        "name": "麒麟手套(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -9537,7 +9537,7 @@
             "base": 26,
             "max": 43
         },
-        "name": "Kirin Guards S(LV1+)",
+        "name": "麒麟Ｓ手套(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -9560,7 +9560,7 @@
             "base": 28,
             "max": 43
         },
-        "name": "Kirin Guards S(LV2+)",
+        "name": "麒麟Ｓ手套(LV2+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -9583,7 +9583,7 @@
             "base": 39,
             "max": 83
         },
-        "name": "Kushala Grip(LV1+)",
+        "name": "乞沙拏臂甲(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9607,7 +9607,7 @@
             "base": 83,
             "max": 83
         },
-        "name": "Kushala Grip(LV5+)",
+        "name": "乞沙拏臂甲(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9631,7 +9631,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Kushala Embrace(LV1+)",
+        "name": "乞沙拏护臂(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -9655,7 +9655,7 @@
             "base": 41,
             "max": 41
         },
-        "name": "Kushala Embrace(LV5+)",
+        "name": "乞沙拏护臂(LV5+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -9679,7 +9679,7 @@
             "base": 40,
             "max": 77
         },
-        "name": "Mizuha Sleeve(LV1+)",
+        "name": "弥都波【大袖】(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -9703,7 +9703,7 @@
             "base": 63,
             "max": 77
         },
-        "name": "Mizuha Sleeve(LV3+)",
+        "name": "弥都波【大袖】(LV3+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -9727,7 +9727,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Extravagant Sleeve(LV1+)",
+        "name": "丰玉【大袖】(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -9751,7 +9751,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Extravagant Sleeve(LV3+)",
+        "name": "丰玉【大袖】(LV3+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -9775,7 +9775,7 @@
             "base": 43,
             "max": 83
         },
-        "name": "Empress Vambraces(LV1+)",
+        "name": "女帝臂甲(LV1+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -9799,7 +9799,7 @@
             "base": 83,
             "max": 83
         },
-        "name": "Empress Vambraces(LV5+)",
+        "name": "女帝臂甲(LV5+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -9823,7 +9823,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Empress Guards(LV1+)",
+        "name": "女帝护臂(LV1+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -9847,7 +9847,7 @@
             "base": 46,
             "max": 46
         },
-        "name": "Empress Guards(LV5+)",
+        "name": "女帝护臂(LV5+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -9871,7 +9871,7 @@
             "base": 42,
             "max": 89
         },
-        "name": "Indra Vambraces(LV1+)",
+        "name": "金刚【笼手】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -9895,7 +9895,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Steadfast Guards(LV1+)",
+        "name": "不动【笼手】(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9919,7 +9919,7 @@
             "base": 43,
             "max": 90
         },
-        "name": "Kaiser Vambraces(LV1+)",
+        "name": "凯撒臂甲(LV1+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -9942,7 +9942,7 @@
             "base": 69,
             "max": 90
         },
-        "name": "Kaiser Vambraces(LV4+)",
+        "name": "凯撒臂甲(LV4+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -9965,7 +9965,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Kaiser Guards(LV1+)",
+        "name": "凯撒护臂(LV1+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -9989,7 +9989,7 @@
             "base": 41,
             "max": 46
         },
-        "name": "Kaiser Guards(LV4+)",
+        "name": "凯撒护臂(LV4+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -10013,7 +10013,7 @@
             "base": 44,
             "max": 93
         },
-        "name": "Guardian Spirit Vambraces(LV1+)",
+        "name": "夜叉【御手】(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -10037,7 +10037,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Carnage Guards(LV1+)",
+        "name": "修罗【御手】(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -10061,7 +10061,7 @@
             "base": 51,
             "max": 75
         },
-        "name": "Golden Gauntlet(LV1+)",
+        "name": "金色之笼手(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -10084,7 +10084,7 @@
             "base": 63,
             "max": 75
         },
-        "name": "Golden Gauntlet(LV3+)",
+        "name": "金色之笼手(LV3+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -10107,7 +10107,7 @@
             "base": 26,
             "max": 38
         },
-        "name": "Puppet Master Gauntlets(LV1+)",
+        "name": "黑子之笼手(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -10130,7 +10130,7 @@
             "base": 32,
             "max": 38
         },
-        "name": "Puppet Master Gauntlets(LV3+)",
+        "name": "黑子之笼手(LV3+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -10153,7 +10153,7 @@
             "base": 59,
             "max": 95
         },
-        "name": "White Dragonclaw(LV1+)",
+        "name": "祖龍之爪(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -10177,7 +10177,7 @@
             "base": 32,
             "max": 48
         },
-        "name": "White Dragonfist(LV1+)",
+        "name": "祖龍之拳(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -10201,7 +10201,7 @@
             "base": 13,
             "max": 25
         },
-        "name": "White Velociprey Claws(LV1+)",
+        "name": "白速龙之爪(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10224,7 +10224,7 @@
             "base": 17,
             "max": 25
         },
-        "name": "White Velociprey Claws(LV3+)",
+        "name": "白速龙之爪(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10247,7 +10247,7 @@
             "base": 21,
             "max": 25
         },
-        "name": "White Velociprey Claws(LV5+)",
+        "name": "白速龙之爪(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10270,7 +10270,7 @@
             "base": 13,
             "max": 34
         },
-        "name": "Remobra Claws(LV1+)",
+        "name": "蛇龙之爪(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10294,7 +10294,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Guild Knight Gloves(LV1+)",
+        "name": "公会骑士手套(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10317,7 +10317,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Guild Knight Sleeves(LV1+)",
+        "name": "公会骑士袖扣(LV1+)",
         "rarity": 5,
         "resistance": [
             0,

@@ -5,7 +5,7 @@
             "base": 2,
             "max": 16
         },
-        "name": "Leather Belt(LV1+)",
+        "name": "轻革腰带(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -27,7 +27,7 @@
             "base": 4,
             "max": 16
         },
-        "name": "Leather Belt(LV3+)",
+        "name": "轻革腰带(LV3+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -49,7 +49,7 @@
             "base": 7,
             "max": 21
         },
-        "name": "Leather Belt U(LV1+)",
+        "name": "轻革Ｕ腰带(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -72,7 +72,7 @@
             "base": 8,
             "max": 21
         },
-        "name": "Leather Belt U(LV2+)",
+        "name": "轻革Ｕ腰带(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -95,7 +95,7 @@
             "base": 14,
             "max": 21
         },
-        "name": "Leather Belt U(LV4+)",
+        "name": "轻革Ｕ腰带(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -118,7 +118,7 @@
             "base": 11,
             "max": 35
         },
-        "name": "Leather Belt S(LV1+)",
+        "name": "轻革Ｓ腰带(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -142,7 +142,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Leather Belt S(LV4+)",
+        "name": "轻革Ｓ腰带(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -166,7 +166,7 @@
             "base": 2,
             "max": 16
         },
-        "name": "Skin Belt(LV1+)",
+        "name": "轻皮腰带(LV1+)",
         "rarity": 1,
         "resistance": [
             -2,
@@ -188,7 +188,7 @@
             "base": 4,
             "max": 14
         },
-        "name": "Chain Belt(LV1+)",
+        "name": "轻链腰带(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -211,7 +211,7 @@
             "base": 6,
             "max": 14
         },
-        "name": "Chain Belt(LV3+)",
+        "name": "轻链腰带(LV3+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -234,7 +234,7 @@
             "base": 14,
             "max": 14
         },
-        "name": "Chain Belt(LV5+)",
+        "name": "轻链腰带(LV5+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -257,7 +257,7 @@
             "base": 8,
             "max": 23
         },
-        "name": "Chain Belt U(LV1+)",
+        "name": "锁链Ｕ腰带(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -280,7 +280,7 @@
             "base": 15,
             "max": 23
         },
-        "name": "Chain Belt U(LV4+)",
+        "name": "锁链Ｕ腰带(LV4+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -303,7 +303,7 @@
             "base": 23,
             "max": 23
         },
-        "name": "Chain Belt U(LV5+)",
+        "name": "锁链Ｕ腰带(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -326,7 +326,7 @@
             "base": 12,
             "max": 36
         },
-        "name": "Chain Belt S(LV1+)",
+        "name": "轻链Ｓ腰带(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -349,7 +349,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Chain Belt S(LV5+)",
+        "name": "轻链Ｓ腰带(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -372,7 +372,7 @@
             "base": 4,
             "max": 28
         },
-        "name": "Iron Belt(LV1+)",
+        "name": "铁制腰带(LV1+)",
         "rarity": 1,
         "resistance": [
             4,
@@ -395,7 +395,7 @@
             "base": 4,
             "max": 24
         },
-        "name": "Hunter's Tasset(LV1+)",
+        "name": "猎人腰甲(LV1+)",
         "rarity": 1,
         "resistance": [
             0,
@@ -417,7 +417,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Hunter's Tasset(LV4+)",
+        "name": "猎人腰甲(LV4+)",
         "rarity": 1,
         "resistance": [
             0,
@@ -439,7 +439,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Hunter's Tasset U(LV1+)",
+        "name": "猎人Ｕ腰甲(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -462,7 +462,7 @@
             "base": 24,
             "max": 39
         },
-        "name": "Hunter's Tasset U(LV2+)",
+        "name": "猎人Ｕ腰甲(LV2+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -485,7 +485,7 @@
             "base": 32,
             "max": 39
         },
-        "name": "Hunter's Tasset U(LV3+)",
+        "name": "猎人Ｕ腰甲(LV3+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -508,7 +508,7 @@
             "base": 24,
             "max": 51
         },
-        "name": "Hunter's Tasset S(LV1+)",
+        "name": "猎人Ｓ腰甲(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -532,7 +532,7 @@
             "base": 51,
             "max": 51
         },
-        "name": "Hunter's Tasset S(LV5+)",
+        "name": "猎人Ｓ腰甲(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -556,7 +556,7 @@
             "base": 2,
             "max": 16
         },
-        "name": "Hunter's Coat(LV1+)",
+        "name": "猎人围腰(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -579,7 +579,7 @@
             "base": 8,
             "max": 16
         },
-        "name": "Hunter's Coat(LV4+)",
+        "name": "猎人围腰(LV4+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -602,7 +602,7 @@
             "base": 11,
             "max": 24
         },
-        "name": "Hunter's Coat U(LV1+)",
+        "name": "猎人Ｕ围腰(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -625,7 +625,7 @@
             "base": 14,
             "max": 24
         },
-        "name": "Hunter's Coat U(LV2+)",
+        "name": "猎人Ｕ围腰(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -648,7 +648,7 @@
             "base": 13,
             "max": 39
         },
-        "name": "Hunter's Coat S(LV1+)",
+        "name": "猎人Ｓ围腰(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -672,7 +672,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Hunter's Coat S(LV5+)",
+        "name": "猎人Ｓ围腰(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -696,7 +696,7 @@
             "base": 9,
             "max": 26
         },
-        "name": "Bone Tasset(LV1+)",
+        "name": "骸骨腰甲(LV1+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -718,7 +718,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Bone Tasset(LV3+)",
+        "name": "骸骨腰甲(LV3+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -740,7 +740,7 @@
             "base": 26,
             "max": 26
         },
-        "name": "Bone Tasset(LV5+)",
+        "name": "骸骨腰甲(LV5+)",
         "rarity": 1,
         "resistance": [
             2,
@@ -762,7 +762,7 @@
             "base": 21,
             "max": 42
         },
-        "name": "Bone Tasset U(LV1+)",
+        "name": "骸骨Ｕ腰甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -785,7 +785,7 @@
             "base": 26,
             "max": 42
         },
-        "name": "Bone Tasset U(LV2+)",
+        "name": "骸骨Ｕ腰甲(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -808,7 +808,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Bone Tasset U(LV3+)",
+        "name": "骸骨Ｕ腰甲(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -831,7 +831,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Bone Tasset U(LV5+)",
+        "name": "骸骨Ｕ腰甲(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -854,7 +854,7 @@
             "base": 25,
             "max": 54
         },
-        "name": "Bone Tasset S(LV1+)",
+        "name": "骸骨Ｓ腰甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -878,7 +878,7 @@
             "base": 28,
             "max": 54
         },
-        "name": "Bone Tasset S(LV2+)",
+        "name": "骸骨Ｓ腰甲(LV2+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -902,7 +902,7 @@
             "base": 31,
             "max": 54
         },
-        "name": "Bone Tasset S(LV3+)",
+        "name": "骸骨Ｓ腰甲(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -926,7 +926,7 @@
             "base": 4,
             "max": 14
         },
-        "name": "Bone Coat(LV1+)",
+        "name": "骸骨围腰(LV1+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -948,7 +948,7 @@
             "base": 6,
             "max": 14
         },
-        "name": "Bone Coat(LV3+)",
+        "name": "骸骨围腰(LV3+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -970,7 +970,7 @@
             "base": 14,
             "max": 14
         },
-        "name": "Bone Coat(LV5+)",
+        "name": "骸骨围腰(LV5+)",
         "rarity": 1,
         "resistance": [
             5,
@@ -992,7 +992,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Bone Coat U(LV1+)",
+        "name": "骸骨Ｕ围腰(LV1+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -1015,7 +1015,7 @@
             "base": 14,
             "max": 26
         },
-        "name": "Bone Coat U(LV2+)",
+        "name": "骸骨Ｕ围腰(LV2+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -1038,7 +1038,7 @@
             "base": 17,
             "max": 26
         },
-        "name": "Bone Coat U(LV3+)",
+        "name": "骸骨Ｕ围腰(LV3+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -1061,7 +1061,7 @@
             "base": 26,
             "max": 26
         },
-        "name": "Bone Coat U(LV5+)",
+        "name": "骸骨Ｕ围腰(LV5+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -1084,7 +1084,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Bone Coat S(LV1+)",
+        "name": "骸骨Ｓ围腰(LV1+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -1108,7 +1108,7 @@
             "base": 21,
             "max": 39
         },
-        "name": "Bone Coat S(LV2+)",
+        "name": "骸骨Ｓ围腰(LV2+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -1132,7 +1132,7 @@
             "base": 26,
             "max": 39
         },
-        "name": "Bone Coat S(LV3+)",
+        "name": "骸骨Ｓ围腰(LV3+)",
         "rarity": 4,
         "resistance": [
             5,
@@ -1156,7 +1156,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Velociprey Tasset(LV1+)",
+        "name": "蓝速龙腰甲(LV1+)",
         "rarity": 2,
         "resistance": [
             1,
@@ -1179,7 +1179,7 @@
             "base": 17,
             "max": 23
         },
-        "name": "Velociprey Tasset(LV4+)",
+        "name": "蓝速龙腰甲(LV4+)",
         "rarity": 2,
         "resistance": [
             1,
@@ -1202,7 +1202,7 @@
             "base": 22,
             "max": 45
         },
-        "name": "Velociprey Tasset U(LV1+)",
+        "name": "蓝速龙Ｕ腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1226,7 +1226,7 @@
             "base": 42,
             "max": 45
         },
-        "name": "Velociprey Tasset U(LV4+)",
+        "name": "蓝速龙Ｕ腰甲(LV4+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1250,7 +1250,7 @@
             "base": 26,
             "max": 57
         },
-        "name": "Velociprey Tasset S(LV1+)",
+        "name": "蓝速龙Ｓ腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1274,7 +1274,7 @@
             "base": 57,
             "max": 57
         },
-        "name": "Velociprey Tasset S(LV5+)",
+        "name": "蓝速龙Ｓ腰甲(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -1298,7 +1298,7 @@
             "base": 5,
             "max": 13
         },
-        "name": "Velociprey Coat(LV1+)",
+        "name": "蓝速龙围腰(LV1+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -1321,7 +1321,7 @@
             "base": 10,
             "max": 13
         },
-        "name": "Velociprey Coat(LV4+)",
+        "name": "蓝速龙围腰(LV4+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -1344,7 +1344,7 @@
             "base": 11,
             "max": 26
         },
-        "name": "Velociprey Coat U(LV1+)",
+        "name": "蓝速龙Ｕ围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1368,7 +1368,7 @@
             "base": 17,
             "max": 26
         },
-        "name": "Velociprey Coat U(LV3+)",
+        "name": "蓝速龙Ｕ围腰(LV3+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1392,7 +1392,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Velociprey Coat S(LV1+)",
+        "name": "蓝速龙Ｓ围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1416,7 +1416,7 @@
             "base": 38,
             "max": 38
         },
-        "name": "Velociprey Coat S(LV5+)",
+        "name": "蓝速龙Ｓ围腰(LV5+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -1440,7 +1440,7 @@
             "base": 10,
             "max": 23
         },
-        "name": "Battle Tasset(LV1+)",
+        "name": "战斗腰甲(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1463,7 +1463,7 @@
             "base": 13,
             "max": 23
         },
-        "name": "Battle Tasset(LV3+)",
+        "name": "战斗腰甲(LV3+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1486,7 +1486,7 @@
             "base": 22,
             "max": 45
         },
-        "name": "Battle Tasset U(LV1+)",
+        "name": "战斗Ｕ腰甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1511,7 +1511,7 @@
             "base": 36,
             "max": 45
         },
-        "name": "Battle Tasset U(LV3+)",
+        "name": "战斗Ｕ腰甲(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1536,7 +1536,7 @@
             "base": 45,
             "max": 45
         },
-        "name": "Battle Tasset U(LV5+)",
+        "name": "战斗Ｕ腰甲(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1561,7 +1561,7 @@
             "base": 26,
             "max": 57
         },
-        "name": "Battle Tasset S(LV1+)",
+        "name": "战斗Ｓ腰甲(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1586,7 +1586,7 @@
             "base": 39,
             "max": 57
         },
-        "name": "Battle Tasset S(LV3+)",
+        "name": "战斗Ｓ腰甲(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -1611,7 +1611,7 @@
             "base": 6,
             "max": 13
         },
-        "name": "Battle Coat(LV1+)",
+        "name": "战斗围腰(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -1635,7 +1635,7 @@
             "base": 8,
             "max": 13
         },
-        "name": "Battle Coat(LV3+)",
+        "name": "战斗围腰(LV3+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -1659,7 +1659,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Battle Coat U(LV1+)",
+        "name": "战斗Ｕ围腰(LV1+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1684,7 +1684,7 @@
             "base": 25,
             "max": 25
         },
-        "name": "Battle Coat U(LV5+)",
+        "name": "战斗Ｕ围腰(LV5+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1709,7 +1709,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Battle Coat S(LV1+)",
+        "name": "战斗Ｓ围腰(LV1+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1734,7 +1734,7 @@
             "base": 30,
             "max": 37
         },
-        "name": "Battle Coat S(LV3+)",
+        "name": "战斗Ｓ围腰(LV3+)",
         "rarity": 4,
         "resistance": [
             4,
@@ -1759,7 +1759,7 @@
             "base": 11,
             "max": 30
         },
-        "name": "Hide Belt(LV1+)",
+        "name": "韧皮腰带(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1783,7 +1783,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Hide Belt(LV4+)",
+        "name": "韧皮腰带(LV4+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -1807,7 +1807,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Vespoid Tasset(LV1+)",
+        "name": "巨蜂腰甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1831,7 +1831,7 @@
             "base": 23,
             "max": 25
         },
-        "name": "Vespoid Tasset(LV4+)",
+        "name": "巨蜂腰甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -1855,7 +1855,7 @@
             "base": 23,
             "max": 46
         },
-        "name": "Vespoid Tasset U(LV1+)",
+        "name": "巨蜂Ｕ腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1880,7 +1880,7 @@
             "base": 27,
             "max": 58
         },
-        "name": "Vespoid Tasset S(LV1+)",
+        "name": "巨蜂Ｓ腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -1905,7 +1905,7 @@
             "base": 7,
             "max": 13
         },
-        "name": "Vespoid Coat(LV1+)",
+        "name": "巨蜂围腰(LV1+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1929,7 +1929,7 @@
             "base": 11,
             "max": 13
         },
-        "name": "Vespoid Coat(LV4+)",
+        "name": "巨蜂围腰(LV4+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -1953,7 +1953,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Vespoid Coat U(LV1+)",
+        "name": "巨蜂Ｕ围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -1978,7 +1978,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Vespoid Coat S(LV1+)",
+        "name": "巨蜂Ｓ围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2003,7 +2003,7 @@
             "base": 14,
             "max": 29
         },
-        "name": "Hornet Tasset(LV1+)",
+        "name": "爬虫腰甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -2027,7 +2027,7 @@
             "base": 27,
             "max": 29
         },
-        "name": "Hornet Tasset(LV4+)",
+        "name": "爬虫腰甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -6,
@@ -2051,7 +2051,7 @@
             "base": 24,
             "max": 47
         },
-        "name": "Hornet Tasset U(LV1+)",
+        "name": "爬虫Ｕ腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -2075,7 +2075,7 @@
             "base": 38,
             "max": 47
         },
-        "name": "Hornet Tasset U(LV3+)",
+        "name": "爬虫Ｕ腰甲(LV3+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -2099,7 +2099,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Hornet Tasset S(LV1+)",
+        "name": "爬虫Ｓ腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -2123,7 +2123,7 @@
             "base": 60,
             "max": 60
         },
-        "name": "Hornet Tasset S(LV5+)",
+        "name": "爬虫Ｓ腰甲(LV5+)",
         "rarity": 5,
         "resistance": [
             -6,
@@ -2147,7 +2147,7 @@
             "base": 8,
             "max": 16
         },
-        "name": "Hornet Coat(LV1+)",
+        "name": "爬虫围腰(LV1+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -2171,7 +2171,7 @@
             "base": 14,
             "max": 16
         },
-        "name": "Hornet Coat(LV4+)",
+        "name": "爬虫围腰(LV4+)",
         "rarity": 2,
         "resistance": [
             -5,
@@ -2195,7 +2195,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Hornet Coat U(LV1+)",
+        "name": "爬虫Ｕ围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2219,7 +2219,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Hornet Coat U(LV3+)",
+        "name": "爬虫Ｕ围腰(LV3+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2243,7 +2243,7 @@
             "base": 18,
             "max": 38
         },
-        "name": "Hornet Coat S(LV1+)",
+        "name": "爬虫Ｓ围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2267,7 +2267,7 @@
             "base": 38,
             "max": 38
         },
-        "name": "Hornet Coat S(LV5+)",
+        "name": "爬虫Ｓ围腰(LV5+)",
         "rarity": 5,
         "resistance": [
             -5,
@@ -2291,7 +2291,7 @@
             "base": 12,
             "max": 27
         },
-        "name": "Hi-Metal Tasset(LV1+)",
+        "name": "精炼矿石腰甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -2,
@@ -2315,7 +2315,7 @@
             "base": 22,
             "max": 27
         },
-        "name": "Hi-Metal Tasset(LV4+)",
+        "name": "精炼矿石腰甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -2,
@@ -2339,7 +2339,7 @@
             "base": 24,
             "max": 47
         },
-        "name": "Hi-Metal Tasset U(LV1+)",
+        "name": "精炼矿石Ｕ腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2364,7 +2364,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Hi-Metal Tasset S(LV1+)",
+        "name": "精炼矿石Ｓ腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2387,7 +2387,7 @@
             "base": 41,
             "max": 60
         },
-        "name": "Hi-Metal Tasset S(LV3+)",
+        "name": "精炼矿石Ｓ腰甲(LV3+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2410,7 +2410,7 @@
             "base": 60,
             "max": 60
         },
-        "name": "Hi-Metal Tasset S(LV5+)",
+        "name": "精炼矿石Ｓ腰甲(LV5+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -2433,7 +2433,7 @@
             "base": 7,
             "max": 13
         },
-        "name": "Hi-Metal Coat(LV1+)",
+        "name": "精炼矿石围腰(LV1+)",
         "rarity": 2,
         "resistance": [
             0,
@@ -2457,7 +2457,7 @@
             "base": 11,
             "max": 13
         },
-        "name": "Hi-Metal Coat(LV4+)",
+        "name": "精炼矿石围腰(LV4+)",
         "rarity": 2,
         "resistance": [
             0,
@@ -2481,7 +2481,7 @@
             "base": 14,
             "max": 24
         },
-        "name": "Hi-Metal Coat U(LV1+)",
+        "name": "精炼矿石Ｕ围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2506,7 +2506,7 @@
             "base": 17,
             "max": 39
         },
-        "name": "Hi-Metal Coat S(LV1+)",
+        "name": "精炼矿石Ｓ围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2529,7 +2529,7 @@
             "base": 21,
             "max": 39
         },
-        "name": "Hi-Metal Coat S(LV2+)",
+        "name": "精炼矿石Ｓ围腰(LV2+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2552,7 +2552,7 @@
             "base": 26,
             "max": 39
         },
-        "name": "Hi-Metal Coat S(LV3+)",
+        "name": "精炼矿石Ｓ围腰(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -2575,7 +2575,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Genprey Tasset(LV1+)",
+        "name": "黄速龙腰甲(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -2598,7 +2598,7 @@
             "base": 23,
             "max": 30
         },
-        "name": "Genprey Tasset(LV4+)",
+        "name": "黄速龙腰甲(LV4+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -2621,7 +2621,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Genprey Tasset U(LV1+)",
+        "name": "黄速龙Ｕ腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2644,7 +2644,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Genprey Tasset U(LV3+)",
+        "name": "黄速龙Ｕ腰甲(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2667,7 +2667,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Genprey Tasset U(LV5+)",
+        "name": "黄速龙Ｕ腰甲(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2690,7 +2690,7 @@
             "base": 28,
             "max": 60
         },
-        "name": "Genprey Tasset S(LV1+)",
+        "name": "黄速龙Ｓ腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2713,7 +2713,7 @@
             "base": 41,
             "max": 60
         },
-        "name": "Genprey Tasset S(LV3+)",
+        "name": "黄速龙Ｓ腰甲(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2736,7 +2736,7 @@
             "base": 8,
             "max": 17
         },
-        "name": "Genprey Coat(LV1+)",
+        "name": "黄速龙围腰(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2759,7 +2759,7 @@
             "base": 13,
             "max": 17
         },
-        "name": "Genprey Coat(LV4+)",
+        "name": "黄速龙围腰(LV4+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -2782,7 +2782,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Genprey Coat U(LV1+)",
+        "name": "黄速龙Ｕ围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2805,7 +2805,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Genprey Coat U(LV3+)",
+        "name": "黄速龙Ｕ围腰(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2828,7 +2828,7 @@
             "base": 25,
             "max": 25
         },
-        "name": "Genprey Coat U(LV5+)",
+        "name": "黄速龙Ｕ围腰(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2851,7 +2851,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Genprey Coat S(LV1+)",
+        "name": "黄速龙Ｓ围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2874,7 +2874,7 @@
             "base": 27,
             "max": 40
         },
-        "name": "Genprey Coat S(LV3+)",
+        "name": "黄速龙Ｓ围腰(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -2897,7 +2897,7 @@
             "base": 20,
             "max": 36
         },
-        "name": "Chrome Metal Coil(LV1+)",
+        "name": "合金扣带・阳(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2920,7 +2920,7 @@
             "base": 32,
             "max": 36
         },
-        "name": "Chrome Metal Coil(LV5+)",
+        "name": "合金扣带・阳(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2943,7 +2943,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Chrome Metal Coil(LV7+)",
+        "name": "合金扣带・阳(LV7+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -2966,7 +2966,7 @@
             "base": 18,
             "max": 30
         },
-        "name": "Kut-Ku Tasset(LV1+)",
+        "name": "怪鸟腰甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -2988,7 +2988,7 @@
             "base": 24,
             "max": 30
         },
-        "name": "Kut-Ku Tasset(LV3+)",
+        "name": "怪鸟腰甲(LV3+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -3010,7 +3010,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Kut-Ku Tasset(LV5+)",
+        "name": "怪鸟腰甲(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -3032,7 +3032,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Kut-Ku Tasset U(LV1+)",
+        "name": "怪鸟Ｕ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3056,7 +3056,7 @@
             "base": 38,
             "max": 42
         },
-        "name": "Kut-Ku Tasset U(LV4+)",
+        "name": "怪鸟Ｕ腰甲(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3080,7 +3080,7 @@
             "base": 33,
             "max": 64
         },
-        "name": "Kut-Ku Tasset S(LV1+)",
+        "name": "怪鸟Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -3104,7 +3104,7 @@
             "base": 9,
             "max": 15
         },
-        "name": "Kut-Ku Coat(LV1+)",
+        "name": "怪鸟围腰(LV1+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -3127,7 +3127,7 @@
             "base": 13,
             "max": 15
         },
-        "name": "Kut-Ku Coat(LV3+)",
+        "name": "怪鸟围腰(LV3+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -3150,7 +3150,7 @@
             "base": 15,
             "max": 15
         },
-        "name": "Kut-Ku Coat(LV5+)",
+        "name": "怪鸟围腰(LV5+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -3173,7 +3173,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Kut-Ku Coat U(LV1+)",
+        "name": "怪鸟Ｕ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -3197,7 +3197,7 @@
             "base": 22,
             "max": 25
         },
-        "name": "Kut-Ku Coat U(LV4+)",
+        "name": "怪鸟Ｕ围腰(LV4+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -3221,7 +3221,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Kut-Ku Coat S(LV1+)",
+        "name": "怪鸟Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -3245,7 +3245,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Ioprey Tasset(LV1+)",
+        "name": "红速龙腰甲(LV1+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -3268,7 +3268,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Ioprey Tasset(LV5+)",
+        "name": "红速龙腰甲(LV5+)",
         "rarity": 2,
         "resistance": [
             3,
@@ -3291,7 +3291,7 @@
             "base": 25,
             "max": 48
         },
-        "name": "Ioprey Tasset U(LV1+)",
+        "name": "红速龙Ｕ腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3313,7 +3313,7 @@
             "base": 39,
             "max": 48
         },
-        "name": "Ioprey Tasset U(LV3+)",
+        "name": "红速龙Ｕ腰甲(LV3+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3335,7 +3335,7 @@
             "base": 48,
             "max": 48
         },
-        "name": "Ioprey Tasset U(LV5+)",
+        "name": "红速龙Ｕ腰甲(LV5+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3357,7 +3357,7 @@
             "base": 29,
             "max": 62
         },
-        "name": "Ioprey Tasset S(LV1+)",
+        "name": "红速龙Ｓ腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3380,7 +3380,7 @@
             "base": 42,
             "max": 62
         },
-        "name": "Ioprey Tasset S(LV3+)",
+        "name": "红速龙Ｓ腰甲(LV3+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -3403,7 +3403,7 @@
             "base": 8,
             "max": 18
         },
-        "name": "Ioprey Coat(LV1+)",
+        "name": "红速龙围腰(LV1+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -3427,7 +3427,7 @@
             "base": 18,
             "max": 18
         },
-        "name": "Ioprey Coat(LV5+)",
+        "name": "红速龙围腰(LV5+)",
         "rarity": 2,
         "resistance": [
             4,
@@ -3451,7 +3451,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Ioprey Coat U(LV1+)",
+        "name": "红速龙Ｕ围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3473,7 +3473,7 @@
             "base": 20,
             "max": 25
         },
-        "name": "Ioprey Coat U(LV3+)",
+        "name": "红速龙Ｕ围腰(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3495,7 +3495,7 @@
             "base": 25,
             "max": 25
         },
-        "name": "Ioprey Coat U(LV5+)",
+        "name": "红速龙Ｕ围腰(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3517,7 +3517,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Ioprey Coat S(LV1+)",
+        "name": "红速龙Ｓ围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3540,7 +3540,7 @@
             "base": 27,
             "max": 40
         },
-        "name": "Ioprey Coat S(LV3+)",
+        "name": "红速龙Ｓ围腰(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -3563,7 +3563,7 @@
             "base": 21,
             "max": 33
         },
-        "name": "Gypceros Tasset(LV1+)",
+        "name": "毒怪鸟腰甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -3587,7 +3587,7 @@
             "base": 30,
             "max": 49
         },
-        "name": "Gypceros Tasset U(LV1+)",
+        "name": "毒怪鸟Ｕ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3611,7 +3611,7 @@
             "base": 44,
             "max": 49
         },
-        "name": "Gypceros Tasset U(LV4+)",
+        "name": "毒怪鸟Ｕ腰甲(LV4+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3635,7 +3635,7 @@
             "base": 32,
             "max": 68
         },
-        "name": "Gypceros Tasset S(LV1+)",
+        "name": "毒怪鸟Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3657,7 +3657,7 @@
             "base": 36,
             "max": 68
         },
-        "name": "Gypceros Tasset S(LV2+)",
+        "name": "毒怪鸟Ｓ腰甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -3679,7 +3679,7 @@
             "base": 10,
             "max": 18
         },
-        "name": "Gypceros Coat(LV1+)",
+        "name": "毒怪鸟围腰(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -3703,7 +3703,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Gypceros Coat U(LV1+)",
+        "name": "毒怪鸟Ｕ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3727,7 +3727,7 @@
             "base": 25,
             "max": 28
         },
-        "name": "Gypceros Coat U(LV4+)",
+        "name": "毒怪鸟Ｕ围腰(LV4+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3751,7 +3751,7 @@
             "base": 20,
             "max": 39
         },
-        "name": "Gypceros Coat S(LV1+)",
+        "name": "毒怪鸟Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3773,7 +3773,7 @@
             "base": 24,
             "max": 39
         },
-        "name": "Gypceros Coat S(LV2+)",
+        "name": "毒怪鸟Ｓ围腰(LV2+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -3795,7 +3795,7 @@
             "base": 20,
             "max": 29
         },
-        "name": "Cephalos Tasset(LV1+)",
+        "name": "砂龙腰甲(LV1+)",
         "rarity": 2,
         "resistance": [
             -3,
@@ -3818,7 +3818,7 @@
             "base": 28,
             "max": 29
         },
-        "name": "Cephalos Tasset(LV4+)",
+        "name": "砂龙腰甲(LV4+)",
         "rarity": 2,
         "resistance": [
             -3,
@@ -3841,7 +3841,7 @@
             "base": 28,
             "max": 47
         },
-        "name": "Cephalos Tasset U(LV1+)",
+        "name": "砂龙Ｕ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3864,7 +3864,7 @@
             "base": 47,
             "max": 47
         },
-        "name": "Cephalos Tasset U(LV5+)",
+        "name": "砂龙Ｕ腰甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3887,7 +3887,7 @@
             "base": 29,
             "max": 62
         },
-        "name": "Cephalos Tasset S(LV1+)",
+        "name": "砂龙Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3909,7 +3909,7 @@
             "base": 35,
             "max": 62
         },
-        "name": "Cephalos Tasset S(LV2+)",
+        "name": "砂龙Ｓ腰甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3931,7 +3931,7 @@
             "base": 42,
             "max": 62
         },
-        "name": "Cephalos Tasset S(LV3+)",
+        "name": "砂龙Ｓ腰甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3953,7 +3953,7 @@
             "base": 62,
             "max": 62
         },
-        "name": "Cephalos Tasset S(LV5+)",
+        "name": "砂龙Ｓ腰甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -3975,7 +3975,7 @@
             "base": 10,
             "max": 17
         },
-        "name": "Cephalos Coat(LV1+)",
+        "name": "砂龙围腰(LV1+)",
         "rarity": 2,
         "resistance": [
             -1,
@@ -3999,7 +3999,7 @@
             "base": 15,
             "max": 17
         },
-        "name": "Cephalos Coat(LV4+)",
+        "name": "砂龙围腰(LV4+)",
         "rarity": 2,
         "resistance": [
             -1,
@@ -4023,7 +4023,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Cephalos Coat U(LV1+)",
+        "name": "砂龙Ｕ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4047,7 +4047,7 @@
             "base": 24,
             "max": 24
         },
-        "name": "Cephalos Coat U(LV5+)",
+        "name": "砂龙Ｕ围腰(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4071,7 +4071,7 @@
             "base": 18,
             "max": 40
         },
-        "name": "Cephalos Coat S(LV1+)",
+        "name": "砂龙Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4094,7 +4094,7 @@
             "base": 27,
             "max": 40
         },
-        "name": "Cephalos Coat S(LV3+)",
+        "name": "砂龙Ｓ围腰(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4117,7 +4117,7 @@
             "base": 40,
             "max": 40
         },
-        "name": "Cephalos Coat S(LV5+)",
+        "name": "砂龙Ｓ围腰(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4140,7 +4140,7 @@
             "base": 19,
             "max": 31
         },
-        "name": "Steel Belt(LV1+)",
+        "name": "钢制腰带(LV1+)",
         "rarity": 2,
         "resistance": [
             2,
@@ -4163,7 +4163,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Steel Belt U(LV1+)",
+        "name": "钢制Ｕ腰带(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4184,7 +4184,7 @@
             "base": 31,
             "max": 42
         },
-        "name": "Steel Belt U(LV2+)",
+        "name": "钢制Ｕ腰带(LV2+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4205,7 +4205,7 @@
             "base": 35,
             "max": 42
         },
-        "name": "Steel Belt U(LV3+)",
+        "name": "钢制Ｕ腰带(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4226,7 +4226,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Steel Belt U(LV5+)",
+        "name": "钢制Ｕ腰带(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4247,7 +4247,7 @@
             "base": 30,
             "max": 64
         },
-        "name": "Steel Belt S(LV1+)",
+        "name": "钢制Ｓ腰带(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4269,7 +4269,7 @@
             "base": 49,
             "max": 64
         },
-        "name": "Steel Belt S(LV4+)",
+        "name": "钢制Ｓ腰带(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4291,7 +4291,7 @@
             "base": 64,
             "max": 64
         },
-        "name": "Steel Belt S(LV5+)",
+        "name": "钢制Ｓ腰带(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4313,7 +4313,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Rathian Tasset(LV1+)",
+        "name": "雌火龙腰甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -4338,7 +4338,7 @@
             "base": 33,
             "max": 54
         },
-        "name": "Rath Heart Tasset(LV1+)",
+        "name": "雌龙心腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4362,7 +4362,7 @@
             "base": 49,
             "max": 54
         },
-        "name": "Rath Heart Tasset(LV4+)",
+        "name": "雌龙心腰甲(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4386,7 +4386,7 @@
             "base": 35,
             "max": 73
         },
-        "name": "Rathian Tasset S(LV1+)",
+        "name": "雌火龙Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4410,7 +4410,7 @@
             "base": 12,
             "max": 20
         },
-        "name": "Rathian Coat(LV1+)",
+        "name": "雌火龙围腰(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -4435,7 +4435,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Rath heart Coat(LV1+)",
+        "name": "雌龙心围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4459,7 +4459,7 @@
             "base": 26,
             "max": 29
         },
-        "name": "Rath heart Coat(LV4+)",
+        "name": "雌龙心围腰(LV4+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4483,7 +4483,7 @@
             "base": 23,
             "max": 40
         },
-        "name": "Rathian Coat S(LV1+)",
+        "name": "雌火龙Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -4507,7 +4507,7 @@
             "base": 26,
             "max": 37
         },
-        "name": "Khezu Tasset(LV1+)",
+        "name": "电龙腰甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -4531,7 +4531,7 @@
             "base": 36,
             "max": 37
         },
-        "name": "Khezu Tasset(LV4+)",
+        "name": "电龙腰甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -4555,7 +4555,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Khezu Tasset U(LV1+)",
+        "name": "电龙Ｕ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4579,7 +4579,7 @@
             "base": 43,
             "max": 51
         },
-        "name": "Khezu Tasset U(LV3+)",
+        "name": "电龙Ｕ腰甲(LV3+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4603,7 +4603,7 @@
             "base": 51,
             "max": 51
         },
-        "name": "Khezu Tasset U(LV5+)",
+        "name": "电龙Ｕ腰甲(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -4627,7 +4627,7 @@
             "base": 37,
             "max": 72
         },
-        "name": "Khezu Tasset S(LV1+)",
+        "name": "电龙Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4651,7 +4651,7 @@
             "base": 45,
             "max": 72
         },
-        "name": "Khezu Tasset S(LV2+)",
+        "name": "电龙Ｓ腰甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4675,7 +4675,7 @@
             "base": 72,
             "max": 72
         },
-        "name": "Khezu Tasset S(LV5+)",
+        "name": "电龙Ｓ腰甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -4699,7 +4699,7 @@
             "base": 13,
             "max": 20
         },
-        "name": "Khezu Coat(LV1+)",
+        "name": "电龙围腰(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -4723,7 +4723,7 @@
             "base": 20,
             "max": 20
         },
-        "name": "Khezu Coat(LV5+)",
+        "name": "电龙围腰(LV5+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -4747,7 +4747,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Khezu Coat U(LV1+)",
+        "name": "电龙Ｕ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4771,7 +4771,7 @@
             "base": 24,
             "max": 29
         },
-        "name": "Khezu Coat U(LV3+)",
+        "name": "电龙Ｕ围腰(LV3+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4795,7 +4795,7 @@
             "base": 29,
             "max": 29
         },
-        "name": "Khezu Coat U(LV5+)",
+        "name": "电龙Ｕ围腰(LV5+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -4819,7 +4819,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Khezu Coat S(LV1+)",
+        "name": "电龙Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4843,7 +4843,7 @@
             "base": 26,
             "max": 41
         },
-        "name": "Khezu Coat S(LV2+)",
+        "name": "电龙Ｓ围腰(LV2+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4867,7 +4867,7 @@
             "base": 41,
             "max": 41
         },
-        "name": "Khezu Coat S(LV5+)",
+        "name": "电龙Ｓ围腰(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -4891,7 +4891,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Rathalos Tasset(LV1+)",
+        "name": "雄火龙腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -4914,7 +4914,7 @@
             "base": 38,
             "max": 42
         },
-        "name": "Rathalos Tasset(LV4+)",
+        "name": "雄火龙腰甲(LV4+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -4937,7 +4937,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Rathalos Tasset(LV5+)",
+        "name": "雄火龙腰甲(LV5+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -4960,7 +4960,7 @@
             "base": 37,
             "max": 54
         },
-        "name": "Rath Soul Tasset(LV1+)",
+        "name": "雄龙魂腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -4983,7 +4983,7 @@
             "base": 46,
             "max": 54
         },
-        "name": "Rath Soul Tasset(LV3+)",
+        "name": "雄龙魂腰甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5006,7 +5006,7 @@
             "base": 39,
             "max": 76
         },
-        "name": "Rathalos Tasset S(LV1+)",
+        "name": "雄火龙Ｓ腰甲(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -5029,7 +5029,7 @@
             "base": 14,
             "max": 24
         },
-        "name": "Rathalos Coat(LV1+)",
+        "name": "雄火龙围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -5052,7 +5052,7 @@
             "base": 19,
             "max": 24
         },
-        "name": "Rathalos Coat(LV3+)",
+        "name": "雄火龙围腰(LV3+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -5075,7 +5075,7 @@
             "base": 24,
             "max": 24
         },
-        "name": "Rathalos Coat(LV5+)",
+        "name": "雄火龙围腰(LV5+)",
         "rarity": 5,
         "resistance": [
             4,
@@ -5098,7 +5098,7 @@
             "base": 19,
             "max": 31
         },
-        "name": "Rath Soul Coat(LV1+)",
+        "name": "雄龙魂围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5121,7 +5121,7 @@
             "base": 31,
             "max": 31
         },
-        "name": "Rath Soul Coat(LV5+)",
+        "name": "雄龙魂围腰(LV5+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -5144,7 +5144,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Rathalos Coat S(LV1+)",
+        "name": "雄火龙Ｓ围腰(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -5167,7 +5167,7 @@
             "base": 17,
             "max": 35
         },
-        "name": "Basarios Tasset(LV1+)",
+        "name": "岩龙腰甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5191,7 +5191,7 @@
             "base": 33,
             "max": 35
         },
-        "name": "Basarios Tasset(LV4+)",
+        "name": "岩龙腰甲(LV4+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5215,7 +5215,7 @@
             "base": 33,
             "max": 54
         },
-        "name": "Basarios Tasset U(LV1+)",
+        "name": "岩龙Ｕ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5239,7 +5239,7 @@
             "base": 44,
             "max": 54
         },
-        "name": "Basarios Tasset U(LV3+)",
+        "name": "岩龙Ｕ腰甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5263,7 +5263,7 @@
             "base": 35,
             "max": 73
         },
-        "name": "Basarios Tasset S(LV1+)",
+        "name": "岩龙Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5287,7 +5287,7 @@
             "base": 39,
             "max": 73
         },
-        "name": "Basarios Tasset S(LV2+)",
+        "name": "岩龙Ｓ腰甲(LV2+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5311,7 +5311,7 @@
             "base": 43,
             "max": 73
         },
-        "name": "Basarios Tasset S(LV3+)",
+        "name": "岩龙Ｓ腰甲(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5335,7 +5335,7 @@
             "base": 10,
             "max": 20
         },
-        "name": "Basarios Coat(LV1+)",
+        "name": "岩龙围腰(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5359,7 +5359,7 @@
             "base": 19,
             "max": 20
         },
-        "name": "Basarios Coat(LV4+)",
+        "name": "岩龙围腰(LV4+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5383,7 +5383,7 @@
             "base": 19,
             "max": 28
         },
-        "name": "Basarios Coat U(LV1+)",
+        "name": "岩龙Ｕ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5407,7 +5407,7 @@
             "base": 26,
             "max": 28
         },
-        "name": "Basarios Coat U(LV3+)",
+        "name": "岩龙Ｕ围腰(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5431,7 +5431,7 @@
             "base": 23,
             "max": 40
         },
-        "name": "Basarios Coat S(LV1+)",
+        "name": "岩龙Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5455,7 +5455,7 @@
             "base": 25,
             "max": 40
         },
-        "name": "Basarios Coat S(LV2+)",
+        "name": "岩龙Ｓ围腰(LV2+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5479,7 +5479,7 @@
             "base": 32,
             "max": 40
         },
-        "name": "Basarios Coat S(LV3+)",
+        "name": "岩龙Ｓ围腰(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5503,7 +5503,7 @@
             "base": 29,
             "max": 43
         },
-        "name": "Diablo Tasset(LV1+)",
+        "name": "角龙扣带(LV1+)",
         "rarity": 3,
         "resistance": [
             3,
@@ -5528,7 +5528,7 @@
             "base": 39,
             "max": 43
         },
-        "name": "Diablo Tasset(LV4+)",
+        "name": "角龙扣带(LV4+)",
         "rarity": 3,
         "resistance": [
             3,
@@ -5553,7 +5553,7 @@
             "base": 43,
             "max": 43
         },
-        "name": "Diablo Tasset(LV5+)",
+        "name": "角龙扣带(LV5+)",
         "rarity": 3,
         "resistance": [
             3,
@@ -5578,7 +5578,7 @@
             "base": 39,
             "max": 57
         },
-        "name": "Diablo Coat U(LV1+)",
+        "name": "角龙Ｕ扣带(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5602,7 +5602,7 @@
             "base": 57,
             "max": 57
         },
-        "name": "Diablo Coat U(LV5+)",
+        "name": "角龙Ｕ扣带(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5626,7 +5626,7 @@
             "base": 41,
             "max": 81
         },
-        "name": "Diablo Coat S(LV1+)",
+        "name": "角龙Ｓ扣带(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5649,7 +5649,7 @@
             "base": 49,
             "max": 81
         },
-        "name": "Diablo Coat S(LV3+)",
+        "name": "角龙Ｓ扣带(LV3+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -5672,7 +5672,7 @@
             "base": 15,
             "max": 23
         },
-        "name": "Diablo Coat(LV1+)",
+        "name": "角龙围腰(LV1+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -5697,7 +5697,7 @@
             "base": 19,
             "max": 23
         },
-        "name": "Diablo Coat(LV3+)",
+        "name": "角龙围腰(LV3+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -5722,7 +5722,7 @@
             "base": 23,
             "max": 23
         },
-        "name": "Diablo Coat(LV5+)",
+        "name": "角龙围腰(LV5+)",
         "rarity": 3,
         "resistance": [
             5,
@@ -5747,7 +5747,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Diablo Coat U(LV1+)",
+        "name": "角龙Ｕ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5771,7 +5771,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Diablo Coat U(LV5+)",
+        "name": "角龙Ｕ围腰(LV5+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5795,7 +5795,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Diablo Coat S(LV1+)",
+        "name": "角龙Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5818,7 +5818,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Diablo Coat S(LV3+)",
+        "name": "角龙Ｓ围腰(LV3+)",
         "rarity": 6,
         "resistance": [
             5,
@@ -5841,7 +5841,7 @@
             "base": 30,
             "max": 44
         },
-        "name": "Monoblos Tasset(LV1+)",
+        "name": "一角龙扣带(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5864,7 +5864,7 @@
             "base": 40,
             "max": 44
         },
-        "name": "Monoblos Tasset(LV4+)",
+        "name": "一角龙扣带(LV4+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -5887,7 +5887,7 @@
             "base": 40,
             "max": 58
         },
-        "name": "Monodevil Tasset(LV1+)",
+        "name": "一角魔扣带(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5911,7 +5911,7 @@
             "base": 49,
             "max": 58
         },
-        "name": "Monodevil Tasset(LV3+)",
+        "name": "一角魔扣带(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5935,7 +5935,7 @@
             "base": 58,
             "max": 58
         },
-        "name": "Monodevil Tasset(LV5+)",
+        "name": "一角魔扣带(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5959,7 +5959,7 @@
             "base": 42,
             "max": 82
         },
-        "name": "Monoblos Tasset S(LV1+)",
+        "name": "一角龙Ｓ扣带(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -5983,7 +5983,7 @@
             "base": 67,
             "max": 82
         },
-        "name": "Monoblos Tasset S(LV3+)",
+        "name": "一角龙Ｓ扣带(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6007,7 +6007,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Monoblos Coat(LV1+)",
+        "name": "一角龙围腰(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -6030,7 +6030,7 @@
             "base": 22,
             "max": 25
         },
-        "name": "Monoblos Coat(LV4+)",
+        "name": "一角龙围腰(LV4+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -6053,7 +6053,7 @@
             "base": 21,
             "max": 33
         },
-        "name": "Monodevil Coat(LV1+)",
+        "name": "一角魔围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6077,7 +6077,7 @@
             "base": 27,
             "max": 33
         },
-        "name": "Monodevil Coat(LV3+)",
+        "name": "一角魔围腰(LV3+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6101,7 +6101,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "monoblos Coat S(LV1+)",
+        "name": "一角龙Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6126,7 +6126,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "monoblos Coat S(LV3+)",
+        "name": "一角龙Ｓ围腰(LV3+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6151,7 +6151,7 @@
             "base": 30,
             "max": 49
         },
-        "name": "Gravios Tasset(LV1+)",
+        "name": "铠龙腰甲(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -6174,7 +6174,7 @@
             "base": 32,
             "max": 49
         },
-        "name": "Gravios Tasset(LV2+)",
+        "name": "铠龙腰甲(LV2+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -6197,7 +6197,7 @@
             "base": 44,
             "max": 49
         },
-        "name": "Gravios Tasset(LV4+)",
+        "name": "铠龙腰甲(LV4+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -6220,7 +6220,7 @@
             "base": 41,
             "max": 61
         },
-        "name": "Gravios Tasset U(LV1+)",
+        "name": "铠龙Ｕ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6244,7 +6244,7 @@
             "base": 46,
             "max": 61
         },
-        "name": "Gravios Tasset U(LV2+)",
+        "name": "铠龙Ｕ腰甲(LV2+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6268,7 +6268,7 @@
             "base": 56,
             "max": 61
         },
-        "name": "Gravios Tasset U(LV4+)",
+        "name": "铠龙Ｕ腰甲(LV4+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6292,7 +6292,7 @@
             "base": 42,
             "max": 82
         },
-        "name": "Gravios Tasset S(LV1+)",
+        "name": "铠龙Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6316,7 +6316,7 @@
             "base": 15,
             "max": 25
         },
-        "name": "Gravios Coat(LV1+)",
+        "name": "铠龙围腰(LV1+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -6339,7 +6339,7 @@
             "base": 16,
             "max": 25
         },
-        "name": "Gravios Coat(LV2+)",
+        "name": "铠龙围腰(LV2+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -6362,7 +6362,7 @@
             "base": 22,
             "max": 25
         },
-        "name": "Gravios Coat(LV4+)",
+        "name": "铠龙围腰(LV4+)",
         "rarity": 3,
         "resistance": [
             4,
@@ -6385,7 +6385,7 @@
             "base": 22,
             "max": 34
         },
-        "name": "Gravios Coat U(LV1+)",
+        "name": "铠龙Ｕ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6409,7 +6409,7 @@
             "base": 25,
             "max": 34
         },
-        "name": "Gravios Coat U(LV2+)",
+        "name": "铠龙Ｕ围腰(LV2+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6433,7 +6433,7 @@
             "base": 28,
             "max": 34
         },
-        "name": "Gravios Coat U(LV3+)",
+        "name": "铠龙Ｕ围腰(LV3+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6457,7 +6457,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Gravios Coat S(LV1+)",
+        "name": "铠龙Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             4,
@@ -6480,7 +6480,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Black Belt Tasset(LV1+)",
+        "name": "黑带腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6501,7 +6501,7 @@
             "base": 25,
             "max": 37
         },
-        "name": "Black Belt Tasset S(LV1+)",
+        "name": "黑带Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -6523,7 +6523,7 @@
             "base": 34,
             "max": 37
         },
-        "name": "Black Belt Tasset S(LV4+)",
+        "name": "黑带Ｓ腰甲(LV4+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -6545,7 +6545,7 @@
             "base": 3,
             "max": 8
         },
-        "name": "Mosswine Hip(LV1+)",
+        "name": "苔猪臀(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -6568,7 +6568,7 @@
             "base": 5,
             "max": 8
         },
-        "name": "Mosswine Hip(LV3+)",
+        "name": "苔猪臀(LV3+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -6591,7 +6591,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Makluva Coat(LV1+)",
+        "name": "花瓣腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -6614,7 +6614,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Makluva Coat(LV3+)",
+        "name": "花瓣腰甲(LV3+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -6637,7 +6637,7 @@
             "base": 12,
             "max": 24
         },
-        "name": "Bistro Apron(LV1+)",
+        "name": "餐馆围裙(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6660,7 +6660,7 @@
             "base": 16,
             "max": 24
         },
-        "name": "Bistro Apron(LV3+)",
+        "name": "餐馆围裙(LV3+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -6683,7 +6683,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Shinobi Belt \"Sun\"(LV1+)",
+        "name": "忍之带・阳(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6706,7 +6706,7 @@
             "base": 22,
             "max": 33
         },
-        "name": "Shinobi Belt \"Sun\"(LV3+)",
+        "name": "忍之带・阳(LV3+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6729,7 +6729,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Shinobi Belt \"Sky\"(LV1+)",
+        "name": "忍之带・空(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6752,7 +6752,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Shinobi Belt \"Heaven\"(LV1+)",
+        "name": "忍之带・天(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6776,7 +6776,7 @@
             "base": 33,
             "max": 41
         },
-        "name": "Shinobi Belt \"Heaven\"(LV3+)",
+        "name": "忍之带・天(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -6800,7 +6800,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Shinobi Belt \"Moon\"(LV1+)",
+        "name": "忍之带・阴(LV1+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -6823,7 +6823,7 @@
             "base": 22,
             "max": 33
         },
-        "name": "Shinobi Belt \"Moon\"(LV3+)",
+        "name": "忍之带・阴(LV3+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -6846,7 +6846,7 @@
             "base": 33,
             "max": 33
         },
-        "name": "Shinobi Belt \"Moon\"(LV5+)",
+        "name": "忍之带・阴(LV5+)",
         "rarity": 4,
         "resistance": [
             2,
@@ -6869,7 +6869,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Shinobi Belt \"Sea\"(LV1+)",
+        "name": "忍之带・海(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6893,7 +6893,7 @@
             "base": 32,
             "max": 32
         },
-        "name": "Shinobi Belt \"Sea\"(LV5+)",
+        "name": "忍之带・海(LV5+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6917,7 +6917,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Shinobi Belt \"Earth\"(LV1+)",
+        "name": "忍之带・地(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6941,7 +6941,7 @@
             "base": 33,
             "max": 41
         },
-        "name": "Shinobi Belt \"Earth\"(LV3+)",
+        "name": "忍之带・地(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -6965,7 +6965,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Guardian Coil(LV1+)",
+        "name": "守卫者扣带(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -6989,7 +6989,7 @@
             "base": 28,
             "max": 30
         },
-        "name": "Guardian Coil(LV4+)",
+        "name": "守卫者扣带(LV4+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7013,7 +7013,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Guardian Coil(LV5+)",
+        "name": "守卫者扣带(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7037,7 +7037,7 @@
             "base": 21,
             "max": 36
         },
-        "name": "Guardian Coil U(LV1+)",
+        "name": "守卫者Ｕ扣带(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7061,7 +7061,7 @@
             "base": 32,
             "max": 36
         },
-        "name": "Guardian Coil U(LV4+)",
+        "name": "守卫者Ｕ扣带(LV4+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7085,7 +7085,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Guardian Coil U(LV5+)",
+        "name": "守卫者Ｕ扣带(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7109,7 +7109,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Red Guild Guard Coil(LV1+)",
+        "name": "公会卫队扣带红(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7132,7 +7132,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Red Guild Guard Coil(LV3+)",
+        "name": "公会卫队扣带红(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7155,7 +7155,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Blue Guild Guard Coil(LV1+)",
+        "name": "公会卫队扣带苍(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7178,7 +7178,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Blue Guild Guard Coil(LV5+)",
+        "name": "公会卫队扣带苍(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7201,7 +7201,7 @@
             "base": 15,
             "max": 30
         },
-        "name": "Guardian Coat(LV1+)",
+        "name": "守卫者围腰(LV1+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7225,7 +7225,7 @@
             "base": 28,
             "max": 30
         },
-        "name": "Guardian Coat(LV4+)",
+        "name": "守卫者围腰(LV4+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7249,7 +7249,7 @@
             "base": 30,
             "max": 30
         },
-        "name": "Guardian Coat(LV5+)",
+        "name": "守卫者围腰(LV5+)",
         "rarity": 4,
         "resistance": [
             0,
@@ -7273,7 +7273,7 @@
             "base": 21,
             "max": 36
         },
-        "name": "Guardian Coat U(LV1+)",
+        "name": "守卫者Ｕ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7297,7 +7297,7 @@
             "base": 32,
             "max": 36
         },
-        "name": "Guardian Coat U(LV4+)",
+        "name": "守卫者Ｕ围腰(LV4+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7321,7 +7321,7 @@
             "base": 36,
             "max": 36
         },
-        "name": "Guardian Coat U(LV5+)",
+        "name": "守卫者Ｕ围腰(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7345,7 +7345,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Red Guild Guard Coat(LV1+)",
+        "name": "公会卫队围腰红(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7369,7 +7369,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Red Guild Guard Coat(LV3+)",
+        "name": "公会卫队围腰红(LV3+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7393,7 +7393,7 @@
             "base": 25,
             "max": 39
         },
-        "name": "Blue Guild Guard Coat(LV1+)",
+        "name": "公会卫队围腰苍(LV1+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7416,7 +7416,7 @@
             "base": 39,
             "max": 39
         },
-        "name": "Blue Guild Guard Coat(LV5+)",
+        "name": "公会卫队围腰苍(LV5+)",
         "rarity": 6,
         "resistance": [
             0,
@@ -7439,7 +7439,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Garuga Tasset(LV1+)",
+        "name": "黑狼鸟腰甲(LV1+)",
         "rarity": 5,
         "resistance": [
             2,
@@ -7463,7 +7463,7 @@
             "base": 12,
             "max": 25
         },
-        "name": "Garuga Coat(LV1+)",
+        "name": "黑狼鸟围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             3,
@@ -7488,7 +7488,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Auroros Tasset(LV1+)",
+        "name": "晓丸【腰当】(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -7512,7 +7512,7 @@
             "base": 51,
             "max": 51
         },
-        "name": "Auroros Tasset(LV5+)",
+        "name": "晓丸【腰当】(LV5+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -7536,7 +7536,7 @@
             "base": 43,
             "max": 63
         },
-        "name": "Auroros Tasset Mai(LV1+)",
+        "name": "晓丸・皇【腰当】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7559,7 +7559,7 @@
             "base": 63,
             "max": 63
         },
-        "name": "Auroros Tasset Mai(LV5+)",
+        "name": "晓丸・皇【腰当】(LV5+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7582,7 +7582,7 @@
             "base": 44,
             "max": 84
         },
-        "name": "Auroros Tasset Ha(LV1+)",
+        "name": "晓丸・霸【腰当】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7606,7 +7606,7 @@
             "base": 69,
             "max": 84
         },
-        "name": "Auroros Tasset Ha(LV3+)",
+        "name": "晓丸・霸【腰当】(LV3+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -7630,7 +7630,7 @@
             "base": 18,
             "max": 26
         },
-        "name": "Genesis Tasset(LV1+)",
+        "name": "曙丸【腰当】(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -7654,7 +7654,7 @@
             "base": 26,
             "max": 26
         },
-        "name": "Genesis Tasset(LV5+)",
+        "name": "曙丸【腰当】(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -7678,7 +7678,7 @@
             "base": 22,
             "max": 34
         },
-        "name": "Genesis Tasset Mai(LV1+)",
+        "name": "曙丸・皇【腰当】(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7702,7 +7702,7 @@
             "base": 29,
             "max": 43
         },
-        "name": "Genesis Tasset Ha(LV1+)",
+        "name": "曙丸・霸【腰当】(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7725,7 +7725,7 @@
             "base": 36,
             "max": 43
         },
-        "name": "Genesis Tasset Ha(LV3+)",
+        "name": "曙丸・霸【腰当】(LV3+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -7748,7 +7748,7 @@
             "base": 38,
             "max": 56
         },
-        "name": "Dragonwing(LV1+)",
+        "name": "邪龍之翼(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7771,7 +7771,7 @@
             "base": 47,
             "max": 56
         },
-        "name": "Dragonwing(LV3+)",
+        "name": "邪龍之翼(LV3+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7794,7 +7794,7 @@
             "base": 48,
             "max": 70
         },
-        "name": "Fatalis Crimsonwing(LV1+)",
+        "name": "魔龍之翼(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7816,7 +7816,7 @@
             "base": 48,
             "max": 93
         },
-        "name": "Dragonwing S(LV1+)",
+        "name": "邪龍Ｓ之翼(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7839,7 +7839,7 @@
             "base": 93,
             "max": 93
         },
-        "name": "Dragonwing S(LV5+)",
+        "name": "邪龍Ｓ之翼(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -7862,7 +7862,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Dragontail(LV1+)",
+        "name": "邪龍之尾(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7886,7 +7886,7 @@
             "base": 23,
             "max": 35
         },
-        "name": "Fatalis Crimsontail(LV1+)",
+        "name": "魔龍之尾(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7909,7 +7909,7 @@
             "base": 29,
             "max": 48
         },
-        "name": "Dragontail S(LV1+)",
+        "name": "邪龍Ｓ之尾(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7932,7 +7932,7 @@
             "base": 50,
             "max": 82
         },
-        "name": "Golden Moon Coil(LV1+)",
+        "name": "金月扣带(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -7955,7 +7955,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Golden Moon Coat(LV1+)",
+        "name": "金月围腰(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -7978,7 +7978,7 @@
             "base": 53,
             "max": 85
         },
-        "name": "Silver Sol Coil(LV1+)",
+        "name": "银日扣带(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8002,7 +8002,7 @@
             "base": 70,
             "max": 85
         },
-        "name": "Silver Sol Coil(LV3+)",
+        "name": "银日扣带(LV3+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -8026,7 +8026,7 @@
             "base": 28,
             "max": 42
         },
-        "name": "Silver Sol Coat(LV1+)",
+        "name": "银日围腰(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -8049,7 +8049,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Silver Sol Coat(LV5+)",
+        "name": "银日围腰(LV5+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -8072,7 +8072,7 @@
             "base": 16,
             "max": 32
         },
-        "name": "Hermitaur Tasset(LV1+)",
+        "name": "盾蟹腰甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8095,7 +8095,7 @@
             "base": 20,
             "max": 32
         },
-        "name": "Hermitaur Tasset(LV2+)",
+        "name": "盾蟹腰甲(LV2+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8118,7 +8118,7 @@
             "base": 30,
             "max": 32
         },
-        "name": "Hermitaur Tasset(LV4+)",
+        "name": "盾蟹腰甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8141,7 +8141,7 @@
             "base": 28,
             "max": 47
         },
-        "name": "Hermitaur Tasset U(LV1+)",
+        "name": "盾蟹Ｕ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8165,7 +8165,7 @@
             "base": 47,
             "max": 47
         },
-        "name": "Hermitaur Tasset U(LV5+)",
+        "name": "盾蟹Ｕ腰甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8189,7 +8189,7 @@
             "base": 31,
             "max": 68
         },
-        "name": "Hermitaur Tasset S(LV1+)",
+        "name": "盾蟹Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8213,7 +8213,7 @@
             "base": 38,
             "max": 68
         },
-        "name": "Hermitaur Tasset S(LV2+)",
+        "name": "盾蟹Ｓ腰甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8237,7 +8237,7 @@
             "base": 68,
             "max": 68
         },
-        "name": "Hermitaur Tasset S(LV5+)",
+        "name": "盾蟹Ｓ腰甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8261,7 +8261,7 @@
             "base": 10,
             "max": 18
         },
-        "name": "Hermitaur Coat(LV1+)",
+        "name": "盾蟹围腰(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8284,7 +8284,7 @@
             "base": 11,
             "max": 18
         },
-        "name": "Hermitaur Coat(LV2+)",
+        "name": "盾蟹围腰(LV2+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8307,7 +8307,7 @@
             "base": 16,
             "max": 18
         },
-        "name": "Hermitaur Coat(LV4+)",
+        "name": "盾蟹围腰(LV4+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8330,7 +8330,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Hermitaur Coat U(LV1+)",
+        "name": "盾蟹Ｕ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8354,7 +8354,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Hermitaur Coat U(LV5+)",
+        "name": "盾蟹Ｕ围腰(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8378,7 +8378,7 @@
             "base": 19,
             "max": 37
         },
-        "name": "Hermitaur Coat S(LV1+)",
+        "name": "盾蟹Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8402,7 +8402,7 @@
             "base": 17,
             "max": 35
         },
-        "name": "Conga Tasset(LV1+)",
+        "name": "桃毛腰甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8425,7 +8425,7 @@
             "base": 33,
             "max": 35
         },
-        "name": "Conga Tasset(LV4+)",
+        "name": "桃毛腰甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8448,7 +8448,7 @@
             "base": 35,
             "max": 35
         },
-        "name": "Conga Tasset(LV5+)",
+        "name": "桃毛腰甲(LV5+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8471,7 +8471,7 @@
             "base": 32,
             "max": 48
         },
-        "name": "Conga Tasset U(LV1+)",
+        "name": "桃毛Ｕ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8495,7 +8495,7 @@
             "base": 35,
             "max": 68
         },
-        "name": "Conga Tasset S(LV1+)",
+        "name": "桃毛Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8519,7 +8519,7 @@
             "base": 55,
             "max": 68
         },
-        "name": "Conga Tasset S(LV3+)",
+        "name": "桃毛Ｓ腰甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8543,7 +8543,7 @@
             "base": 11,
             "max": 19
         },
-        "name": "Conga Coat(LV1+)",
+        "name": "桃毛围腰(LV1+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8566,7 +8566,7 @@
             "base": 17,
             "max": 19
         },
-        "name": "Conga Coat(LV4+)",
+        "name": "桃毛围腰(LV4+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8589,7 +8589,7 @@
             "base": 19,
             "max": 19
         },
-        "name": "Conga Coat(LV5+)",
+        "name": "桃毛围腰(LV5+)",
         "rarity": 3,
         "resistance": [
             -1,
@@ -8612,7 +8612,7 @@
             "base": 18,
             "max": 28
         },
-        "name": "Conga Coat U(LV1+)",
+        "name": "桃毛Ｕ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8636,7 +8636,7 @@
             "base": 22,
             "max": 37
         },
-        "name": "Conga Coat S(LV1+)",
+        "name": "桃毛Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8659,7 +8659,7 @@
             "base": 30,
             "max": 37
         },
-        "name": "Conga Coat S(LV3+)",
+        "name": "桃毛Ｓ围腰(LV3+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8682,7 +8682,7 @@
             "base": 37,
             "max": 37
         },
-        "name": "Conga Coat S(LV5+)",
+        "name": "桃毛Ｓ围腰(LV5+)",
         "rarity": 6,
         "resistance": [
             -1,
@@ -8705,7 +8705,7 @@
             "base": 21,
             "max": 42
         },
-        "name": "Blango Tasset(LV1+)",
+        "name": "雪狮腰甲(LV1+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -8729,7 +8729,7 @@
             "base": 40,
             "max": 42
         },
-        "name": "Blango Tasset(LV4+)",
+        "name": "雪狮腰甲(LV4+)",
         "rarity": 3,
         "resistance": [
             -4,
@@ -8753,7 +8753,7 @@
             "base": 35,
             "max": 51
         },
-        "name": "Blango Tasset U(LV1+)",
+        "name": "雪狮Ｕ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -8777,7 +8777,7 @@
             "base": 39,
             "max": 51
         },
-        "name": "Blango Tasset U(LV2+)",
+        "name": "雪狮Ｕ腰甲(LV2+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -8801,7 +8801,7 @@
             "base": 47,
             "max": 51
         },
-        "name": "Blango Tasset U(LV4+)",
+        "name": "雪狮Ｕ腰甲(LV4+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -8825,7 +8825,7 @@
             "base": 37,
             "max": 72
         },
-        "name": "Blango Tasset S(LV1+)",
+        "name": "雪狮Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -8848,7 +8848,7 @@
             "base": 59,
             "max": 72
         },
-        "name": "Blango Tasset S(LV3+)",
+        "name": "雪狮Ｓ腰甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -8871,7 +8871,7 @@
             "base": 12,
             "max": 21
         },
-        "name": "Blango Coat(LV1+)",
+        "name": "雪狮围腰(LV1+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8895,7 +8895,7 @@
             "base": 19,
             "max": 21
         },
-        "name": "Blango Coat(LV4+)",
+        "name": "雪狮围腰(LV4+)",
         "rarity": 3,
         "resistance": [
             -3,
@@ -8919,7 +8919,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Blango Coat U(LV1+)",
+        "name": "雪狮Ｕ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8943,7 +8943,7 @@
             "base": 21,
             "max": 29
         },
-        "name": "Blango Coat U(LV2+)",
+        "name": "雪狮Ｕ围腰(LV2+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8967,7 +8967,7 @@
             "base": 26,
             "max": 29
         },
-        "name": "Blango Coat U(LV4+)",
+        "name": "雪狮Ｕ围腰(LV4+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -8991,7 +8991,7 @@
             "base": 26,
             "max": 38
         },
-        "name": "Blango Coat S(LV1+)",
+        "name": "雪狮Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -9015,7 +9015,7 @@
             "base": 32,
             "max": 38
         },
-        "name": "Blango Coat S(LV3+)",
+        "name": "雪狮Ｓ围腰(LV3+)",
         "rarity": 6,
         "resistance": [
             -3,
@@ -9039,7 +9039,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Ceanataur Tasset(LV1+)",
+        "name": "镰蟹腰甲(LV1+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -9064,7 +9064,7 @@
             "base": 42,
             "max": 42
         },
-        "name": "Ceanataur Tasset(LV5+)",
+        "name": "镰蟹腰甲(LV5+)",
         "rarity": 3,
         "resistance": [
             1,
@@ -9089,7 +9089,7 @@
             "base": 36,
             "max": 52
         },
-        "name": "Ceanataur Tasset U(LV1+)",
+        "name": "镰蟹Ｕ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -9114,7 +9114,7 @@
             "base": 38,
             "max": 73
         },
-        "name": "Ceanataur Tasset S(LV1+)",
+        "name": "镰蟹Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -9137,7 +9137,7 @@
             "base": 60,
             "max": 73
         },
-        "name": "Ceanataur Tasset S(LV3+)",
+        "name": "镰蟹Ｓ腰甲(LV3+)",
         "rarity": 6,
         "resistance": [
             1,
@@ -9160,7 +9160,7 @@
             "base": 14,
             "max": 22
         },
-        "name": "Ceanataur Coat(LV1+)",
+        "name": "镰蟹围腰(LV1+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -9183,7 +9183,7 @@
             "base": 21,
             "max": 22
         },
-        "name": "Ceanataur Coat(LV4+)",
+        "name": "镰蟹围腰(LV4+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -9206,7 +9206,7 @@
             "base": 22,
             "max": 22
         },
-        "name": "Ceanataur Coat(LV5+)",
+        "name": "镰蟹围腰(LV5+)",
         "rarity": 3,
         "resistance": [
             2,
@@ -9229,7 +9229,7 @@
             "base": 20,
             "max": 30
         },
-        "name": "Ceanataur Coat U(LV1+)",
+        "name": "镰蟹Ｕ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9254,7 +9254,7 @@
             "base": 27,
             "max": 39
         },
-        "name": "Ceanataur Coat S(LV1+)",
+        "name": "镰蟹Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9278,7 +9278,7 @@
             "base": 33,
             "max": 39
         },
-        "name": "Ceanataur Coat S(LV3+)",
+        "name": "镰蟹Ｓ围腰(LV3+)",
         "rarity": 6,
         "resistance": [
             2,
@@ -9302,7 +9302,7 @@
             "base": 34,
             "max": 50
         },
-        "name": "Kirin Hoop(LV1+)",
+        "name": "麒麟裙箍(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9326,7 +9326,7 @@
             "base": 46,
             "max": 50
         },
-        "name": "Kirin Hoop(LV4+)",
+        "name": "麒麟裙箍(LV4+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9350,7 +9350,7 @@
             "base": 50,
             "max": 50
         },
-        "name": "Kirin Hoop(LV5+)",
+        "name": "麒麟裙箍(LV5+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -9374,7 +9374,7 @@
             "base": 43,
             "max": 84
         },
-        "name": "Kirin Hoop S(LV1+)",
+        "name": "麒麟Ｓ裙箍(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9397,7 +9397,7 @@
             "base": 51,
             "max": 84
         },
-        "name": "Kirin Hoop S(LV3+)",
+        "name": "麒麟Ｓ裙箍(LV3+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9420,7 +9420,7 @@
             "base": 84,
             "max": 84
         },
-        "name": "Kirin Hoop S(LV5+)",
+        "name": "麒麟Ｓ裙箍(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9443,7 +9443,7 @@
             "base": 16,
             "max": 28
         },
-        "name": "Kirin Skirt(LV1+)",
+        "name": "麒麟饰裙(LV1+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -9467,7 +9467,7 @@
             "base": 25,
             "max": 28
         },
-        "name": "Kirin Skirt(LV4+)",
+        "name": "麒麟饰裙(LV4+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -9491,7 +9491,7 @@
             "base": 28,
             "max": 28
         },
-        "name": "Kirin Skirt(LV5+)",
+        "name": "麒麟饰裙(LV5+)",
         "rarity": 5,
         "resistance": [
             1,
@@ -9515,7 +9515,7 @@
             "base": 26,
             "max": 43
         },
-        "name": "Kirin Skirt S(LV1+)",
+        "name": "麒麟Ｓ饰裙(LV1+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -9538,7 +9538,7 @@
             "base": 35,
             "max": 43
         },
-        "name": "Kirin Skirt S(LV3+)",
+        "name": "麒麟Ｓ饰裙(LV3+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -9561,7 +9561,7 @@
             "base": 43,
             "max": 43
         },
-        "name": "Kirin Skirt S(LV5+)",
+        "name": "麒麟Ｓ饰裙(LV5+)",
         "rarity": 7,
         "resistance": [
             1,
@@ -9584,7 +9584,7 @@
             "base": 39,
             "max": 83
         },
-        "name": "Kushala Cocoon(LV1+)",
+        "name": "乞沙拏腰甲(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9608,7 +9608,7 @@
             "base": 83,
             "max": 83
         },
-        "name": "Kushala Cocoon(LV5+)",
+        "name": "乞沙拏腰甲(LV5+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9632,7 +9632,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Kushala Wind Wrap(LV1+)",
+        "name": "乞沙拏甲裙(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -9656,7 +9656,7 @@
             "base": 41,
             "max": 41
         },
-        "name": "Kushala Wind Wrap(LV5+)",
+        "name": "乞沙拏甲裙(LV5+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -9680,7 +9680,7 @@
             "base": 40,
             "max": 77
         },
-        "name": "Mizuha Sash(LV1+)",
+        "name": "弥都波【丸带】(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -9704,7 +9704,7 @@
             "base": 63,
             "max": 77
         },
-        "name": "Mizuha Sash(LV3+)",
+        "name": "弥都波【丸带】(LV3+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -9728,7 +9728,7 @@
             "base": 25,
             "max": 42
         },
-        "name": "Extravagant Sash(LV1+)",
+        "name": "丰玉【丸带】(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -9752,7 +9752,7 @@
             "base": 34,
             "max": 42
         },
-        "name": "Extravagant Sash(LV3+)",
+        "name": "丰玉【丸带】(LV3+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -9776,7 +9776,7 @@
             "base": 43,
             "max": 83
         },
-        "name": "Empress Tasset(LV1+)",
+        "name": "女帝腰甲(LV1+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -9800,7 +9800,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Empress Coat(LV1+)",
+        "name": "女帝围腰(LV1+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -9824,7 +9824,7 @@
             "base": 42,
             "max": 89
         },
-        "name": "Indra Tasset(LV1+)",
+        "name": "金刚【腰当】(LV1+)",
         "rarity": 7,
         "resistance": [
             -2,
@@ -9848,7 +9848,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Steadfast Coat(LV1+)",
+        "name": "不动【腰当】(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -9872,7 +9872,7 @@
             "base": 43,
             "max": 90
         },
-        "name": "Kaiser Tasset(LV1+)",
+        "name": "凯撒腰甲(LV1+)",
         "rarity": 7,
         "resistance": [
             5,
@@ -9895,7 +9895,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Kaiser Coat(LV1+)",
+        "name": "凯撒围腰(LV1+)",
         "rarity": 7,
         "resistance": [
             6,
@@ -9919,7 +9919,7 @@
             "base": 44,
             "max": 93
         },
-        "name": "Guardian Spirit Tasset(LV1+)",
+        "name": "夜叉【腰卷】(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -9943,7 +9943,7 @@
             "base": 27,
             "max": 46
         },
-        "name": "Carnage Coat(LV1+)",
+        "name": "修罗【腰卷】(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -9967,7 +9967,7 @@
             "base": 51,
             "max": 75
         },
-        "name": "Golden Belt(LV1+)",
+        "name": "金色之带(LV1+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -9990,7 +9990,7 @@
             "base": 63,
             "max": 75
         },
-        "name": "Golden Belt(LV3+)",
+        "name": "金色之带(LV3+)",
         "rarity": 7,
         "resistance": [
             3,
@@ -10013,7 +10013,7 @@
             "base": 26,
             "max": 38
         },
-        "name": "Puppet Master Belt(LV1+)",
+        "name": "黑子之带(LV1+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -10036,7 +10036,7 @@
             "base": 32,
             "max": 38
         },
-        "name": "Puppet Master Belt(LV3+)",
+        "name": "黑子之带(LV3+)",
         "rarity": 7,
         "resistance": [
             4,
@@ -10059,7 +10059,7 @@
             "base": 59,
             "max": 95
         },
-        "name": "White Fatalis Wing(LV1+)",
+        "name": "祖龍之翼(LV1+)",
         "rarity": 7,
         "resistance": [
             0,
@@ -10083,7 +10083,7 @@
             "base": 32,
             "max": 48
         },
-        "name": "White Fatalis Tail(LV1+)",
+        "name": "祖龍之尾(LV1+)",
         "rarity": 7,
         "resistance": [
             2,
@@ -10107,7 +10107,7 @@
             "base": 38,
             "max": 72
         },
-        "name": "Plesioth Tasset S(LV1+)",
+        "name": "水龙Ｓ腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -10130,7 +10130,7 @@
             "base": 44,
             "max": 72
         },
-        "name": "Plesioth Tasset S(LV3+)",
+        "name": "水龙Ｓ腰甲(LV3+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -10153,7 +10153,7 @@
             "base": 72,
             "max": 72
         },
-        "name": "Plesioth Tasset S(LV5+)",
+        "name": "水龙Ｓ腰甲(LV5+)",
         "rarity": 6,
         "resistance": [
             -4,
@@ -10176,7 +10176,7 @@
             "base": 24,
             "max": 41
         },
-        "name": "Plesioth Coat S(LV1+)",
+        "name": "水龙Ｓ围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -10199,7 +10199,7 @@
             "base": 26,
             "max": 41
         },
-        "name": "Plesioth Coat S(LV2+)",
+        "name": "水龙Ｓ围腰(LV2+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -10222,7 +10222,7 @@
             "base": 41,
             "max": 41
         },
-        "name": "Plesioth Coat S(LV5+)",
+        "name": "水龙Ｓ围腰(LV5+)",
         "rarity": 6,
         "resistance": [
             -2,
@@ -10245,7 +10245,7 @@
             "base": 13,
             "max": 34
         },
-        "name": "Remobra Belt(LV1+)",
+        "name": "蛇龙腰带(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10269,7 +10269,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Guild Knight Coat(LV1+)",
+        "name": "公会骑士扣带(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10292,7 +10292,7 @@
             "base": 15,
             "max": 33
         },
-        "name": "Guild Knight Kilt(LV1+)",
+        "name": "公会骑士甲裙(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10315,7 +10315,7 @@
             "base": 18,
             "max": 36
         },
-        "name": "Lobster Tasset(LV1+)",
+        "name": "帝王龙虾扣带(LV1+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -10338,7 +10338,7 @@
             "base": 34,
             "max": 36
         },
-        "name": "Lobster Tasset(LV4+)",
+        "name": "帝王龙虾扣带(LV4+)",
         "rarity": 5,
         "resistance": [
             -2,
@@ -10361,7 +10361,7 @@
             "base": 33,
             "max": 50
         },
-        "name": "Amethyst Tasset(LV1+)",
+        "name": "美国螯虾腰甲(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -10385,7 +10385,7 @@
             "base": 34,
             "max": 50
         },
-        "name": "Amethyst Tasset(LV2+)",
+        "name": "美国螯虾腰甲(LV2+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -10409,7 +10409,7 @@
             "base": 50,
             "max": 50
         },
-        "name": "Amethyst Tasset(LV5+)",
+        "name": "美国螯虾腰甲(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -10433,7 +10433,7 @@
             "base": 11,
             "max": 19
         },
-        "name": "Lobster Coat(LV1+)",
+        "name": "帝王龙虾围腰(LV1+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10456,7 +10456,7 @@
             "base": 17,
             "max": 19
         },
-        "name": "Lobster Coat(LV4+)",
+        "name": "帝王龙虾围腰(LV4+)",
         "rarity": 5,
         "resistance": [
             0,
@@ -10479,7 +10479,7 @@
             "base": 19,
             "max": 29
         },
-        "name": "Amethyst Coat(LV1+)",
+        "name": "美国螯虾围腰(LV1+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -10503,7 +10503,7 @@
             "base": 21,
             "max": 29
         },
-        "name": "Amethyst Coat(LV2+)",
+        "name": "美国螯虾围腰(LV2+)",
         "rarity": 6,
         "resistance": [
             3,
@@ -10527,7 +10527,7 @@
             "base": 29,
             "max": 29
         },
-        "name": "Amethyst Coat(LV5+)",
+        "name": "美国螯虾围腰(LV5+)",
         "rarity": 6,
         "resistance": [
             3,
